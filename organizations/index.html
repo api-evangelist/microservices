@@ -1,0 +1,65 @@
+---
+layout: page
+title: 'Microservice Organizations'
+---
+
+<h3>{{ site.title }} Organizations</h3>
+<p>{{ site.org_desc }}</p>
+
+<center>
+<table width="85%" border="0" cellpadding="3" cellspacing="2">
+  {% for org in site.data.organizations %}
+  <tr>
+    <td align="center" width="15%" style="border-top: 1px solid #CCC; padding-top:18px; padding-bottom:18px;">
+      <a href="{{ org.website }}"><img src="{{ org.logo }}" width="90%" align="center" /></a>
+    </td>
+    <td align="left" width="55%" style="border-top: 1px solid #CCC; padding-top:18px; padding-bottom:18px;">
+      <a href="{{ org.website }}" style="color: #000;"><strong>{{ org.name }}</strong></a>
+    </td>
+    <td align="center" style="border-top: 1px solid #CCC;">
+      <a href="{{ org.website }}" target="_blank" title="Website">
+        <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg" width="40" align="center" />
+      </a>
+    </td>
+    <td align="center" style="border-top: 1px solid #CCC;">
+      {% if org.portal_url != empty %}
+        <a href="{{ org.portal_url }}" target="_blank" title="Portal">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-portal-developers.jpg" width="35" align="center" />
+        </a>
+      {% endif %}
+    </td>
+    <td align="center" style="border-top: 1px solid #CCC;">
+      {% if org.blog != empty %}
+        <a href="{{ org.blog }}" target="_blank" title="Blog">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png" width="33" align="center" />
+        </a>
+      {% endif %}
+    </td>
+    <td align="center" style="border-top: 1px solid #CCC;">
+      {% if org.blogrss != empty %}
+        <a href="{{ org.blogrss }}" target="_blank" title="Blog RSS">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-icon.png" width="33" align="center" />
+        </a>
+      {% endif %}
+    </td>
+    <td align="center" style="border-top: 1px solid #CCC;">
+      {% if org.twitter != empty %}
+        <a href="{{ org.twitter }}" target="_blank" title="Twitter">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png" width="40" align="center" />
+        </a>
+      {% endif %}
+    </td>
+    <td align="center" style="border-top: 1px solid #CCC;">
+      {% if org.github != empty %}
+        <a href="{{ org.github }}" target="_blank" title="Github">
+          <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github-icon.png" width="45" align="center" />
+        </a>
+      {% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+  <tr>
+    <td colspan="8" style="border-top: 1px solid #CCC; padding-top:18px; padding-bottom:18px;"></td>
+  </tr>
+</table>
+</center>
