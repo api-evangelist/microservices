@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "TC123r1fXvLYR8I97gyEuTy116zxraqAMskK0rsG3Liizuue3TMR9gJF8jgIeyHFBto0kfzB5IfVcfHUI123VQREeYQw117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "What039s the Difference Between a Monolith and Microservices",
+		"url": "http://www.programmableweb.com/news/whats-difference-between-monolith-and-microservices/analysis/2016/09/26",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZoTHF3Ep123CqU2CA7Ta07aAWA116yherz123t9aBr7gG116pTD5j2Vs1qoXPeov38Cp7lS9e2Xllpg5a123zdroZu73kGlA117117",
+		"item_date": "2016-09-30 00:00:00",
+		"title": "API Best Practices Microservices",
+		"url": "http://apigee.com/about/blog/cto-musings/api-best-practices-microservices",
+		"domain": "apigee.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Lpz4hPXHMuz2z3jUvVdFDSGDliv123kyhN116rlNHbQBQ2vixtW5123eGk116hZTMY20123TrtTCiFiN0hb7eraz312CaHrw117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "JDA focuses on microservices",
+		"url": "http://www.americanshipper.com/main/news/jda-focuses-on-microservices-65529.aspx",
+		"domain": "www.americanshipper.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fvzptxzDbyzOju1FFrOb7GkcZdXo3xGXXFE8b2116Xo4FVbeWKFJw7qOeTTJtx12ANU9VFrt6BZw2xJTJ1168LDNTA117117",
+		"item_date": "2016-09-29 10:39:47",
+		"title": "Using API Gateways and JWTs for Identity Management in Microservice Based APIs",
+		"url": "https://medium.com/@nicklee1/using-api-gateways-and-jwts-for-identity-management-in-microservice-based-apis-9ba275864cef#.j9x64novb",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
 		"curated_id": "4zOVCTWchZc123dnHWudRoyqFtItoBR2mNO7Y0RtNwg9DC5aOIKsowacgmOA9A6GWqoGR123OrgkVpzREhs8aLY69Q117117",
 		"item_date": "2016-09-23 00:00:00",
 		"title": "How Accusoft Migrated From Monolithic Applications to a Microservice Architecture",
