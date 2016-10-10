@@ -1,9 +1,49 @@
 [
 	{
+		"curated_id": "m5oALp116aGRTjzoAKVglE123E5H0FsaCe1kq1doy0IVvRX2L3g4tjoZw36ImXryCG123Gi116azVUmqVWxkYMgYAczLdw117117",
+		"item_date": "2016-10-08 00:00:00",
+		"title": "Five Principles of Effective Microservices Monitoring",
+		"url": "http://www.programmableweb.com/news/five-principles-effective-microservices-monitoring/elsewhere-web/2016/10/08",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OGGjUdmJyoIc4KU116uyowj1PE8v1CMobTH1zB66tJD24Ig1ZE116mHm7jmL5123NINSRqoYjkKTugCaEIxBmqPrJeGA117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Microservices Platform with ECS",
+		"url": "https://dzone.com/articles/microservices-platform-with-ecs",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "amg2p92AJD2fnFC2qhRKtRKoM116GgHcdvh8BkX94fD6pVGHfCw92qBcQp1gR9jJ6sDE6EaK5a4aykKSkmHmaLdw117117",
+		"item_date": "2016-10-06 05:01:06",
+		"title": "Tweet Developing Transactional Microservices Using Aggregates Event Sourcing and CQRS  Part 1 httpstcorXCPjElmNA",
+		"url": "https://twitter.com/datawireio/statuses/784000526061072388",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Z69Jqfk0RxnlYbsb116ZoVkuiB8UqcanG9123o0GV116U0qPww7eC123HMFE2HJpG123QjEq0IoVaK3JJ699123w123UCFwhAxWQ117117",
+		"item_date": "2016-10-06 13:50:11",
+		"title": "Tweet quotMicroservices should not be used if the organization isn039t embracing DevOps principlesquot httpstcozzNe1q2rn6 by danielbryantuk",
+		"url": "https://twitter.com/datawireio/statuses/784133676795846656",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "n116EHJYtRIMc116zRIm1CWF8eTOyRuzu3116OpY116WkuXpN1eUfibA8zZZSdTrzsJA84oz4B025Opea3Wf4FTtRHnRZg117117",
+		"item_date": "2016-10-06 15:01:15",
+		"title": "Tweet Microservices and Selfcontained System to Scale Agile  ewolff  httpstcolpoRehTDz2",
+		"url": "https://twitter.com/datawireio/statuses/784151559945019392",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
 		"curated_id": "XCiRW5E2RpoFUxv123Nit89wGqhRriTO5B1167U6RH93xT8G4gr6VLGQS7il116L1233ZTK0wxIzgk9gEOEaEECOWeBfDQ117117",
 		"item_date": "2016-10-07 00:00:00",
 		"title": "ServiceBased Architecture As an Alternative to Microservice Architecture",
-		"url": "http://www.infoq.com/news/2016/10/service-based-architecture?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+		"url": "https://www.infoq.com/news/2016/10/service-based-architecture",
 		"domain": "www.infoq.com",
 		"image": ""
 	},
