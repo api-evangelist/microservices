@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "Hy3SnTCRwPc7vEIbXt1SNnYIvaxvQckqCfSkUxeU9i3YHZ3wns1G8aZmrZdFGBkxl5nBYkcc1116AdHMpojrKnTw117117",
+		"item_date": "2016-10-10 00:00:00",
+		"title": "Managing Sensitive Information in an API and Microservices World",
+		"url": "http://apigee.com/about/blog/digital-business/managing-sensitive-information-api-and-microservices-world",
+		"domain": "apigee.com",
+		"image": ""
+	},
+	{
+		"curated_id": "L116116PqWj5ywEzFv5116TmPNE4yTwITjzBYMAmwBEGrTg4acYH31mrqtruUtnGwNuBI1235123MCurGY6R1HZS8ui1fRAw117117",
+		"item_date": "2016-10-14 00:00:00",
+		"title": "How to Approach API Testing for Microservices",
+		"url": "https://dzone.com/articles/how-to-approach-api-testing-for-microservices",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hGai2FV123w37ZvyEfdC7E6vU3JFh8A18BH8Q3uG807ivkNnD3W3mQm9sZ4EtBjXqPfs5oxV95bDOi6Aubi0hlcg117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Distributed Application Development Through Microservices",
+		"url": "https://dzone.com/articles/distributed-application-development",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "m5oALp116aGRTjzoAKVglE123E5H0FsaCe1kq1doy0IVvRX2L3g4tjoZw36ImXryCG123Gi116azVUmqVWxkYMgYAczLdw117117",
 		"item_date": "2016-10-08 00:00:00",
 		"title": "Five Principles of Effective Microservices Monitoring",
