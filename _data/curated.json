@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "lLRNpcCEVXlq1tvjtq6zQNpu5557Oa8oL116Y6P5vivGQks4nmMwQKD8jTiLzQfgAdv123116aaLT6fbXMUg2001q6Jg117117",
+		"item_date": "2016-10-20 14:18:04",
+		"title": "An argument against REST in microservices",
+		"url": "http://container-solutions.com/argument-rest-microservices/",
+		"domain": "container-solutions.com",
+		"image": ""
+	},
+	{
+		"curated_id": "FvZmW4zfvH0WgMRp1MeDx116hz9q77ocygskJJl01L1U1QxXptF5VO12KT3BpgCOeAkkBN1169HUm5xk0P2dJ1rEJQ117117",
+		"item_date": "2016-10-21 00:00:00",
+		"title": "Microservices vs SOA Lets Put an End to the Eternal Debate",
+		"url": "https://dzone.com/articles/microservices-vs-soa-lets-put-an-end-to-the-eterna",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Hy3SnTCRwPc7vEIbXt1SNnYIvaxvQckqCfSkUxeU9i3YHZ3wns1G8aZmrZdFGBkxl5nBYkcc1116AdHMpojrKnTw117117",
 		"item_date": "2016-10-10 00:00:00",
 		"title": "Managing Sensitive Information in an API and Microservices World",
