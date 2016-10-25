@@ -8,10 +8,42 @@
 		"image": ""
 	},
 	{
+		"curated_id": "weHNOlojv3zPuJeJcE26L08SrEoUMEVSo7OTi35Ae9oJZU4116NNI123Hx7BKftCbRbXaUeKftctaf1231P5hu8116jMVA117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Evolutionary APIs with Microservices",
+		"url": "http://www.apiful.io/intro/2016/10/19/evolutionary-apis-with-microservices.html",
+		"domain": "www.apiful.io",
+		"image": ""
+	},
+	{
 		"curated_id": "FvZmW4zfvH0WgMRp1MeDx116hz9q77ocygskJJl01L1U1QxXptF5VO12KT3BpgCOeAkkBN1169HUm5xk0P2dJ1rEJQ117117",
 		"item_date": "2016-10-21 00:00:00",
 		"title": "Microservices vs SOA Lets Put an End to the Eternal Debate",
 		"url": "https://dzone.com/articles/microservices-vs-soa-lets-put-an-end-to-the-eterna",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CNafnisfqkAmJaCjjfi1G1do9emmOz123pbA3Hj9REU8c2sP7G4XJctklVwU4ryMXlXYPZpbPiyD11A1fvlZ4UOw117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Bringing MicroServices to the Client Side Project Ion and MicroComponents",
+		"url": "https://blog.evernote.com/tech/2016/10/17/bringing-micro-services-to-the-client-side-project-ion-and-micro-components/",
+		"domain": "blog.evernote.com",
+		"image": ""
+	},
+	{
+		"curated_id": "L123SiBLeX8cUWSYBL4Ta123dKx123Qil1pXvxcArWpayjSlkVQee2GrbYUYIlopwolQ4g7WK1236UB864Z9hJbbgY6wjw117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Asynchronous APIs in Choreographed Microservices",
+		"url": "http://nordicapis.com/asynchronous-apis-in-choreographed-microservices/",
+		"domain": "nordicapis.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZCmjgHgRx116Rztnfxcqxhu2pADRQoHVTtAXhNskFSGk0xbKX3thRg4SD2zBpwPIw7zno9WgMETbdVTLOSaXSxCA117117",
+		"item_date": "2016-10-17 00:00:00",
+		"title": "Getting Started With Microservices",
+		"url": "https://dzone.com/refcardz/getting-started-with-microservices",
 		"domain": "dzone.com",
 		"image": ""
 	},
