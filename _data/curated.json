@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "m3QVpH8hR5NX1nj6tBX123WNv116Md5Ya8Q116QVEPX8GZpFyijKSAYTGKsECxKNWIru1160TSop89s4Mm8xT0ioG116F0KA117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Cataloging Microservices",
+		"url": "https://dzone.com/articles/cataloguing-microservices?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hMXbWINzY3iWfZh4dirFVx1DAGH2Qyvjlb2fylc1DvOgOTRzk3123GKj75C3cAKejqEpyWHQjNh123jPgwjszH425Q117117",
+		"item_date": "2016-11-01 00:00:00",
+		"title": "Open Blog Using Microservices to Encode and Publish Videos at The New York Times",
+		"url": "http://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/",
+		"domain": "open.blogs.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QDK9HK1c116qRk1231MDGkppqiafRaOFOTDkR06q1lWgEM123wifYwxo3Ob4IZ3QyUOJEEpkZm2CB7sTdCN2UZcgST5A117117",
+		"item_date": "2016-11-05 00:00:00",
+		"title": "How to Handle the Continuous Delivery of Microservices",
+		"url": "http://nordicapis.com/how-to-handle-the-continuous-delivery-of-microservices/",
+		"domain": "nordicapis.com",
+		"image": ""
+	},
+	{
 		"curated_id": "lLRNpcCEVXlq1tvjtq6zQNpu5557Oa8oL116Y6P5vivGQks4nmMwQKD8jTiLzQfgAdv123116aaLT6fbXMUg2001q6Jg117117",
 		"item_date": "2016-10-20 14:18:04",
 		"title": "An argument against REST in microservices",
