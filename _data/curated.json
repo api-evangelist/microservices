@@ -1,10 +1,26 @@
 [
 	{
+		"curated_id": "uh5JwuChLK1BJJLcVzjZDX02xxt69iiYImnVbm1S5A49n41CmZ0SB9d0rYRoD2EJ8f2ev3WhWvLYxkp0X123W2eQ117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "Intuit Tech Talk Monolith to Microservices",
+		"url": "https://developer.intuit.com/hub/blog/2016/11/09/intuit-tech-talk-monolith-microservices",
+		"domain": "developer.intuit.com",
+		"image": ""
+	},
+	{
 		"curated_id": "u0sFI4uvQL5KL5Pq6CUfI0km2r1165VacbfAm123ry78l123aUi0HNdpE0l9npKaRqJ0i094vaZpnSXgQ4TQPg116BL56Q117117",
 		"item_date": "2016-11-11 00:00:00",
 		"title": "Article Agile Sailors  A Journey from a Monolithic Approach to Microservices",
 		"url": "https://www.infoq.com/articles/agile-sailors-microservices",
 		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2qhHQzJ859wmOZoIFXKhEmwSgJl3116xC92JE3CWCghvnUlCxoKIy3gDtW6Sv62zlxuGlkFR116yIrtj2dh9HK9Uuw117117",
+		"item_date": "2016-11-07 00:00:00",
+		"title": "New Relic extends monitoring to containers and micro service environments",
+		"url": "https://techcrunch.com/2016/11/07/new-relic-extends-monitoring-to-containers-and-micro-service-environments/",
+		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
@@ -149,14 +165,6 @@
 		"title": "ServiceBased Architecture As an Alternative to Microservice Architecture",
 		"url": "https://www.infoq.com/news/2016/10/service-based-architecture",
 		"domain": "www.infoq.com",
-		"image": ""
-	},
-	{
-		"curated_id": "bHZ123i6hPeKlaldwDOOp7JhvAODIFUcLs9NIAjI2XsdghI3dhVYv4Yb9hn116wSNyJkL116Rtj5Fm8YkjAtkhEWETvw117117",
-		"item_date": "2016-10-03 05:05:22",
-		"title": "Tweet What They Don039t Tell You about Microservices httpstcodUCE9kG97c",
-		"url": "https://twitter.com/datawireio/statuses/782914436268974080",
-		"domain": "twitter.com",
 		"image": ""
 	},
 	{
@@ -738,7 +746,7 @@
 	{
 		"curated_id": "BC1n9MDmaVJBuF3cQsBpzlRepAO0alanmfM5kTZ3yfXtDQcEd443E3Bl0HA0GLYJjVkJNFQBXGjGAkN116EkGKPA117117",
 		"item_date": "2016-06-15 00:00:00",
-		"title": "Microservices Reference Architecture Part 3The FabricModel",
+		"title": "",
 		"url": "https://www.nginx.com/blog/microservices-reference-architecture-part-3the-fabricmodel/",
 		"domain": "www.nginx.com",
 		"image": ""
@@ -770,7 +778,7 @@
 	{
 		"curated_id": "JUwS805xJKhSlC5YMYgkgTKHbAwG5EKpa1vCb45xoWmWah7YfgUJZjPBtABV2BgUJ9zKObub33yrhfw2liZotQ117117",
 		"item_date": "2016-06-21 00:00:00",
-		"title": "Microservices With Spring Boot Axon CQRSES andDocker",
+		"title": "",
 		"url": "https://dzone.com/articles/microservices-with-spring-boot-axon-cqrses-anddock",
 		"domain": "dzone.com",
 		"image": ""
@@ -1170,7 +1178,7 @@
 	{
 		"curated_id": "GbRzpGC9VHcKRo5pJBsKtbZvkxjsVxjE3R1161CdokIRRH1CwPG5P38nW1hlY03SrVZw63MK5eQpOiFS1232txnWvA117117",
 		"item_date": "2016-04-15 00:00:00",
-		"title": "Monitoring Microservices in Docker Containers with NGINXAmplify",
+		"title": "",
 		"url": "https://www.nginx.com/blog/monitoring-microservices-docker-containers-nginx-amplify/",
 		"domain": "www.nginx.com",
 		"image": ""
@@ -1962,7 +1970,7 @@
 	{
 		"curated_id": "XwhfIvTWooZLuerNJCAvphX1234r5C65v1A8TQshVu2AkeF0YnHaRKCGKvHuK4RQljXU123NtFZCtB116zIqokyRltvg117117",
 		"item_date": "2015-11-26 14:49:24",
-		"title": "Release QBit 091 Release  advantageousqbit  GitHub",
+		"title": "",
 		"url": "https://github.com/advantageous/qbit/releases/tag/0.9.1.RELEASE",
 		"domain": "github.com",
 		"image": ""
@@ -2562,7 +2570,7 @@
 	{
 		"curated_id": "ZUrlPrKW8PsXfh1MW7jz0i7YHAbHppzDJGcVj7xMOd123iz7S116AP1PO4HVhxpXA7Uygkwju0MWMVdKRa1lYsYMVg117117",
 		"item_date": "2015-03-29 00:00:00",
-		"title": "Yelpserviceprinciples  GitHub",
+		"title": "",
 		"url": "https://github.com/Yelp/service-principles",
 		"domain": "github.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/github-comyelpservice-principles.png"
@@ -2698,7 +2706,7 @@
 	{
 		"curated_id": "kago0MvEcemESxDrgKYQrWsc8JMTeUYGkglCTgjRWnJeiEo0qbBeyywESJ5pGYtP5byDxV8q9SuvsbIeACEnDw117117",
 		"item_date": "2015-03-02 22:03:29",
-		"title": "Visualizing And Exploring My Microservices Catalog Using APIsjson With Swaggered ",
+		"title": "",
 		"url": "http://apievangelist.com/2015/03/02/visualizing-and-exploring-my-microservices-catalog-using-apisjson-with-swaggered/",
 		"domain": "apievangelist.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150302visualizing-and-exploring-my-microservices-catalog-using-apisjson-with-swaggered.png"
@@ -2722,7 +2730,7 @@
 	{
 		"curated_id": "os116JvAwqW116Vv8OZsSg86HcrSQrSnbOPlwAHDQdzrRWNiZK11231U3rSUnZVvH8AeO83svaDf0jhPLiZxqEUpUuWg117117",
 		"item_date": "2015-02-26 19:11:02",
-		"title": "Making My 3Scale API Management Portable With A Containerized MicroServices ",
+		"title": "",
 		"url": "http://alpha.apievangelist.com/2015/02/26/making-my-3scale-api-management-portable-with-a-containerized-microservices/",
 		"domain": "alpha.apievangelist.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/alpha-apievangelist-com20150226making-my-3scale-api-management-portable-with-a-containerized-microservices.png"
@@ -2730,7 +2738,7 @@
 	{
 		"curated_id": "LdutN2XtbHxsKDCaST116iXObTuBCL2xgG98AI1RAyR5ja2qcsgacMgDqhFW5EHHZttOQUoXSbPQqJprQ4YhBw5w117117",
 		"item_date": "2015-02-27 10:07:04",
-		"title": "Moving Away From Legacy Vendor Relationships To A Devops MicroServices Way Of Life At Nike ",
+		"title": "",
 		"url": "http://apievangelist.com/2015/02/26/moving-away-from-legacy-vendor-relationships-to-a-devops-microservices-way-of-life-at-nike/",
 		"domain": "apievangelist.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20150226moving-away-from-legacy-vendor-relationships-to-a-devops-microservices-way-of-life-at-nike.png"
@@ -2798,37 +2806,5 @@
 		"url": "http://blog.xebialabs.com/2014/12/31/8-questions-need-ask-microservices-containers-docker-2015/",
 		"domain": "blog.xebialabs.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-xebialabs-com201412318-questions-need-ask-microservices-containers-docker-2015.png"
-	},
-	{
-		"curated_id": "eedDItnpGy123k116gEx0ifIOECNo5E9bn123OTdEgiJGefAtbjZjjAnn7123CwLhrXAmjSk8dDGR4TJdSRfAHM3ShmfMw117117",
-		"item_date": "2014-12-24 00:00:00",
-		"title": "Microservices for Good  How Angel Flight West Uses Technology to Help People in Need",
-		"url": "http://www.iron.io/blog/microservices-for-good-how-angel-flight",
-		"domain": "www.iron.io",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-iron-io201412microservices-for-good-how-angel-flight-html.png"
-	},
-	{
-		"curated_id": "vZPDklKz80fR6KNWfJopMtiZsXVylwS4aI9Rlvfk2f2zxsVM17ohJYEWM0123FfcNv7M0116Okp6B47fwL116z5116aTPA117117",
-		"item_date": "2014-09-25 15:56:33",
-		"title": "Pico APIs Events and Queries",
-		"url": "http://www.windley.com/archives/2013/12/pico_apis_events_and_queries.shtml",
-		"domain": "www.windley.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-windley-comarchives201312pico_apis_events_and_queries-shtml.png"
-	},
-	{
-		"curated_id": "H116QSmhMtiYKyhPc83PTfLd1qbaqzhwpXn1sO2INNfRbbAI4BhA9twvqX7xK5n6AuTwVakK0delbD5RxaUVczTg117117",
-		"item_date": "2014-09-26 07:45:00",
-		"title": "Events Picos and Microservices",
-		"url": "http://www.windley.com/archives/2014/09/events_picos_and_microservices.shtml",
-		"domain": "www.windley.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-windley-comarchives201409events_picos_and_microservices-shtml.png"
-	},
-	{
-		"curated_id": "nzKEZhhjOqaapYetWSdglcelJyuPktVh2i4L21123awq1eJ7sxDnzj0NF7yxbcAl123SeNUCpjLJ123W7TYTinL8PIPg117117",
-		"item_date": "2014-08-18 11:23:17",
-		"title": "Distributed big balls of mud  Coding the Architecture",
-		"url": "http://www.codingthearchitecture.com/2014/07/06/distributed_big_balls_of_mud.html",
-		"domain": "www.codingthearchitecture.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-codingthearchitecture-com20140706distributed_big_balls_of_mud-html.png"
 	}
 ]
