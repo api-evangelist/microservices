@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "ntzr1CXHo0n4FwRT116MSVUXawK116J5KA8C7hcURMmvidXdZwa7q43MG7mtPejLXZLKiADvMQMG7yhS4lPlrwnUuA117117",
+		"item_date": "2016-12-18 00:00:00",
+		"title": "Focus on the Process Not on Individual Microservices",
+		"url": "http://www.infoq.com/news/2016/12/process-before-microservices?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Fzx6mDJGHTGdltnXyKGbaWkg0o0wVc3dsnFth2PEIexUKiJvtKSbRCVP1k0iOMi3T5pX8OfydOEkdwbLJS9Mcw117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Microservices vs Small Services vs JustRight Services",
+		"url": "https://dzone.com/articles/microservices-small-services-and-just-right-servic",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "uh5JwuChLK1BJJLcVzjZDX02xxt69iiYImnVbm1S5A49n41CmZ0SB9d0rYRoD2EJ8f2ev3WhWvLYxkp0X123W2eQ117117",
 		"item_date": "2016-11-09 00:00:00",
 		"title": "Intuit Tech Talk Monolith to Microservices",
