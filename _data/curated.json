@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "N123nps8RNb116Vuy0mdJxBIUEp116YdZeHiPkBXYYLo2AyjPK5wneJUXc116ePCgQDiGCpaem6m123t1S71kroxNlljciiw117117",
+		"item_date": "2016-12-19 00:00:00",
+		"title": "OpenShift Commons Briefing 56 Implementing NGINX Microservice Architecture with OpenShift",
+		"url": "https://blog.openshift.com/openshift-commons-briefing-56-implementing-nginx-microservice-architecture-openshift/",
+		"domain": "blog.openshift.com",
+		"image": ""
+	},
+	{
 		"curated_id": "ntzr1CXHo0n4FwRT116MSVUXawK116J5KA8C7hcURMmvidXdZwa7q43MG7mtPejLXZLKiADvMQMG7yhS4lPlrwnUuA117117",
 		"item_date": "2016-12-18 00:00:00",
 		"title": "Focus on the Process Not on Individual Microservices",
