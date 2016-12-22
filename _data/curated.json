@@ -16,11 +16,43 @@
 		"image": ""
 	},
 	{
+		"curated_id": "lyr116JMKtJJV0Q5NJgmCEEC86mpSrFcEfDIsz116R9KzKrFJ7NlW6R116REcUCaJkYrbknzFs5yM4EqI3F5qe1236116XDQ117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Microservices Not Just for Nerds Anymore",
+		"url": "http://foreignaffairs.co.nz/2016/12/14/microservices-not-just-for-nerds-anymore/",
+		"domain": "foreignaffairs.co.nz",
+		"image": ""
+	},
+	{
+		"curated_id": "wDe9jjDp2C68QSndUQKweDu6VymyOZ7PBnTDdvOSMAmU49I0ULOx58phjKL4NT7s1233N86gtDAaIc123WTaK116pTgw117117",
+		"item_date": "2016-12-14 00:00:00",
+		"title": "Tools to Monitor and Visualize Microservices Architecture",
+		"url": "http://www.programmableweb.com/news/tools-to-monitor-and-visualize-microservices-architecture/analysis/2016/12/14",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "CH781I62b3YsVYoeNv0femX3XqO71OIv1aoskqRNIWQDjH123sGDwA0qDuFIBwLkg0123Obdh5123H116VL123fGA216lc6g117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Reasons to Shift to Microservices",
+		"url": "https://dzone.com/articles/reasons-to-shift-to-microservices-architecture",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Fzx6mDJGHTGdltnXyKGbaWkg0o0wVc3dsnFth2PEIexUKiJvtKSbRCVP1k0iOMi3T5pX8OfydOEkdwbLJS9Mcw117117",
 		"item_date": "2016-12-15 00:00:00",
 		"title": "Microservices vs Small Services vs JustRight Services",
 		"url": "https://dzone.com/articles/microservices-small-services-and-just-right-servic",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "f5VSy2I9c116D4OrSN2ZlzDW11166PAdSG5miUgtFRtq7AMfJz6gTk4pMy123oK4deL2PuzwvH07X9A3nt1jtmIO123hTw117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Creating Expedient Microservices in Rust and Diesel",
+		"url": "https://blog.codeship.com/creating-expedient-microservices-in-rust-and-diesel/",
+		"domain": "blog.codeship.com",
 		"image": ""
 	},
 	{
