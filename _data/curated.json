@@ -8,6 +8,22 @@
 		"image": ""
 	},
 	{
+		"curated_id": "7TzHX1GTk123s123G450I1161MA4qPjNZUVlkZEIAsBcFGwYpsxmDvBGV5XTxTj7dphjuMGXZa9ljYy8XWPNMk97GNug117117",
+		"item_date": "2016-12-26 00:00:00",
+		"title": "Article Navigating the Ins and Outs of a Microservice Architecture MSA",
+		"url": "https://www.infoq.com/articles/navigating-microservices-architecture",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
+		"curated_id": "14NjNCixPd6G123HKpYR116TjtlEL5qxN3mQLWmK6cFgMwi8wW9zH5zZErYfELvg116iYE1SinWwuks05IvJDVXGejqw117117",
+		"item_date": "2016-12-26 00:00:00",
+		"title": "Using Docker for Microservices",
+		"url": "https://dzone.com/articles/using-docker-for-microservices",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "v4yOZJiRh30mPpbgys9HwT1dq27tjg9J6yRj4hvumb3INoiLO5Mn123o82kE8CZS1d1ZD3v1162PwTKkkmTsf1IZdw117117",
 		"item_date": "2016-12-25 00:00:00",
 		"title": "5 Common Myths about Microservices Architecture",
