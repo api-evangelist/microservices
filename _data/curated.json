@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "bkxue2t7rhOUfnaqHnaiYqJhHAr8GbBrlDK5zlr36rXZT73ORTmlPXwddSEvI3Zg10xTEv3vXibDMMRqYnK9yA117117",
+		"item_date": "2017-01-13 00:00:00",
+		"title": "Article Developing Transactional Microservices Using Aggregates Event Sourcing and CQRS  Part 2",
+		"url": "https://www.infoq.com/articles/microservices-aggregates-events-cqrs-part-2-richardson",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
 		"curated_id": "iZLwPziKrI3kzpGhq1QpWen8yE1237GmMrxRGiHqaDbQOCYikb8FTnVNFAMqTpSEfvx4VSwfDMUYrMp116A4S3R77w117117",
 		"item_date": "2017-01-03 00:00:00",
 		"title": "Moving to Microservices Highlights from NGINX",
