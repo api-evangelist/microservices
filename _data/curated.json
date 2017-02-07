@@ -16,6 +16,30 @@
 		"image": ""
 	},
 	{
+		"curated_id": "kcP2xg56d6qdY4DDdxqMZKHdYB38zJ8ah9mPJ116k9LVix9iFxofF116MpmWwU3jAM9A345lLl9UEQoSrpt9zJyq116A117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "MemSQL Meets the Microservices Architecture",
+		"url": "https://dzone.com/articles/memsql-meets-the-microservices-architecture-memsql",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "s7s2DpQI2lOBWtY5urSISP0JnozW123x3fMAWRN0Z1Zrwucy6IJOhPwNwsthF3c2LeLycrI37txNNNProaCsz9ng117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "The Microservices Reference Architecture a Free Ebook from NGINX",
+		"url": "https://www.nginx.com/blog/microservices-reference-architecture-free-ebook-nginx/",
+		"domain": "www.nginx.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2CpsQPA9123JeZu0cTcO2YuFfWkVhmgvfZ9EgmMudMlHhh7cMiwFUdju2Zg2N9oOK116MnPlOT1s8Gnh4sbgXMA1231w117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "Writing a cron job microservice with Serverless and AWS Lambda",
+		"url": "https://blog.readme.io/writing-a-cron-job-microservice-with-serverless-and-aws-lambda/",
+		"domain": "blog.readme.io",
+		"image": ""
+	},
+	{
 		"curated_id": "1Qre9sNpdIkCZsXdV7XBw123fZoAD63OE4116RnaMSVpONuvQ2EuQeRafjW5pC8RK3ToZvLtJQ7VCODA5pK2WVtahg117117",
 		"item_date": "2017-01-18 00:00:00",
 		"title": "Running Microservices on Top of InMemory Data Grid Part II",
