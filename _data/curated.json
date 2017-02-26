@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "4GXlfNZT7JceQkv2HuLkHuYmXuuYlwVtDjLYkYzcIUqyplTfJSLS9MoJW75YDZd116j123116iOAU2ciT9NJ6tVt9mzw117117",
+		"item_date": "2017-02-19 00:00:00",
+		"title": "Relearning Functional Service Design for Microservices Uwe Friedrichsen at microXchg",
+		"url": "https://www.infoq.com/news/2017/02/microxchg-service-design",
+		"domain": "www.infoq.com",
+		"image": ""
+	},
+	{
 		"curated_id": "9116krKnn3AX4d123wBZEquvu5yHryjMHdsjVmxmyDOOJ0osR3O1162rbaxi0Ar6VQ6d116XmqkimVhMTnWj3KWcx6123fzw117117",
 		"item_date": "2017-02-18 09:52:37",
 		"title": "Evolution of Business Logic from Monoliths through Microservices to Functions",
