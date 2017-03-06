@@ -2,9 +2,9 @@
 	{
 		"curated_id": "gmWm9cqnvGThtqLuUxBobER35UXqqTmZvDZPmwZupqs123V6pKyFzaWzXiSQOHVPbH2i116Hy4qyZR7AF7TrT123Sr6g117117",
 		"item_date": "2017-03-02 05:07:12",
-		"title": "Tweet An Incremental Path to Microservices ndash RHD Blog httpstcoRpXF97lpww",
-		"url": "https://twitter.com/datawireio/statuses/837288176754569216",
-		"domain": "twitter.com",
+		"title": "An Incremental Path to Microservices",
+		"url": "https://developers.redhat.com/blog/2017/02/21/an-incremental-path-to-microservices/",
+		"domain": "developers.redhat.com",
 		"image": ""
 	},
 	{
@@ -16,18 +16,26 @@
 		"image": ""
 	},
 	{
+		"curated_id": "1169V3JKtqdVvhQ9dKUjvoBhdJW59bNOgy1237S3r5WorWaXGqdY9Eyy5vWG5Sgi9Z1vWSeGhOkHvQxIpG9t123TSgmw117117",
+		"item_date": "2017-03-01 00:00:00",
+		"title": "Advanced Microservices Security with Spring and OAuth2",
+		"url": "https://dzone.com/articles/advanced-microservices-security-with-spring-and-oa",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "VIyKdPjTSGAMVNhLtOaNQ1jqSoXrAprZrg1aLumyR4WEjfvygfrPq116kXa7jSmEaPwdYRFjuaMuV5f0ihvSnJgg117117",
 		"item_date": "2017-03-03 00:00:00",
-		"title": "Rethinking Service Integrations With Microservices Architecture",
-		"url": "https://dzone.com/articles/rethinking-service-integrations-with-microservices-1?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
-		"domain": "dzone.com",
+		"title": "Rethinking Service Integrations with Microservices Architecture",
+		"url": "https://medium.com/@imesh/rethinking-service-integrations-with-microservices-architecture-5cbb844f5f51#.ue91v1qni",
+		"domain": "medium.com",
 		"image": ""
 	},
 	{
 		"curated_id": "CDNdzZYM2XiMwTWeVwiwryn32WmA6BoApJuLkT116IykxkgYYe2k1SuO8rlVp2FwhF13F2iatLvGfj55Jf4Hn2OA117117",
 		"item_date": "2017-03-03 00:00:00",
 		"title": "4 Rules for Microservices and Software Delivery",
-		"url": "https://dzone.com/articles/4-rules-for-microservices-and-software-delivery?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"url": "https://dzone.com/articles/4-rules-for-microservices-and-software-delivery",
 		"domain": "dzone.com",
 		"image": ""
 	},
