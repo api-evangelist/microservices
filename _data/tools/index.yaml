@@ -1,193 +1,253 @@
-- slug: bluefrisby
-  name: bluefrisby
-  description: An API testing tool using API Blueprint and Frisby.js
-  url: 'https://github.com/localmed/bluefrisby/'
+- slug: awesomemicroservices
+  name: awesome-microservices
+  description: >-
+    A curated list of Microservice Architecture related principles and
+    technologies.
+  url: 'https://github.com/mfornos/awesome-microservices'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,API Blueprint,Frisby.js,General'
-- slug: entropy
-  name: Entropy
-  description: An entropy and failure injection management API for Docker platforms.
-  url: 'https://github.com/buildertools/entropy'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: 'https://github.com/buildertools/'
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Containers,Testing,Performance,General'
-- slug: dredd
-  name: dredd
-  description: API Blueprint testing tool
-  url: 'https://github.com/apiaryio/dredd/'
+  tags: 'Microservices,Resources'
+- slug: dockpit-api-blueprint-template
+  name: Dockpit API Blueprint Template
+  description: A Dockpit template for mocking Rest HTTP APIs using API Blueprint
+  url: 'https://github.com/dockpit/pit-api-blueprint/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/dredd-head.png
-  tags: 'API Blueprint,Testing,General'
-- slug: blazemeterjmeterplugin
-  name: blazemeter-jmeter-plugin
-  description: blazemeter-jmeter-plugin
-  url: 'https://github.com/Blazemeter/blazemeter-jmeter-plugin'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,General'
-- slug: cucumber4apiblueprint
-  name: cucumber-4-api-blueprint
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/bw-api-blueprint-icon.png
+  tags: 'Mock,API Blueprint,Microservices,Deployment'
+- slug: fabio
+  name: fabio
   description: >-
-    Cucumber predefined step definitions for RESTful API testing using API
-    Blueprint by Apiary
-  url: 'https://github.com/stekycz/cucumber-4-api-blueprint/'
+    A fast, modern, zero-conf load balancing HTTP(S) router for deploying
+    microservices managed by consul.
+  url: 'https://github.com/eBay/fabio'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,Cucumber,API Blueprint,General'
-- slug: cucumber-api-steps
-  name: Cucumber API Steps
-  description: Cucumber steps to easily test REST-based XML and JSON APIs
-  url: 'https://github.com/jayzes/cucumber-api-steps'
+  tags: 'Deployment,Microservices'
+- slug: platform
+  name: platform
+  description: A microservice platform
+  url: 'https://github.com/micro/platform'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,General'
-- slug: hippie
-  name: Hippie
-  description: End-to-end API testing made easy
-  url: 'https://github.com/vesln/hippie'
+  tags: Microservices
+- slug: micro
+  name: micro
+  description: A microservice toolkit
+  url: 'https://github.com/micro/micro'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,General'
-- slug: httpexpect
-  name: HTTPExpect
-  description: End-to-end HTTP and REST API testing for Go.
-  url: 'https://github.com/gavv/httpexpect'
+  tags: 'Microservices,Deployment'
+- slug: gomicro
+  name: go-micro
+  description: A pluggable RPC microservice framework
+  url: 'https://github.com/micro/go-micro'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,General'
-- slug: dnstest
-  name: dnstest
-  description: Erlang app for testing authoritative DNS servers for compliance.
-  url: 'https://github.com/dnsimple/dnstest'
+  tags: 'Deployment,Microservices'
+- slug: kit
+  name: Kit
+  description: A standard library for microservices.
+  url: 'https://github.com/go-kit/kit'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'DNS,Testing,General'
-- slug: frisby.js
-  name: Frisby.js
+  tags: Microservices
+- slug: armada
+  name: Armada
   description: >-
-    Frisby is a REST API testing framework built on node.js and Jasmine that
-    makes&nbsp;testing API endpoints easy, fast, and fun.
-  url: 'http://frisbyjs.com/'
+    Complete solution for development, deployment, configuration and discovery
+    of microservices.
+  url: 'https://github.com/armadaplatform/armada'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Discovery,Microservices'
+- slug: dockercontinuousdeployment
+  name: docker-continuous-deployment
+  description: continuous deployment of a microservices application with Docker
+  url: 'https://github.com/francescou/docker-continuous-deployment'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Deployment,Microservices'
+- slug: claudia
+  name: claudia
+  description: Deploy Node.js microservices to AWS easily
+  url: 'https://github.com/claudiajs/claudia'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Deployment,Microservices'
+- slug: goa
+  name: goa
+  description: Design-based microservices in Go
+  url: 'https://github.com/goadesign/goa'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Microservices,Deployment'
+- slug: fabric8
+  name: Fabric8
+  description: >-
+    fabric8 is an open source microservices platform based on Docker, Kubernetes
+    and Jenkins
+  url: 'https://github.com/fabric8io/fabric8'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Microservices
+- slug: monitorsrv
+  name: Monitoring Server
+  description: >-
+    Monitoring server is a microservice which monitors all the applications
+    within the environment. It's a passive system used for observation and
+    actions are taken separately based on monitoring events.
+  url: 'https://github.com/micro/monitor-srv'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/micro/'
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Monitoring,Microservices'
+- slug: micro
+  name: Micro
+  description: Micro — Async HTTP microservices
+  url: 'https://github.com/zeit/micro'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Microservices
+- slug: kubernetes
+  name: kubernetes
+  description: Micro on Kubernetes
+  url: 'https://github.com/micro/kubernetes'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Containers,Deployment,Microservices'
+- slug: micro-server
+  name: Micro Server
+  description: >-
+    Microserver is a Java 8 native, zero configuration, standards based, battle
+    hardened library to run Java Rest Microservices via a standard Java main
+    class. Supporting pure Microservice or Micro-monolith styles.
+  url: 'https://github.com/aol/micro-server'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Microservices
+- slug: lelylan
+  name: lelylan
+  description: >-
+    Open Source Lightweight Microservices Architecture for the Internet of
+    Things. For developers.
+  url: 'https://github.com/lelylan/lelylan'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Microservices,Deployment,Internet of Things'
+- slug: hook.io
+  name: hook.io
+  description: Open-Source Microservice Hosting Platform
+  url: 'https://github.com/bigcompany/hook.io'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Deployment,Microservices'
+- slug: leveros
+  name: leveros
+  description: Serverless + Microservices = ♥
+  url: 'https://github.com/leveros/leveros'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Serverless,Microservices,Deployment'
+- slug: django-zappa
+  name: Django Zappa
+  description: Serverless Django on AWS Lambda and API Gateway
+  url: 'https://github.com/Miserlou/django-zappa'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Serverless,Microservices'
+- slug: lumber
+  name: lumber
+  description: >-
+    The Admin Interface
+    Framework&nbsp;http://www.forestadmin.com/lumber.&nbsp;Lumber is an
+    opensource tool to generate an admin microservice. It serves a REST API
+    hooked directly into your database (MySQL and Postgres for now).
+  url: 'https://github.com/ForestAdmin/lumber'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/frisby-js.png
-  tags: 'Testing,JavaScript,General'
-- slug: requestbin
-  name: requestbin
-  description: Inspect HTTP requests. Debug webhooks. Originally created by @progrium.
-  url: 'https://github.com/Runscope/requestbin'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,Webhooks,General'
-- slug: loadui
-  name: LoadUI
-  description: >-
-    LoadUI is a Open Source Load Testing solution that is free and
-    cross-platform. With a visual, drag-and-drop interface, it allows you to
-    create, configure and redistribute your Load Tests interactively and in
-    real-time. In a single test environment, LoadUI provides complete test
-    coverage and supports all the standard protocols and technologies. And
-    it&rsquo;s so powerful, it generates scalable, high-volume and real-world
-    load from any number of local and remote computers. Meet LoadUI, the future
-    of Load Testing.
-  url: 'http://www.loadui.org/About-loadUI/what-is-loadui.html'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tools/loadui-logo.png
-  tags: 'Load Testing,Application Testing,General'
-- slug: chakram
-  name: chakram
-  description: REST API test framework. BDD and exploits promises
-  url: 'https://github.com/dareid/chakram'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,General'
-- slug: blazemetergem
-  name: blazemeter-gem
-  description: Ruby GEM for BlazeMeter API
-  url: 'https://github.com/Blazemeter/blazemeter-gem'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'SDK,Testing,General'
-- slug: apivore
-  name: apivore
-  description: >-
-    Tests your rails API against its Swagger description of end-points, models,
-    and query parameters.
-  url: 'https://github.com/westfieldlabs/apivore/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'Testing,Swagger,OAI,General'
-- slug: dreddrack
-  name: dredd-rack
-  description: The Dredd API blueprint testing tool for your Rack applications.
-  url: 'https://github.com/gonzalo-bulnes/dredd-rack/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
-  tags: 'API Blueprint,Testing,General'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/lumber-logo.png
+  tags: 'Deployment,Microservices'
