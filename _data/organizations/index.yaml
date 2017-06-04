@@ -1,0 +1,288 @@
+- slug: werker
+  name: Werker
+  description: >-
+    Wercker is a continuous delivery platform focusing on changing the way
+    developers build and deploy their applications. This platform was built in
+    order to make developers' lives easier and enabling them to move fast and
+    make things.
+  url: 'http://wercker.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/wercker'
+  blog: 'http://blog.wercker.com/'
+  blog_rss: 'http://blog.wercker.com/rss.xml'
+  github: 'https://github.com/wercker'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/werker-logo.png
+  tags: 'Microservices,Orchestration,Containers,Command Line Interface'
+- slug: hashicorp
+  name: HashiCorp
+  description: >-
+    HashiCorp is a company based in San Francisco that solves development,
+    operations, and security challenges in infrastructure so organizations can
+    focus on business-critical tasks. HashiCorp builds tools to ease these
+    decisions by presenting solutions that span the gaps. Our tools manage both
+    physical machines and virtual machines, Windows, and Linux, SaaS and IaaS,
+    etc. And we're committed to supporting next-generation technologies, as
+    well.
+  url: 'https://www.hashicorp.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/hashicorp'
+  blog: 'https://www.hashicorp.com/blog.html'
+  blog_rss: 'https://www.hashicorp.com/feed.xml'
+  github: 'https://github.com/hashicorp'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hashicorp.png
+  tags: 'Microservices,Logging,Orchestration,Automation'
+- slug: seneca-js
+  name: Seneca JS
+  description: >-
+    A Micro-Services toolkit for Node.js. This toolkit lets you write clean code
+    that you can scale without needing to refactor. Start with everything in one
+    process, and split it all out onto multiple systems when you need to.
+  url: 'http://senecajs.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/senecajs'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/senecajs'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/seneca-logo.png
+  tags: 'Microservices,Deployment,Road Map'
+- slug: dockpit
+  name: Dockpit
+  description: >-
+    Painlesss isolation for your (micro)service development process. Dockpit
+    makes it trivial to develop your (micro)service in isolation. It mocks the
+    APIs you depend on and puts data stores, message queus and service
+    registries in predictable states.
+  url: 'https://dockpit.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/dockpit'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/dockpit'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/dockpit-icon.png
+  tags: 'Microservices,Deployment,Open Source'
+- slug: weblab
+  name: weblab
+  description: >-
+    Microservices at your fingertips. no provisioning or deployments required.
+    give your IoT device compute super powers. Run code in response to events.
+    Your microservice up in less than 7 seconds. Use our awesome CLI to spin a
+    service in seconds. You can also integrate with your favourite CI/CD
+    solution for automated deployments. Run your code with just an HTTPS call.
+    As simple as that. Your mobile or IoT device gets compute superpowers.
+  url: 'https://weblab.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/weblabhq'
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/weblab-io-logo.png
+  tags: 'Microservices,Deployment,Internet of Things,Serverless'
+- slug: hook.io
+  name: Hook.io
+  description: >-
+    hook.io is the leading open-source provider of microservice and webhook
+    hosting. Our service is built with &nbsp;by Developers for Developers.
+    hook.io provides free hosting for Microservices and Webhooks. These hosted
+    services have full integrated access to the hook.io Developer API.
+  url: 'http://hook.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/hookdotio'
+  blog: 'https://hook.io/blog'
+  blog_rss: 'https://hook.io/blog/feed'
+  github: 'https://github.com/bigcompany'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hook-io-logo.png
+  tags: 'Microservices,Deployment,Database,Webhooks'
+- slug: magnetic
+  name: Magnetic
+  description: >-
+    We started Magnetic.io because we were fed up with the way online systems
+    are built in the typical enterprise. Enterprises are held hostage by long
+    and slow development projects that result in high risk, big-bang releases.
+    This kills innovation and stifles change. It is our mission to change this:
+    Magnetic.io is dedicated to developing solutions that enable and stimulate
+    innovation and change, while reducing risk and cost.
+  url: 'http://magnetic.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/magneticio'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/magneticio'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/magnetic-io.jpg
+  tags: 'Microservices,Deployment'
+- slug: micro
+  name: Micro
+  description: >-
+    Micro is an ecosystem which provides the fundamental building blocks for
+    developing and managing distributed systems. Technology is rapidly evolving.
+    Cloud computing now gives us almost unlimited scale, however leveraging that
+    scale with existing tools is still difficult. Micro attempts to solve this
+    problem with a developer first focus.
+  url: 'https://micro.mu/'
+  short_url: ''
+  twitter: 'https://twitter.com/microhq'
+  blog: 'https://blog.micro.mu/'
+  blog_rss: ''
+  github: 'https://github.com/micro'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Micro_-_A_microservice_ecosystem__Simplifying_building_and_managing_distributed_systems_.png
+  tags: 'Microservices,Deployment'
+- slug: netsil
+  name: Netsil
+  description: >-
+    Netsil automatically discovers your application&rsquo;s topology and builds
+    a map of services and stakeholders so that you can visually locate hotspots
+    and failures faster. There&rsquo;s no more code instrumentation, no more
+    hunting through manual documentation to understand services and
+    dependencies.Netsil works the way you want to work: quickly, iteratively and
+    collaboratively. Finally, a solution designed for microservices, containers
+    and modern distributed systems. Download Netsil for the monitoring and
+    performance analytics needs of your production applications.
+  url: 'http://netsil.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/Netsil_HQ'
+  blog: 'https://blog.netsil.com'
+  blog_rss: 'https://blog.netsil.com/feed'
+  github: 'https://github.com/netsil'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/netsil-logo.png
+  tags: 'Microservices,Analysis,Monitoring'
+- slug: lattice
+  name: Lattice
+  description: >-
+    Lattice aspires to make clustering containers easy. Lattice includes a
+    cluster scheduler, http load balancing, log aggregation and health
+    management. Lattice containers can be long running or temporary tasks which
+    get dynamically scaled and balanced across a cluster. Lattice packages
+    components from Cloud Foundry to provide a cloud native platform for
+    individual developers and small teams.
+  url: 'http://lattice.cf/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lattice-logo.png
+  tags: Microservices Deprecated
+- slug: datawire
+  name: Datawire
+  description: >-
+    We're making it easy for organizations to accelerate software innovation at
+    scale, with open source infrastructure for microservices. We've been
+    learning from the some of the smartest organizations adopting microservices
+    (industry details here: microservices.com), and applying their lessons
+    learned to our software.
+  url: 'https://www.datawire.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/datawireio'
+  blog: 'https://www.datawire.io/blog/'
+  blog_rss: 'https://www.datawire.io/feed/'
+  github: 'https://github.com/datawire'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/datawire-logo.png
+  tags: Microservices
+- slug: giant-swarm
+  name: Giant Swarm
+  description: >-
+    Giant Swarm&rsquo;s mission is to give developers the power and freedom to
+    build the software that runs the world. Giant Swarm transforms the world
+    towards microservices. Organizations work with Giant Swarm to easily build,
+    deploy, and run their containerized microservices without thinking about the
+    underlying infrastructure.
+  url: 'https://giantswarm.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/giantswarm'
+  blog: 'https://blog.giantswarm.io/'
+  blog_rss: 'https://blog.giantswarm.io/feed.xml'
+  github: 'https://github.com/giantswarm'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/giant-swarm.png
+  tags: Microservices
+- slug: vamp
+  name: Vamp
+  description: >-
+    Deploy and manage microservices with power and ease. Vamp, or the Very
+    Awesome Microservices Platform, takes the pain out of running complex and
+    critical service based architectures. Vamp's core features are a
+    platform-agnostic microservices DSL, powerful A-B testing/canary releasing,
+    autoscaling and an integrated metrics &amp; event engine.
+  url: 'http://vamp.io/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://vamp.io/blog/'
+  blog_rss: 'http://vamp.io/index.xml'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Vamp____The_Very_Awesome_Microservices_Platform.png
+  tags: Microservices
+- slug: fiorano-software
+  name: Fiorano Software
+  description: >-
+    Fiorano powers real time, digital enterprises with a bimodal integration and
+    API Management strategy that leverages the best of systematic (centralized,
+    high-control) and adaptive (federated, high-speed) approaches to deliver
+    solutions across cloud, on-premise and hybrid environments. We provide
+    microservice-centric platform infrastructure with sophisticated integration
+    capabilities, Connecting Anything to Everything.
+  url: 'http://www.fiorano.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/FioranoGlobal'
+  blog: 'http://www.fiorano.com/blog/'
+  blog_rss: 'http://www.fiorano.com/blog/feed/'
+  github: 'https://github.com/FioranoSoftware'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/fiorano-logo.gif
+  tags: 'Management,Microservices,API Management Other'
+- slug: stackhut
+  name: nStack
+  description: >-
+    Deploy data-science models to the cloud and build workflows with databases,
+    APIs, and more.
+  url: 'http://nstack.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/nstackcom'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/nstack/nstack'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stackhut-logo.png
+  tags: 'Deployment,Serverless,Containers,Microservices'
+- slug: goa
+  name: Goa
+  description: >-
+    goa provides a novel approach for developing microservices that saves time
+    when working on independent services and helps with keeping the overall
+    system consistent.&nbsp;
+  url: 'https://goa.design/'
+  short_url: ''
+  twitter: 'https://twitter.com/goadesign'
+  blog: 'https://goa.design/blog/004-xray/'
+  blog_rss: ''
+  github: 'https://github.com/goadesign'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/goa-logo.png
+  tags: 'Deployment,Microservices'
+- slug: tutum
+  name: Tutum
+  description: >-
+    Tutum lets developers easily manage and run lightweight, portable,
+    self-sufficient containers from any application. The same container that a
+    developer builds and tests on a laptop can run at scale in Tutum. Their
+    solution offers users the best capabilities and features of IaaS and PaaS,
+    without the shortcomings or disadvantages of either one.
+  url: 'https://www.tutum.co/'
+  short_url: ''
+  twitter: 'https://twitter.com/tutumcloud'
+  blog: 'http://blog.tutum.co/'
+  blog_rss: 'http://blog.tutum.co/feed/'
+  github: 'https://github.com/tutumcloud'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tatum-logo.png
+  tags: 'Containers,Microservices,Orchestration,Command Line Interface'
