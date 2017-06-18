@@ -1,2 +1,2051 @@
---- []
+---
+- curated_id: a8e82c399a621324219c0362ba11df93
+  item_date: "2014-08-18 11:23:17"
+  title: Distributed big balls of mud - Coding the Architecture
+  url: http://www.codingthearchitecture.com/2014/07/06/distributed_big_balls_of_mud.html
+  domain: www.codingthearchitecture.com
+  image: ""
+- curated_id: 663c56a127f9803c2fcf380cc6d1ffdd
+  item_date: "2014-09-25 15:56:33"
+  title: 'Pico APIs: Events and Queries'
+  url: http://www.windley.com/archives/2013/12/pico_apis_events_and_queries.shtml
+  domain: www.windley.com
+  image: ""
+- curated_id: e882e4bb3aae528f1082f9215efbef96
+  item_date: "2014-09-26 07:45:00"
+  title: Events, Picos, and Microservices
+  url: http://www.windley.com/archives/2014/09/events_picos_and_microservices.shtml
+  domain: www.windley.com
+  image: ""
+- curated_id: 1732fc2d367fd8ae2f0f52f8bdb847a0
+  item_date: "2014-12-24 00:00:00"
+  title: 'Microservices for Good : How Angel Flight West Uses Technology to Help People
+    in Need'
+  url: http://www.iron.io/blog/microservices-for-good-how-angel-flight
+  domain: www.iron.io
+  image: ""
+- curated_id: 477bd5f4000fc52c4fc4bd934fe39bb1
+  item_date: "2015-01-07 11:37:40"
+  title: 8 Questions You Need to Ask About Microservices, Containers  Docker in 2015
+  url: http://blog.xebialabs.com/2014/12/31/8-questions-need-ask-microservices-containers-docker-2015/
+  domain: blog.xebialabs.com
+  image: ""
+- curated_id: fb638adb038f376034bc629a40c1904e
+  item_date: "2015-01-22 00:00:00"
+  title: The Ephemeral Life of Dockerized Microservices
+  url: http://www.iron.io/blog/the-ephemeral-life-of-dockerized
+  domain: www.iron.io
+  image: ""
+- curated_id: a2934d7161d7daf15ec3a4fd46cecba5
+  item_date: "2015-01-23 00:00:00"
+  title: Expanding the Power of Add-ons
+  url: https://blog.heroku.com/archives/2015/1/23/expanding_the_power_of_add_ons
+  domain: blog.heroku.com
+  image: ""
+- curated_id: 76738989f93f1a5e9b525de34d59b55a
+  item_date: "2015-02-17 00:00:00"
+  title: 'An Outside View on Microservices : Agility and Scale'
+  url: http://www.iron.io/blog/an-outside-view-on-microservices
+  domain: www.iron.io
+  image: ""
+- curated_id: 497074b5e2bec309977640c53391680d
+  item_date: "2015-02-19 00:00:00"
+  title: Microservices with Flask Stack Overflow
+  url: http://stackoverflow.com/questions/28635179/microservices-with-flask
+  domain: stackoverflow.com
+  image: ""
+- curated_id: cb9daed75a7741b2dbdf02d836ee8249
+  item_date: "2015-02-21 09:18:56"
+  title: 'The Netflix Tech Blog: A Microscope on Microservices'
+  url: http://techblog.netflix.com/2015/02/a-microscope-on-microservices.html
+  domain: techblog.netflix.com
+  image: ""
+- curated_id: 56a8f05c1aaf10f75861fe50343e972f
+  item_date: "2015-02-26 19:11:02"
+  title: ""
+  url: http://alpha.apievangelist.com/2015/02/26/making-my-3scale-api-management-portable-with-a-containerized-microservices/
+  domain: alpha.apievangelist.com
+  image: ""
+- curated_id: 82354eb5ab552e58c8df06ef20597164
+  item_date: "2015-03-03 00:00:00"
+  title: How Enterprise PaaS Can Add Critical Value to Microservices
+  url: https://apprenda.com/blog/enterprise-paas-microservices/
+  domain: apprenda.com
+  image: ""
+- curated_id: 9a959e14e6a6a6bddec3b3275fd82ed7
+  item_date: "2015-03-03 00:00:00"
+  title: Managing your Microservices on Heroku with Netflixs Eureka
+  url: https://blog.heroku.com/managing_your_microservices_on_heroku_with_netflix_s_eureka
+  domain: blog.heroku.com
+  image: ""
+- curated_id: 0613fd4530428f20d03e372f1d8a5c55
+  item_date: "2015-03-03 00:00:00"
+  title: 'Microservices: What are They and Why Should You Care?'
+  url: http://www.indix.com/blog/microservices-what-are-they
+  domain: www.indix.com
+  image: ""
+- curated_id: cc5538dadebce6463804421ebdb7d2aa
+  item_date: "2015-03-05 10:42:01"
+  title: 'Microservices: Four Essential Checklists when Getting Started - The New
+    Stack'
+  url: http://thenewstack.io/microservices-four-essential-checklists-getting-started/
+  domain: thenewstack.io
+  image: ""
+- curated_id: 1d5a91dc2fc282b40e23b69ea8714b86
+  item_date: "2015-03-11 10:34:31"
+  title: 'Microservices: Avoiding Dumb Pipes'
+  url: https://intellyx.com/2015/03/11/microservices-avoiding-dumb-pipes/
+  domain: intellyx.com
+  image: ""
+- curated_id: a78ae1e81fe4e9e86bf964a59473855e
+  item_date: "2015-03-11 22:13:24"
+  title: Each microservice is an independent, autonomous process with no dependency
+    on other microservices
+  url: https://plus.google.com/+MikeAmundsen/posts/gTy635fio7s
+  domain: plus.google.com
+  image: ""
+- curated_id: 32b1e399edba7e9d56454e38a5b3e7c0
+  item_date: "2015-03-16 00:00:00"
+  title: The Venn of Microservices
+  url: https://blog.akana.com/the-venn-of-microservices/
+  domain: blog.akana.com
+  image: ""
+- curated_id: 3ea887a40a702dad3919100f8dfad534
+  item_date: "2015-03-16 00:00:00"
+  title: Online Store Application using Microservices and Bluemix
+  url: https://developer.ibm.com/bluemix/2015/03/16/sample-application-using-microservices-bluemix/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: f134d924134421cd0a2f43ae6c39a043
+  item_date: "2015-03-16 02:25:38"
+  title: 'Jay Fields Thoughts: My Answers for Microservices Awkward Questions'
+  url: http://blog.jayfields.com/2015/03/my-answers-for-microservices-awkward.html
+  domain: blog.jayfields.com
+  image: ""
+- curated_id: c4f34e4dbc22bd0ce735dbfe8ceda7bf
+  item_date: "2015-03-16 18:40:52"
+  title: Micro-Services for Dysfunctional Teams
+  url: http://getprismatic.com/story/1425391581854
+  domain: getprismatic.com
+  image: ""
+- curated_id: fe048fa78157ee36a5595d87b872ed11
+  item_date: "2015-03-20 20:29:57"
+  title: Micro-Services for Dysfunctional Teams
+  url: https://dejanglozic.com/2015/03/03/micro-services-for-dysfunctional-teams/
+  domain: dejanglozic.com
+  image: ""
+- curated_id: c35262cb3268650489280fdad3124a5b
+  item_date: "2015-03-21 15:14:13"
+  title: Best Practices for Developing Cloud-Native Applications and Microservice
+    Architectures
+  url: http://thenewstack.io/best-practices-for-developing-cloud-native-applications-and-microservice-architectures/
+  domain: thenewstack.io
+  image: ""
+- curated_id: 9b589b75fe3319880bd630ab80236f27
+  item_date: "2015-03-23 00:00:00"
+  title: Microservices at Constant Contact
+  url: http://techblog.constantcontact.com/tech-talk/microservices-at-constant-contact/
+  domain: techblog.constantcontact.com
+  image: ""
+- curated_id: af9f91a27cf27bfca865ce35827417d3
+  item_date: "2015-03-23 09:25:06"
+  title: 'APIs aren?t apps: Make them as thin and light as possible'
+  url: http://www.infoworld.com/article/2899345/apis/apis-arent-apps-make-them-thin-and-light.html
+  domain: www.infoworld.com
+  image: ""
+- curated_id: b067388f49a339693bb0d58f508d526c
+  item_date: "2015-03-24 08:42:06"
+  title: Drafting a Proposal for a Microservice Maturity/Classification Model
+  url: https://www.voxxed.com/blog/2015/02/microservices-maturityclassification-model-proposal-first-draft/
+  domain: www.voxxed.com
+  image: ""
+- curated_id: 1d2fcef8cef449afd6429e2242c76764
+  item_date: "2015-03-26 00:00:00"
+  title: Performance Issue Considerations for Microservices APIs
+  url: http://blog.smartbear.com/apm/performance-issue-considerations-for-microservices-apis/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: e6a74b0080dda509b1eec317f12185f8
+  item_date: "2015-03-29 00:00:00"
+  title: ""
+  url: https://github.com/Yelp/service-principles
+  domain: github.com
+  image: ""
+- curated_id: d653831806a21b9bce2fd649e8a8126d
+  item_date: "2015-03-31 15:19:00"
+  title: 'Microservices: An Annotated Socratic Diablog'
+  url: http://www.apiacademy.co/microservices-an-annotated-socratic-diablog/
+  domain: www.apiacademy.co
+  image: ""
+- curated_id: 8d6971a3f1cb14a631a4dc37e99026ad
+  item_date: "2015-04-07 00:00:00"
+  title: 'Microservices Architecture: The Good, The Bad, and What You Could Be Doing
+    Better'
+  url: http://nordicapis.com/microservices-architecture-the-good-the-bad-and-what-you-could-be-doing-better/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 5015bcd17fc7bde14b097b2602a694e3
+  item_date: "2015-04-08 12:45:02"
+  title: 'Byte Rot: Utilisation and High Availability analysis: Containers for Microservices'
+  url: http://byterot.blogspot.co.uk/2015/04/microservices-containerisation-in-light-of-cloud-utilisation-and-high-availability.html
+  domain: byterot.blogspot.co.uk
+  image: ""
+- curated_id: 70614be8965e25cd82fca0a32464a36f
+  item_date: "2015-04-08 12:45:13"
+  title: Testing a Microservice Architecture with Docker and Compose
+  url: http://blog.venanti.us/testing-a-microservice-architecture/
+  domain: blog.venanti.us
+  image: ""
+- curated_id: 851a256a0079ce4770f30df073282b32
+  item_date: "2015-04-10 00:00:00"
+  title: 'Microservices on a Macro Scale: Learn Runscope?s Story at an Event Near
+    You'
+  url: http://blog.runscope.com/posts/yaydm5hezf2k6q6onv1la8a2b0a2ax
+  domain: blog.runscope.com
+  image: ""
+- curated_id: 085457eea3bdb18505a2e2f0131e8d0e
+  item_date: "2015-04-17 00:00:00"
+  title: Creating Microservices in Laravel (repost)
+  url: http://blog.iron.io/2015/04/creating-microservices-in-laravel-repost.html
+  domain: blog.iron.io
+  image: ""
+- curated_id: cc708f81901fd27109146365c6933023
+  item_date: "2015-04-20 00:00:00"
+  title: Microsoft announces Azure Service Fabric cloud platform for building microservices
+  url: http://venturebeat.com/2015/04/20/microsoft-announces-azure-service-fabric-cloud-platform-for-building-microservices/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 6137ba7f9b8f4d4e56e17fc964d91d44
+  item_date: "2015-04-21 00:00:00"
+  title: Hubble Gets Lean With Microservices and Iron.io
+  url: http://blog.iron.io/2015/04/hubble-gets-lean-with-microservices-and.html
+  domain: blog.iron.io
+  image: ""
+- curated_id: a14964c8b77943a5fc85d204ec71a2ad
+  item_date: "2015-04-21 16:23:18"
+  title: 'Improving Enterprise Business Process Management Systems: Architecting #cloud-friendly
+    application architecture #apparch (inspired by #microservices)'
+  url: http://improving-bpm-systems.blogspot.ch/2015/04/architecting-cloud-friendly-application.html
+  domain: improving-bpm-systems.blogspot.ch
+  image: ""
+- curated_id: 4ee9c2a2274bf4b0e6af08166bce6cbc
+  item_date: "2015-04-22 00:00:00"
+  title: The Hidden Costs of Microservices
+  url: http://www.stackbuilders.com/news/the-hidden-costs-of-microservices
+  domain: www.stackbuilders.com
+  image: ""
+- curated_id: 2fa01822c0f61619eafd4df3a04e5f6a
+  item_date: "2015-04-28 00:00:00"
+  title: 'Virtual Academy: Exploring Microservice Architecture'
+  url: http://azure.microsoft.com/blog/2015/04/28/virtual-academy-exploring-microservice-architecture/
+  domain: azure.microsoft.com
+  image: ""
+- curated_id: 29eabfb4c96cfb5e0826437816b98c27
+  item_date: "2015-05-01 11:38:48"
+  title: ZStack, an Infrastructure Software with an In-Process Microservices Architecture
+  url: http://thenewstack.io/zstack-an-infrastructure-software-with-an-in-process-microservices-architecture/
+  domain: thenewstack.io
+  image: ""
+- curated_id: 64fd352379b33ef095a1411e9a120f09
+  item_date: "2015-05-08 00:00:00"
+  title: 'Deploying Microservices to AWS at Gilt: Introducing ION-Roller'
+  url: http://www.infoq.com/articles/gilt-deploying-microservices-aws
+  domain: www.infoq.com
+  image: ""
+- curated_id: 815c799d0446ada1a299b549e8cbe43e
+  item_date: "2015-05-12 11:55:15"
+  title: How Runscope overcame microservices challenges
+  url: http://searchsoa.techtarget.com/tip/How-Runscope-overcame-microservices-challenges
+  domain: searchsoa.techtarget.com
+  image: ""
+- curated_id: ed2b6438b6daefd9b8cc279ef8851418
+  item_date: "2015-05-14 00:00:00"
+  title: How To Control User Identity Within Microservices
+  url: http://nordicapis.com/how-to-control-user-identity-within-microservices/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 7e427d2ee465eef6c3f7eae4e4c17de4
+  item_date: "2015-05-18 00:00:00"
+  title: Microservices with Docker, Netflix OSS and IBM Bluemix
+  url: https://www.youtube.com/watch
+  domain: www.youtube.com
+  image: ""
+- curated_id: a8bbe9b4b47bb1366d5018b6e8d0b980
+  item_date: "2015-05-18 00:00:00"
+  title: Introduction to Microservices
+  url: http://nginx.com/blog/introduction-to-microservices/
+  domain: nginx.com
+  image: ""
+- curated_id: 254cffdc8d450dec2c7b83ee2de30fbc
+  item_date: "2015-05-18 00:00:00"
+  title: Microservices Are Breaking (up) the Network
+  url: http://lorimacvittie.sys-con.com/node/3321564
+  domain: lorimacvittie.sys-con.com
+  image: ""
+- curated_id: c330b2b6d6d3b3ca42f3bb0629c2a5e1
+  item_date: "2015-05-18 00:00:00"
+  title: Weaveworks Release ?Weave Scope? for Container and Microservice Monitoring
+  url: http://www.infoq.com/news/2015/05/weave-scope-container-monitoring
+  domain: www.infoq.com
+  image: ""
+- curated_id: 401571229a6cd99b2825bfbcac0738ea
+  item_date: "2015-05-19 00:00:00"
+  title: Microservice Showdown ? REST vs SOAP vs Apache Thrift (And Why It Matters)
+  url: http://nordicapis.com/microservice-showdown-rest-vs-soap-vs-apache-thrift-and-why-it-matters/
+  domain: nordicapis.com
+  image: ""
+- curated_id: d6b98aace548744cb6ec7643ccb56938
+  item_date: "2015-05-20 00:00:00"
+  title: 'A Peek Behind the Curtains: Six Lessons from Building a Microservices-led
+    Company'
+  url: http://blog.runscope.com/posts/six-microservices-lessons
+  domain: blog.runscope.com
+  image: ""
+- curated_id: cbf95dcf0e7c1b6c2af74fa1ab7757f0
+  item_date: "2015-05-22 00:00:00"
+  title: Microservices versus Microsegmentation
+  url: http://lorimacvittie.sys-con.com/node/3336488
+  domain: lorimacvittie.sys-con.com
+  image: ""
+- curated_id: c0dd18b4504ea1a61c23201ccb5dc687
+  item_date: "2015-05-22 10:08:45"
+  title: Microservices on the Edge
+  url: http://www.slideshare.net/launchany/microservices-on-the-edge
+  domain: www.slideshare.net
+  image: ""
+- curated_id: a6ad7f484ffd866738598dddba788204
+  item_date: "2015-05-23 00:00:00"
+  title: 'Microservices: Operationalization of the Network'
+  url: http://lorimacvittie.sys-con.com/node/3268704
+  domain: lorimacvittie.sys-con.com
+  image: ""
+- curated_id: 5145259e3b2e0bc1983f153eae01292b
+  item_date: "2015-05-24 00:00:00"
+  title: Microservices Premium
+  url: http://www.infoq.com/news/2015/05/microservices-premium
+  domain: www.infoq.com
+  image: ""
+- curated_id: 92d5eafc7c76db364062f31e24795e4c
+  item_date: "2015-05-27 00:00:00"
+  title: 'The Che Approach: Automating Developer Workflow'
+  url: http://blog.codenvy.com/automating-developer-workflow/
+  domain: blog.codenvy.com
+  image: ""
+- curated_id: 84c9995478f4e027c6ded5677f03cd7e
+  item_date: "2015-05-27 00:00:00"
+  title: How to Descale an Organization
+  url: http://www.infoq.com/news/2015/05/descaling-organization
+  domain: www.infoq.com
+  image: ""
+- curated_id: 0aaab204cfc7e2d7045a5f610b63360b
+  item_date: "2015-05-27 13:05:30"
+  title: 'Microservices  Containers: Learning from the Past'
+  url: http://www.apiacademy.co/blog/microservices-containers-learning-past
+  domain: www.apiacademy.co
+  image: ""
+- curated_id: f01a6674b01580484e34272b982afc0d
+  item_date: "2015-05-28 00:00:00"
+  title: 'Metering Microservices on OpenShift with 6Fusion?s Delano Seymour: Commons
+    Briefing #13'
+  url: https://blog.openshift.com/metering-microservices-on-openshift-with-6fusions-delano-seymour-commons-briefing-13/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 9838ea31757acdf5a996cbd501103fa8
+  item_date: "2015-06-01 00:00:00"
+  title: Metering Microservices on OpenShift
+  url: https://blog.openshift.com/metering-microservices-on-openshift/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: a3c82f43b6af3b4b2845d5666673c468
+  item_date: "2015-06-05 09:54:16"
+  title: 'AnsibleFest: Ansible on Docker containers, microservices and OpenStack'
+  url: http://sdtimes.com/ansiblefest-ansible-on-docker-containers-microservices-and-openstack/
+  domain: sdtimes.com
+  image: ""
+- curated_id: b53e3310279dd381100d2b5da709d34e
+  item_date: "2015-06-06 00:00:00"
+  title: 'Capgemini Apollo: An Open Source Microservice and Big Data Platform'
+  url: http://www.infoq.com/news/2015/06/capgemini-apollo
+  domain: www.infoq.com
+  image: ""
+- curated_id: 709fdc57a0389f6babb3ad86841d3f28
+  item_date: "2015-06-10 00:00:00"
+  title: 'Stefan Tilkov: Skip the Monolith, Start with Microservices'
+  url: http://www.infoq.com/news/2015/06/monolith-vs-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 82bda21a44859a43a1188053136f89ec
+  item_date: "2015-06-13 00:00:00"
+  title: Taming Dependency Hell within Microservices with Michael Bryzek
+  url: https://www.infoq.com/news/2015/06/taming-dependency-hell
+  domain: www.infoq.com
+  image: ""
+- curated_id: a0c4f86b611adb9a6bf91ff8e810752c
+  item_date: "2015-06-13 00:00:00"
+  title: 'Presentation: Building and Deploying Microservices with Event Sourcing,
+    CQRS and Docker'
+  url: https://www.infoq.com/presentations/microservices-docker-cqrs
+  domain: www.infoq.com
+  image: ""
+- curated_id: b9e6400d795db7c5b0ca25204b80e770
+  item_date: "2015-06-14 00:00:00"
+  title: Eric Evans on DDD, Microservices and Boundaries
+  url: http://www.infoq.com/news/2015/06/dddx-microservices-boundaries
+  domain: www.infoq.com
+  image: ""
+- curated_id: dad3462ff0d0665ce641cb435edb4aaa
+  item_date: "2015-06-14 00:00:00"
+  title: 'The Journey to Microservices Part 1 : Top 10 Gotchas (so far?)'
+  url: http://www.confuciussayscode.com/
+  domain: www.confuciussayscode.com
+  image: ""
+- curated_id: 2cac2ab5c3cb4147199e1773f5accaa8
+  item_date: "2015-06-15 00:00:00"
+  title: Microservices and HTTP/2 By @LMacVittie
+  url: http://lorimacvittie.sys-con.com/node/3343849
+  domain: lorimacvittie.sys-con.com
+  image: ""
+- curated_id: 3857f1c7e1dd526e0c01b4b6fac06a00
+  item_date: "2015-06-15 00:00:00"
+  title: Microservices Architecture Day Appearance
+  url: http://www.apiman.io/blog/microservices/conference/talk/2015/06/15/apiman-msa-day.html
+  domain: www.apiman.io
+  image: ""
+- curated_id: bbcb2ca6e585e0731957259d73802ef9
+  item_date: "2015-06-16 00:00:00"
+  title: 3 Strategies For Developing Microservices
+  url: http://nordicapis.com/3-ways-to-build-microservices/
+  domain: nordicapis.com
+  image: ""
+- curated_id: bce18fc5d9450847f5282eb8aec1ade9
+  item_date: "2015-06-21 00:00:00"
+  title: 'Monitoring Microservices and Containers: A Challenge by Adrian Cockcroft'
+  url: http://www.infoq.com/news/2015/06/monitoring-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 8f61ba5901d0b90d09938c2cf8706e4c
+  item_date: "2015-06-22 00:00:00"
+  title: API Management and Microservices
+  url: http://www.windley.com//archives/2015/06/api_management_and_microservices.shtml
+  domain: www.windley.com
+  image: ""
+- curated_id: d2fd247c707b5d88b3823bac67b3642d
+  item_date: "2015-06-24 00:00:00"
+  title: 'The OpenShift Journey: A Tale of Cloud, DevOps, Microservices, and Containers'
+  url: https://blog.openshift.com/the-openshift-journey-a-tale-of-cloud-devops-microservices-and-containers/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: c0946a7702027d0fe254bd227739094e
+  item_date: "2015-06-25 00:00:00"
+  title: Microservices and HTTP/2
+  url: http://lorimacvittie.sys-con.com/node/3347701
+  domain: lorimacvittie.sys-con.com
+  image: ""
+- curated_id: 97f39fa0234a6fbc465f575813bea254
+  item_date: "2015-06-25 10:23:32"
+  title: API Management and Microservices
+  url: http://www.windley.com//archives/2015/06/api_management_and_microservices.shtml#st_refDomain=&amp;st_refQuery=
+  domain: www.windley.com
+  image: ""
+- curated_id: f1cdd84a79573a4a230c3a826d362e60
+  item_date: "2015-06-26 00:00:00"
+  title: Adrian Cockcroft on the Challenges of Managing Microservices
+  url: http://www.infoq.com/news/2015/06/managing-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 182488157a97135a717e3b0a938774b5
+  item_date: "2015-06-29 00:00:00"
+  title: DDD, Events and Microservices
+  url: http://www.infoq.com/news/2015/06/ddd-events-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 7317b929e8760c0c81542e5adb0f7953
+  item_date: "2015-07-01 11:02:23"
+  title: Microservice Trade-Offs
+  url: http://martinfowler.com/articles/microservice-trade-offs.html
+  domain: martinfowler.com
+  image: ""
+- curated_id: 0780bfe70ee1c5b504c96498f27b3354
+  item_date: "2015-07-02 00:00:00"
+  title: Writing Microservices in Go
+  url: http://nordicapis.com/writing-microservices-in-go/
+  domain: nordicapis.com
+  image: ""
+- curated_id: e5f9a045ddc9c2a4fea10c5593cee214
+  item_date: "2015-07-02 00:00:00"
+  title: Challenges When Implementing Microservices and Why Programming Style Matters
+  url: http://www.infoq.com/news/2015/07/microservices-programming-style
+  domain: www.infoq.com
+  image: ""
+- curated_id: 5fc562b57da186dd2121af22202b2175
+  item_date: "2015-07-05 00:00:00"
+  title: Udi Dahan on Reuse in Business Logic and Microservices
+  url: http://www.infoq.com/news/2015/07/dahan-reuse-logic-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 9578b0ff279ca2cb13d5c62baa219e69
+  item_date: "2015-07-07 00:00:00"
+  title: 'Article: Lessons Learned Adopting Microservices at Gilt, Hailo and nearForm'
+  url: http://www.infoq.com/articles/microservices-gilt-hailo-nearform
+  domain: www.infoq.com
+  image: ""
+- curated_id: 90674dc41970971597fdb854b4fca439
+  item_date: "2015-07-09 00:00:00"
+  title: Exploring Microservices Architecture on Heroku
+  url: http://www.javacodegeeks.com/2015/07/exploring-microservices-architecture-on-heroku.html
+  domain: www.javacodegeeks.com
+  image: ""
+- curated_id: b4a0e81f166a479aa60242a1197b4d22
+  item_date: "2015-07-09 12:04:10"
+  title: Introduction to Microservices
+  url: https://www.nginx.com/blog/introduction-to-microservices/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 80e62ebd4ee0bf000b6e4f9833fa9ece
+  item_date: "2015-07-10 00:00:00"
+  title: 'Presentation: Microservices - Are Your Frameworks Ready?'
+  url: http://www.infoq.com/presentations/microservices-jvm-stacks
+  domain: www.infoq.com
+  image: ""
+- curated_id: e0ee3f996f92c752027a39801876fd55
+  item_date: "2015-07-10 15:21:38"
+  title: '?Microservices 101: The good, the bad and the ugly'
+  url: http://www.zdnet.com/article/microservices-101-the-good-the-bad-and-the-ugly/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: 77a4746ea4511aa3c0baf27229c4e8c3
+  item_date: "2015-07-12 00:00:00"
+  title: 'Presentation: Microservices and the Art of Taming the Dependency Hell Monster'
+  url: https://www.infoq.com/presentations/microservices-dependencies
+  domain: www.infoq.com
+  image: ""
+- curated_id: bb2033d407e6ea55da8f777dbf9e1325
+  item_date: "2015-08-10 00:00:00"
+  title: 'Mobile Architecture Webinar Series: The Power of Microservices in Mobile
+    Application Development'
+  url: http://www.kinvey.com/blog/4245/mobile-architecture-webinar-series-the-power-of-microservices-in-mobile-application-development
+  domain: www.kinvey.com
+  image: ""
+- curated_id: 50e56795f304f473f8a76b008abe4211
+  item_date: "2015-08-24 00:00:00"
+  title: 9 Reasons Microservices Matter to Architects, Developers  Testers
+  url: http://blog.smartbear.com/readyapi/9-reasons-microservices-matter-to-architects-developers-testers/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: 3d70aa3df310f1cb3017446b6940d904
+  item_date: "2015-08-26 00:00:00"
+  title: 'APIs and micro-services: how everything you do online is changing'
+  url: http://thenextweb.com/insider/2015/08/26/apis-and-micro-services-how-everything-you-do-online-is-changing/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 3fe707df586969e8179f95e26dfef74b
+  item_date: "2015-09-01 00:00:00"
+  title: Microservices with minimum overhead using ASP.NET Web API and Azure ? Part
+    1
+  url: http://www.codeproject.com/Articles/1024164/Microservices-with-minimum-overhead-using-ASP-NET
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 0bc7656511e42d63201ea7a8cfb12efd
+  item_date: "2015-09-02 00:00:00"
+  title: 'Building Microservices with Go and ?Go kit?: Peter Bourgon QA'
+  url: http://www.infoq.com/news/2015/09/microservices-with-go-kit
+  domain: www.infoq.com
+  image: ""
+- curated_id: f17fde06a30600412b1f406c312032d8
+  item_date: "2015-09-09 20:26:52"
+  title: How we ended up with microservices.
+  url: http://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html
+  domain: philcalcado.com
+  image: ""
+- curated_id: 0bfb403dd98b4645471a0a82e9417741
+  item_date: "2015-09-13 00:00:00"
+  title: Disposable Microservices
+  url: http://www.infoq.com/news/2015/09/disposable-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 7cdd004ed830dcccdf5b649664586b39
+  item_date: "2015-09-13 00:00:00"
+  title: 'An Introduction to Microservices, Part 2: The API Gateway'
+  url: https://auth0.com/blog/2015/09/13/an-introduction-to-microservices-part-2-API-gateway/
+  domain: auth0.com
+  image: ""
+- curated_id: 1e618756cb7bce8c05b719236689ff09
+  item_date: "2015-10-20 00:00:00"
+  title: 'Tutorial Proposal: Using Domain Driven Design to Architect Microservices'
+  url: http://www.windley.com//archives/2015/10/tutorial_proposal_using_domain_driven_design_to_architect_microservices.shtml
+  domain: www.windley.com
+  image: ""
+- curated_id: ff07ad3bd1368c28c6a052a3180447e9
+  item_date: "2015-11-06 00:00:00"
+  title: Why monolithic apps are often better than microservices
+  url: https://gigaom.com/2015/11/06/why-monolithic-apps-are-often-better-than-microservices/
+  domain: gigaom.com
+  image: ""
+- curated_id: 9d3fbd1f6bb1b1fcf9cd90f87cb3f935
+  item_date: "2015-11-06 12:49:41"
+  title: Thinking Small on Civic Tech
+  url: http://civic.io/2015/11/06/thinking-small-on-civic-tech/
+  domain: civic.io
+  image: ""
+- curated_id: 345ef27796fc739abc815a98949c4caa
+  item_date: "2015-11-23 00:00:00"
+  title: Explore and prototype microservices with Postman and Hivepod
+  url: http://blog.getpostman.com/2015/11/24/explore-and-prototype-microservices-with-postman-and-hivepod/
+  domain: blog.getpostman.com
+  image: ""
+- curated_id: 32079bb1c6c599a760b3fdd1cbbdfac3
+  item_date: "2015-11-23 16:21:26"
+  title: 'Microservices: An architecture from scratch using Docker, Swarm, Compose,
+    Consul, Facter and Flocker | au courant technology'
+  url: http://aucouranton.com/2015/10/03/microservices-an-architecture-from-scratch-using-docker-swarm-compose-consul-facter-and-flocker/
+  domain: aucouranton.com
+  image: ""
+- curated_id: 462e7f9a402c69f3b80e2f6870e0a68f
+  item_date: "2015-11-26 14:49:24"
+  title: ""
+  url: https://github.com/advantageous/qbit/releases/tag/0.9.1.RELEASE
+  domain: github.com
+  image: ""
+- curated_id: 81063cc93d52f1707e8866480ef5a006
+  item_date: "2015-12-08 00:00:00"
+  title: 'Upcoming Webinar: Microservices, Cloud Integration, and the Internet of
+    APIs'
+  url: https://www.built.io/blog/2015/12/upcoming-webinar-microservices-cloud-integration-and-the-internet-of-apis/
+  domain: www.built.io
+  image: ""
+- curated_id: 0565ed13d48bd3606f6edc624570eb1f
+  item_date: "2015-12-13 00:00:00"
+  title: SOA versus Microservices?
+  url: http://www.infoq.com/news/2015/12/soa-v-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 3da748a74b7c7fce212b3b5b7604720e
+  item_date: "2015-12-13 00:00:00"
+  title: Moving from a Monolithic to a Microservices Architecture
+  url: http://www.infoq.com/news/2015/12/monolith-to-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 45049bb76155ea0f71821763a6b4a3ba
+  item_date: "2015-12-14 00:00:00"
+  title: Developing and Testing Microservices
+  url: http://www.infoq.com/news/2015/12/developing-testing-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 4473b9bb82c32814dd25015401624053
+  item_date: "2015-12-14 00:00:00"
+  title: Microservices at Spotify
+  url: http://www.infoq.com/news/2015/12/microservices-spotify
+  domain: www.infoq.com
+  image: ""
+- curated_id: e03861aeb7c9fada382f4ead14464288
+  item_date: "2015-12-15 00:00:00"
+  title: Microservices are Not the Same as SOA
+  url: http://www.softwareag.com/blog/reality_check/index.php/authors-for-home/microservices-are-not-the-same-as-soa/
+  domain: www.softwareag.com
+  image: ""
+- curated_id: 993159f55314c6c9796c2abb22182493
+  item_date: "2015-12-17 00:00:00"
+  title: 'WSO2 Microservices Server: Microservices in Ten Minutes!'
+  url: http://wso2.com/blogs/thesource/2015/12/wso2-microservices-server-microservices-in-ten-minutes/
+  domain: wso2.com
+  image: ""
+- curated_id: 8e5cb742ef60f7c283bd199c6b54249c
+  item_date: "2015-12-18 00:00:00"
+  title: Support for Microservices
+  url: http://www.infoq.com/news/2015/12/support-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 686da7c9ed89f16a8cd6ce58ed6cebea
+  item_date: "2015-12-18 12:50:46"
+  title: '@inadarei: Microservices Is No Free Lunch - But It Is Smart Nutrition'
+  url: http://www.freshblurbs.com/blog/2015/12/18/microservices-smart-nutrition.html
+  domain: www.freshblurbs.com
+  image: ""
+- curated_id: c349393371bd58d9f9e5efcc8aea4bda
+  item_date: "2015-12-21 00:00:00"
+  title: Are microservices just SOA redux?
+  url: http://gigaom.com/2015/12/21/are-microservices-just-soa-redux/
+  domain: gigaom.com
+  image: ""
+- curated_id: 7847f1a3777cd5cec66aad6e0dad7029
+  item_date: "2016-01-04 00:00:00"
+  title: 'Presentation: The Seven Deadly Sins of Microservices'
+  url: http://www.infoq.com/presentations/7-sins-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 04529e5f0edbbe038d1d3c284e7e854b
+  item_date: "2016-01-05 00:00:00"
+  title: The Rise of Microservices
+  url: https://www.apicasystem.com/blog/microservice-architecture/
+  domain: www.apicasystem.com
+  image: ""
+- curated_id: 1b1c4fd149708ee3a596eb9662be2d94
+  item_date: "2016-01-05 00:00:00"
+  title: 'Article: Exposing the Lucene Library as a Microservice with Baratine'
+  url: http://www.infoq.com/articles/Building-a-Lucene-Microservice-with-Baratine
+  domain: www.infoq.com
+  image: ""
+- curated_id: ca9639b949dc00a4039060a83ee2dea8
+  item_date: "2016-01-11 00:00:00"
+  title: 'Introducing frock: Easy fake services for a microservices environment'
+  url: https://www.urbanairship.com/blog/introducing-frock-easy-fake-services-for-a-microservices-environment
+  domain: www.urbanairship.com
+  image: ""
+- curated_id: d78137239014f7c60765370d601f167d
+  item_date: "2016-01-11 09:38:44"
+  title: The Power, Patterns, and Pains of Microservices
+  url: https://dzone.com/articles/the-power-patterns-and-pains-of-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: 0599e74d214385766e22805ccf61992d
+  item_date: "2016-01-12 00:00:00"
+  title: 'Presentation: Enabling Microservices with Domain Driven Design and Ports  Adapters'
+  url: http://www.infoq.com/presentations/ddd-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 03052a4dc8b7cb84b7f0e1e65dad43c0
+  item_date: "2016-01-13 07:52:55"
+  title: New ? Slack Integration Blueprints for AWS Lambda
+  url: https://aws.amazon.com/blogs/aws/new-slack-integration-blueprints-for-aws-lambda/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: f5c2ba2a55f6d74ac0ae47b4a4137aa5
+  item_date: "2016-01-15 00:00:00"
+  title: 'The future is modular: IoT, Microservices and music gear'
+  url: http://blogs.ca.com/2016/01/15/the-future-is-modular-iot-microservices-and-music-gear/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: a681091bc73910d3366e695ebbc8db9c
+  item_date: "2016-01-18 12:49:54"
+  title: 'Ken Owens, Cisco: Microservices Frameworks for Handling Complexity at Scale'
+  url: http://thenewstack.io/cisco-microservices-frameworks-handling-complexity-scale/
+  domain: thenewstack.io
+  image: ""
+- curated_id: 732502ef232cb48c7fba83bb401512b9
+  item_date: "2016-01-19 00:00:00"
+  title: Continuous Delivery and Release Automation for Microservices
+  url: https://dzone.com/articles/continuous-delivery-and-release-automation-for-mic
+  domain: dzone.com
+  image: ""
+- curated_id: 3c1e516ba6c3ec32afdb61d722b5c7e5
+  item_date: "2016-01-20 00:00:00"
+  title: Leveraging Microservices to Reduce Complexity and Deliver an Optimal Customer
+    Experience
+  url: http://blogs.ca.com/2016/01/20/leveraging-microservices-to-reduce-complexity-and-deliver-an-optimal-customer-experience/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: d6e3b263d333c2a72717041dc852a304
+  item_date: "2016-01-20 11:58:35"
+  title: Building Resilient Microservices from the Fallacies of Distributed Computing
+  url: https://datawire.io/using-fallacies-of-distributed-computing-to-build-resilient-microservices/
+  domain: datawire.io
+  image: ""
+- curated_id: 25cb891a3fdcc045d2a5e5e85578a36a
+  item_date: "2016-01-21 00:00:00"
+  title: Premature Microservices
+  url: https://dzone.com/articles/premature-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: ea8014ed1e74375fabe517469d59e7d0
+  item_date: "2016-01-22 00:00:00"
+  title: Microservices 101 ? What I Have Learned So Far
+  url: https://dzone.com/articles/microservices-101-what-i-have-learned-so-far
+  domain: dzone.com
+  image: ""
+- curated_id: 951805f229554dc0cbf373cf314740f1
+  item_date: "2016-01-24 00:00:00"
+  title: Introducing ?Gizmo?, a Golang-based Microservices Toolkit from The New York
+    Times Development Team
+  url: http://www.infoq.com/news/2016/01/gizmo-microservices-toolkit
+  domain: www.infoq.com
+  image: ""
+- curated_id: aaab65d6863ec81870b078bcf4a7e060
+  item_date: "2016-01-25 00:00:00"
+  title: Microservices Use Cases
+  url: https://dzone.com/articles/microservices-use-cases
+  domain: dzone.com
+  image: ""
+- curated_id: caeac5665c42c7d5137899fe9a385213
+  item_date: "2016-01-25 09:25:06"
+  title: Building with Microservices and Docker
+  url: https://medium.com/@dwolla/building-with-microservices-and-docker-92ffc631690c#.9n0l3dhhu
+  domain: medium.com
+  image: ""
+- curated_id: d9cfdaa10ac1ec002e49954db4616533
+  item_date: "2016-01-27 00:00:00"
+  title: Microservices in the Real World
+  url: http://www.infoq.com/articles/microservices-real-world
+  domain: www.infoq.com
+  image: ""
+- curated_id: edeffed5b92f4cdc4d594b901dfb3e47
+  item_date: "2016-01-28 00:00:00"
+  title: Metrics for Microservices
+  url: https://dzone.com/articles/metrics-for-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: fbb6fed6dd52a22e8ce50a1565da1d6c
+  item_date: "2016-02-02 07:40:13"
+  title: Divide and conquer in software architecture
+  url: http://www.computerweekly.com/feature/Divide-and-conquer-in-software-architecture
+  domain: www.computerweekly.com
+  image: ""
+- curated_id: af15d201b64330cb1a47445f5f78f54d
+  item_date: "2016-02-03 00:00:00"
+  title: 'Weekly Top 10: DevOps and Microservices'
+  url: https://dzone.com/articles/weekly-top-10-devops-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: ec696c42a02ec2d0d80e350f09d65849
+  item_date: "2016-02-07 00:00:00"
+  title: A Microservice Primer
+  url: http://voxpop.co/go.cfm
+  domain: voxpop.co
+  image: ""
+- curated_id: 4ef13eae570e685475fbe01865d031c8
+  item_date: "2016-02-10 00:00:00"
+  title: Choosing a Microservices Deployment Strategy
+  url: https://www.nginx.com/blog/deploying-microservices/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 75fcff7eb72885d0f77c4cf6daf1758e
+  item_date: "2016-02-10 00:00:00"
+  title: API microservices, the Unix philosophy, and the Richardson Maturity...
+  url: https://medium.com/@chrstphrhrt/microservices-the-unix-philosophy-and-the-richardson-maturity-model-425abed44826
+  domain: medium.com
+  image: ""
+- curated_id: 754bed928636037defe7780a08ac52bc
+  item_date: "2016-02-11 00:00:00"
+  title: From Monolith to Microservices, Zalandos Journey
+  url: http://www.infoq.com/news/2016/02/Monolith-Microservices-Zalando
+  domain: www.infoq.com
+  image: ""
+- curated_id: 9902243731f99f08ecb5adc6dd175494
+  item_date: "2016-02-13 00:00:00"
+  title: 'Continuous Discussions (#c9d9) Podcast: ? Microservices and Continuous Delivery'
+  url: https://dzone.com/articles/continuous-discussions-c9d9-podcast-episode-34-mic
+  domain: dzone.com
+  image: ""
+- curated_id: 5d7909c8f812de9eadeb2bd05f87b988
+  item_date: "2016-02-14 00:00:00"
+  title: '?It?s Not Just Microservices?: Fred George Discusses Technology, Process
+    and Organisation Inhibitors'
+  url: http://www.infoq.com/news/2016/02/not-just-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: c554766b221bc7e928af9d125d6bbd6c
+  item_date: "2016-02-15 00:00:00"
+  title: Using Domain-Driven Design When Creating Microservices
+  url: http://www.infoq.com/news/2016/02/ddd-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: c7e382aaa9edaef5c01432eee04b768e
+  item_date: "2016-02-16 00:00:00"
+  title: Expecting Failures in Microservices and Working Around Them
+  url: https://dzone.com/articles/expecting-failures-in-microservices-and-working-ar
+  domain: dzone.com
+  image: ""
+- curated_id: 9515b6426199265d576ec27ea3b2e7db
+  item_date: "2016-02-18 00:00:00"
+  title: Introduction to Microservices Part 1
+  url: https://dzone.com/articles/introduction-to-microservices-part-1
+  domain: dzone.com
+  image: ""
+- curated_id: 5e0cc1986534623beb75e711157cbd39
+  item_date: "2016-02-19 00:00:00"
+  title: Building Microservice Infrastructure with Ciscos Mantl 1.0
+  url: http://www.infoq.com/news/2016/02/cisco-mantl-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: 457fcff52d24521c7898885856e94530
+  item_date: "2016-02-19 00:00:00"
+  title: 'Building Microservices: Using an API Gateway Part 2'
+  url: https://dzone.com/articles/building-microservices-using-an-api-gateway-part-2
+  domain: dzone.com
+  image: ""
+- curated_id: 296be0906aa0fce3beb597d2823ade52
+  item_date: "2016-02-19 00:00:00"
+  title: Microservices in Go using Go-kit
+  url: https://blog.heroku.com/archives/2016/2/19/microservices_in_go_using_go_kit
+  domain: blog.heroku.com
+  image: ""
+- curated_id: bb80c3c3bd8e3b0aa45a8b69cc1986b2
+  item_date: "2016-02-20 00:00:00"
+  title: 'Building Microservices: Inter-Process Communication in a Microservices Architecture
+    Part 3'
+  url: https://dzone.com/articles/building-microservices-inter-process-communication-2
+  domain: dzone.com
+  image: ""
+- curated_id: f309b7c69ecfe01fbe5143b57ae02463
+  item_date: "2016-02-21 00:00:00"
+  title: 'Interview: Josh Long on Spring Boot, Spring Cloud and Microservices'
+  url: http://www.infoq.com/interviews/long-spring-boot-cloud
+  domain: www.infoq.com
+  image: ""
+- curated_id: 7024d7e49fe9893dce7473d397b8dfb8
+  item_date: "2016-02-21 00:00:00"
+  title: Service Discovery in a Microservices Architecture Part 4
+  url: https://dzone.com/articles/service-discovery-in-a-microservices-architecture-1
+  domain: dzone.com
+  image: ""
+- curated_id: 1e09fbc4f5acf41467d2ef5891ccf73b
+  item_date: "2016-02-21 00:00:00"
+  title: Performance Patterns in Microservices-Based Integrations
+  url: https://dzone.com/articles/performance-patterns-in-microservices-based-integr
+  domain: dzone.com
+  image: ""
+- curated_id: 4d923539355a6864bc1352da7a2f92b8
+  item_date: "2016-02-22 00:00:00"
+  title: Event-Driven Data Management for Microservices Part 5
+  url: https://dzone.com/articles/event-driven-data-management-for-microservices-par
+  domain: dzone.com
+  image: ""
+- curated_id: 00561bb8db2bd3695b5390d24efe1d44
+  item_date: "2016-02-22 00:00:00"
+  title: 'Polyglot Microservices: Application Integration With Apache Thrift'
+  url: https://dzone.com/articles/polyglot-microservices-and-apache-thrift
+  domain: dzone.com
+  image: ""
+- curated_id: 3bd419c8b6dae6fe92313baa34947c34
+  item_date: "2016-02-23 00:00:00"
+  title: 'Article: Automate Deployment  Management of Docker Cloud/Virtual Java Microservices
+    with DCHQ'
+  url: http://www.infoq.com/articles/Automate-Docker-Cloud-Java-Microservice-Deployment-with-DCHQ
+  domain: www.infoq.com
+  image: ""
+- curated_id: 8399abe78bb77dccef4096096f38796a
+  item_date: "2016-02-23 00:00:00"
+  title: Choosing a Microservices Deployment Strategy Part 6
+  url: https://dzone.com/articles/deploying-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: 84c39de8d3257ad8e766fd734aab6deb
+  item_date: "2016-02-23 00:00:00"
+  title: Microservices Architecture (MSA) is Nothing but Evolved SOA
+  url: https://dzone.com/articles/microservices-architecture-is-nothing-but-evolved-soa
+  domain: dzone.com
+  image: ""
+- curated_id: 201f7efb3b878b9867e1e6bde48195d2
+  item_date: "2016-02-24 00:00:00"
+  title: Microservices Ending up as a Distributed Monolith
+  url: http://www.infoq.com/news/2016/02/services-distributed-monolith
+  domain: www.infoq.com
+  image: ""
+- curated_id: 53291665cc576aac332e87229914bf98
+  item_date: "2016-02-25 00:00:00"
+  title: 'Weekly Top 10: Considering Microservices? Here are Some Tips from the Community
+    to Keep in Mind'
+  url: https://dzone.com/articles/weekly-top-10-considering-microservices-here-are-s
+  domain: dzone.com
+  image: ""
+- curated_id: c6ebd7eb95719e53dc87d0cb6dd242fc
+  item_date: "2016-02-25 00:00:00"
+  title: Building a Web Frontend with Microservices and NGINX Plus
+  url: https://www.nginx.com/blog/building-a-web-frontend-with-microservices-and-nginx-plus/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 947b33ef2d67a6af05aae83c150cda13
+  item_date: "2016-02-28 00:00:00"
+  title: 'Creating Microservice Deployment Pipelines with Netflix?s Spinnaker: A Perspective
+    from Google'
+  url: http://www.infoq.com/news/2016/02/microservice-deploys-spinnaker
+  domain: www.infoq.com
+  image: ""
+- curated_id: 62f39cfcd082791c4fc792be05d02eac
+  item_date: "2016-02-29 00:00:00"
+  title: Microservices with APIs Consumers Favour
+  url: http://www.infoq.com/news/2016/02/microservices-api
+  domain: www.infoq.com
+  image: ""
+- curated_id: 8a0577f7fbd6f24f75fd6e9c5a1facc5
+  item_date: "2016-02-29 00:00:00"
+  title: Failure Testing of Microservices
+  url: http://www.infoq.com/news/2016/02/microservices-failure-testing
+  domain: www.infoq.com
+  image: ""
+- curated_id: b45f63a9e813dc4739b05c451073c08f
+  item_date: "2016-03-01 00:00:00"
+  title: Microservices, Integration, and Building Your Digital Enterprise
+  url: https://dzone.com/articles/microservices-integration-and-building-your-digita
+  domain: dzone.com
+  image: ""
+- curated_id: 401a9607235079b7b4bda8a016f7a02f
+  item_date: "2016-03-02 00:00:00"
+  title: Using Netflix Zuul to Proxy your Microservices
+  url: https://blog.heroku.com/using_netflix_zuul_to_proxy_your_microservices
+  domain: blog.heroku.com
+  image: ""
+- curated_id: 049fef87ce63812fa605d928c279d22b
+  item_date: "2016-03-02 00:00:00"
+  title: Connect your micro-services with queues.
+  url: http://cbblog.azurewebsites.net/in-search-for-agility/
+  domain: cbblog.azurewebsites.net
+  image: ""
+- curated_id: 28067912b05b8e5eb2f9454991e16be1
+  item_date: "2016-03-05 13:37:10"
+  title: 'Aggregation is the New Virtualization: How Microservices Are Taming Distributed
+    Computing'
+  url: http://a16z.com/2015/04/08/aggregation-is-the-new-virtualization-how-microservices-are-taming-distributed-computing/
+  domain: a16z.com
+  image: ""
+- curated_id: b854ab0a37585a3b98bfe096a2c7d59d
+  item_date: "2016-03-08 00:00:00"
+  title: Refactoring a Monolith into Microservices
+  url: https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 69baffd00d74b83e27021448b1b0a641
+  item_date: "2016-03-10 00:00:00"
+  title: A Quick Primer on Microservices
+  url: https://dzone.com/articles/a-quick-primer-on-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: cb2d771a82b2c435a9464c685d06eac3
+  item_date: "2016-03-10 00:00:00"
+  title: 'Presentation: The Simple Life of ReSTful Microservices'
+  url: http://www.infoq.com/presentations/microservices-rest
+  domain: www.infoq.com
+  image: ""
+- curated_id: 806aac62dcab756fa58effe5e411a068
+  item_date: "2016-03-10 00:00:00"
+  title: Searching the UK Parliament API from Slack Slash Commands Using a Python
+    Microservice  via Hook.io Webhooks
+  url: http://blog.ouseful.info/2016/03/10/searching-the-uk-parliament-api-from-slack-slash-commands-using-a-python-microservice-via-hook-io-webhooks/
+  domain: blog.ouseful.info
+  image: ""
+- curated_id: d8ba228f320aa541c674e18a55d975f0
+  item_date: "2016-03-14 00:00:00"
+  title: Microservices for a Streaming World
+  url: https://www.infoq.com/news/2016/03/microservices-streams-kafka
+  domain: www.infoq.com
+  image: ""
+- curated_id: be667702ae16553a2051db4141d4c11f
+  item_date: "2016-03-14 00:00:00"
+  title: Microservices - Myths and Misunderstanding
+  url: https://dzone.com/articles/microservices-myths-and-misunderstanding
+  domain: dzone.com
+  image: ""
+- curated_id: ed7403a2d9bc5cfa3b08757409ebf152
+  item_date: "2016-03-15 00:00:00"
+  title: Chaos Testing of Microservices
+  url: http://www.infoq.com/news/2016/03/chaos-testing-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: d66f7ee8463bb031a7062796083a9c81
+  item_date: "2016-03-15 00:00:00"
+  title: Anti-Patterns Working with Microservices
+  url: http://www.infoq.com/news/2016/03/microservices-anti-patterns
+  domain: www.infoq.com
+  image: ""
+- curated_id: a769a8f9ff5cf88a9b698d2a95560e54
+  item_date: "2016-03-16 00:00:00"
+  title: 'Simple, Composable Microservices: An IoT Example Using Raspberry Pi 2 and
+    NATS.io'
+  url: https://dzone.com/articles/simple-composable-microservices-an-iot-example-usi
+  domain: dzone.com
+  image: ""
+- curated_id: 431c748aa43555eaa7ee7f41e4912208
+  item_date: "2016-03-16 00:00:00"
+  title: 'Microservice Architecture: The O?Reilly Book'
+  url: http://www.apiacademy.co/microservice-architecture-the-oreilly-book/
+  domain: www.apiacademy.co
+  image: ""
+- curated_id: 6e8540fffff0b5c6145a0be13ceb5e59
+  item_date: "2016-03-16 10:36:27"
+  title: 'Slack, Chatbots, and Voice: At the Intersection of Humans and APIs - LaunchAny'
+  url: http://launchany.com/slack-chatbots-and-voice-at-the-intersection-of-humans-and-apis/
+  domain: launchany.com
+  image: ""
+- curated_id: cb776a5bc401d3cd157fa582b607f10f
+  item_date: "2016-03-17 00:00:00"
+  title: Building a Web Frontend With Microservices and Nginx Plus
+  url: https://dzone.com/articles/building-a-web-frontend-with-microservices-and-ngi
+  domain: dzone.com
+  image: ""
+- curated_id: 0b769a71d0676f24e130db4d26db813a
+  item_date: "2016-03-18 10:30:08"
+  title: Serverless Microservices in JavaScript
+  url: http://www.thedotpost.com/2015/12/nicolas-grenie-serverless-microservices-in-javascript
+  domain: www.thedotpost.com
+  image: ""
+- curated_id: 92dbc5aa2b5846d35e476e58b160b0f3
+  item_date: "2016-03-21 00:00:00"
+  title: 'Article: Microservices Evolution at SoundCloud'
+  url: http://www.infoq.com/articles/microservices-evolution-soundcloud
+  domain: www.infoq.com
+  image: ""
+- curated_id: 5b9fc26574a988f21585b869952bf691
+  item_date: "2016-03-22 00:00:00"
+  title: API Connect Has Arrived!
+  url: https://strongloop.com/strongblog/api-connect-has-arrived/
+  domain: strongloop.com
+  image: ""
+- curated_id: d8c51d5825bebb141cda12b8fa4af44e
+  item_date: "2016-03-23 15:07:05"
+  title: The revival of Domain-Driven Design in the context of microservices
+  url: https://speakerdeck.com/olivergierke/the-revival-of-domain-driven-design-in-the-context-of-microservices
+  domain: speakerdeck.com
+  image: ""
+- curated_id: 28a6db74d0da90dc3f01bb007366f3ea
+  item_date: "2016-03-24 00:00:00"
+  title: Free Mini Book ? Reactive Microservices
+  url: https://dzone.com/articles/free-mini-book-about-reactive-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: 2bff0a7ff3d59274df18b428915cc30a
+  item_date: "2016-03-24 00:00:00"
+  title: Building Microservices with WildFly Swarm and Netflix OSS on OpenShift
+  url: https://blog.openshift.com/building-microservices-wildfly-swarm-netflix-oss-openshift/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: a8141e994246fdd48a9fa1dee2c69d28
+  item_date: "2016-03-24 00:00:00"
+  title: Service Virtualization Strategy (Sandboxing) for Microservice
+  url: https://dzone.com/articles/service-virtualization-strategy-sandboxing-for-mic
+  domain: dzone.com
+  image: ""
+- curated_id: f3099f100817333e256c59052eb031fb
+  item_date: "2016-03-25 00:00:00"
+  title: JHipster 3.0 Released with Microservices Support
+  url: http://www.infoq.com/news/2016/03/jhipster-3-with-microservices
+  domain: www.infoq.com
+  image: ""
+- curated_id: f04208b97b6537ac8aa4687962cdf424
+  item_date: "2016-03-26 00:00:00"
+  title: Microservices, Legacy Applications, and the Relational Database
+  url: https://dzone.com/articles/microservices-legacy-applications-and-the-relation
+  domain: dzone.com
+  image: ""
+- curated_id: ab98f17df8b9d67f8c0f39bc66fbefa8
+  item_date: "2016-03-30 00:00:00"
+  title: 'Building and Running Micro Services on OpenShift: Part I'
+  url: https://blog.openshift.com/building-and-running-micro-services-on-openshift-part-i/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: a37afe065aedfeda7a2feeb81c71935d
+  item_date: "2016-03-30 00:00:00"
+  title: Developers Will Rescue Enterprise Apps and They?ll Do It Using Microservices
+  url: https://dzone.com/articles/developers-will-rescue-enterprise-apps-and-theyll
+  domain: dzone.com
+  image: ""
+- curated_id: 4de1594634d59061de39cfcee2e91f19
+  item_date: "2016-04-02 00:00:00"
+  title: Why Netflix Moved to a Microservices Architecture
+  url: http://www.programmableweb.com/news/why-netflix-moved-to-microservices-architecture/elsewhere-web/2016/04/02
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: a6d834a862cf2d58603a81f0903d56de
+  item_date: "2016-04-03 00:00:00"
+  title: How Microservices Are Transforming Python Development
+  url: https://dzone.com/articles/how-microservices-are-transforming-python-developm
+  domain: dzone.com
+  image: ""
+- curated_id: f8f38bffd7ddb239aa4b183376ac455c
+  item_date: "2016-04-05 00:00:00"
+  title: 'The Microservices Discussion: Didn?t We Do This Before?'
+  url: http://wso2.com/blogs/thesource/2016/04/the-microservices-discussion-didnt-we-do-this-before/
+  domain: wso2.com
+  image: ""
+- curated_id: 3655551c60b103d588459f0ef2362eed
+  item_date: "2016-04-06 00:00:00"
+  title: Your Microservices Effort Will Fail If You Only Focus On The Technical Details
+  url: https://dzone.com/articles/your-microservices-effort-will-fail-if-you-only-fo
+  domain: dzone.com
+  image: ""
+- curated_id: 645ba6c069120633fba81e640ae488c5
+  item_date: "2016-04-07 00:00:00"
+  title: Planning Your Docker-Based Microservice Stack
+  url: https://dzone.com/articles/planning-your-docker-based-microservice-stack
+  domain: dzone.com
+  image: ""
+- curated_id: c9f4059c97779a4e32118f1e5c3da23c
+  item_date: "2016-04-10 00:00:00"
+  title: Free Mini Book about Reactive Microservices
+  url: https://dzone.com/articles/free-mini-book-about-reactive-microservices-1
+  domain: dzone.com
+  image: ""
+- curated_id: 89f7282495b5561fe865f5aa3d31e4b5
+  item_date: "2016-04-13 00:00:00"
+  title: Microservice Architectures With Spring Cloud and Docker
+  url: https://dzone.com/articles/microservice-architecture-with-spring-cloud-and-do
+  domain: dzone.com
+  image: ""
+- curated_id: dab44691287e17789532c4ac5a7c6ea5
+  item_date: "2016-04-13 15:07:03"
+  title: Exploring Microservices Architecture on Heroku
+  url: https://blog.codeship.com/exploring-microservices-architecture-on-heroku/
+  domain: blog.codeship.com
+  image: ""
+- curated_id: aece3579a732db03fcd25f465d49531d
+  item_date: "2016-04-14 00:00:00"
+  title: Microservices, Service Registries, and Architectural Debt
+  url: http://lorimacvittie.sys-con.com/node/3769333
+  domain: lorimacvittie.sys-con.com
+  image: ""
+- curated_id: 71f7d1baa6b76959992634bf0c5aa9d3
+  item_date: "2016-04-15 00:00:00"
+  title: ""
+  url: https://www.nginx.com/blog/monitoring-microservices-docker-containers-nginx-amplify/
+  domain: www.nginx.com
+  image: ""
+- curated_id: ab2797cb88e9050853580beb713cf991
+  item_date: "2016-04-16 00:00:00"
+  title: Patterns and Processes for Continuous Delivery of Microservices
+  url: https://dzone.com/articles/patterns-and-processes-for-continuous-delivery-of
+  domain: dzone.com
+  image: ""
+- curated_id: 73e78ed754afb5e8645dbb6f35e7d9f0
+  item_date: "2016-04-17 00:00:00"
+  title: Challenges of Microservices Deployments
+  url: https://www.infoq.com/news/2016/04/msa-deployment-challenges
+  domain: www.infoq.com
+  image: ""
+- curated_id: 9625514fbb402234a01433d991259423
+  item_date: "2016-04-18 00:00:00"
+  title: Introducing the NGINX Microservices Reference Architecture
+  url: https://www.nginx.com/blog/introducing-the-nginx-microservices-reference-architecture/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 0d7ee4cd67595c428e5ca6f5b57f2fb7
+  item_date: "2016-04-18 09:00:05"
+  title: Build Well-Designed Microservice APIs to Avoid Technical Debt
+  url: https://www.datawire.io/build-well-designed-microservice-apis-avoid-technical-debt/
+  domain: www.datawire.io
+  image: ""
+- curated_id: 80da4d40884f9e989557fb86981ff429
+  item_date: "2016-04-18 15:10:35"
+  title: Microservices - the good the bad and the truth
+  url: http://rz.scale-it.pl/2016/04/06/microservices___the_good_the_bad_and_the_truth.html
+  domain: rz.scale-it.pl
+  image: ""
+- curated_id: ce16766f245865aedeac5f4e1f4fdbf9
+  item_date: "2016-04-19 00:00:00"
+  title: 'The Microservices Discussion: Didn?t We Do This Before?'
+  url: https://dzone.com/articles/the-microservices-discussion-didnt-we-do-this-befo
+  domain: dzone.com
+  image: ""
+- curated_id: 2542ff63f547a150f3975f5521a8d0a2
+  item_date: "2016-04-19 00:00:00"
+  title: NGINX Amplify Monitors Microservices in Docker Containers
+  url: https://dzone.com/articles/nginx-amplify-monitors-microservices-in-docker-con
+  domain: dzone.com
+  image: ""
+- curated_id: e622226051e1f508bda422c7ca6d4bab
+  item_date: "2016-04-21 00:00:00"
+  title: Bootstrapping Your Microservices Architecture with JHipster and Spring
+  url: https://blog.heroku.com/archives/2016/4/21/bootstrapping_your_microservices_architecture_with_jhipster_and_spring
+  domain: blog.heroku.com
+  image: ""
+- curated_id: af5baa5e158df64552c79a9aca54aae6
+  item_date: "2016-04-24 00:00:00"
+  title: Top 2 Features of Self-healing Microservices
+  url: https://dzone.com/articles/top-2-features-of-self-healing-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: 73cc8db1b29f7d07179767c37e6dd844
+  item_date: "2016-04-25 00:00:00"
+  title: Microservices and Containers in the Middleware World
+  url: http://www.tibco.com/blog/2016/04/25/microservices-and-containers-in-the-middleware-world/
+  domain: www.tibco.com
+  image: ""
+- curated_id: ece844d7ef71ba2b305062a6b4ffb99d
+  item_date: "2016-04-26 00:00:00"
+  title: Sap Tv Asks iron.io to Explain Microservices
+  url: https://dzone.com/articles/sap-tv-asks-ironio-to-explain-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: c9ccf3bc7e4c20dac8d6d5323c9bc5d6
+  item_date: "2016-04-26 00:00:00"
+  title: Scaling Kubernetes Microservices on OpenStack With TOSCA Orchestration Pt
+    I of II
+  url: https://dzone.com/articles/scaling-kubernetes-microservices-on-openstack-with-1
+  domain: dzone.com
+  image: ""
+- curated_id: 53b3f6f23b5c88bb39ba3eb6c1752d17
+  item_date: "2016-04-26 00:00:00"
+  title: 'Connecting Your Applications, Part I: NGINX and Microservices'
+  url: https://www.nginx.com/blog/connecting-applications-part-nginx-microservices/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 2bcb3dc6b58825bd9af31711d8971fbb
+  item_date: "2016-04-27 00:00:00"
+  title: Getting Started With Microservices on Docker and Cloud 66
+  url: https://dzone.com/articles/getting-started-with-microservices-on-docker-and-c
+  domain: dzone.com
+  image: ""
+- curated_id: 81a9b1c832b4f120e7ae2d2420a82c03
+  item_date: "2016-04-28 09:35:52"
+  title: 'Rewriting Uber Engineering: The Opportunities Microservices Provide'
+  url: https://getpocket.com/@joemccann/share/580990
+  domain: getpocket.com
+  image: ""
+- curated_id: afdd70528ccb996262a2cb8c7f827877
+  item_date: "2016-04-29 00:00:00"
+  title: Microservices Arrived at Your Home
+  url: https://dzone.com/articles/microservices-arrived-at-your-home
+  domain: dzone.com
+  image: ""
+- curated_id: 6aa0f6a7f376dd22183532a028b1c9f6
+  item_date: "2016-04-30 00:00:00"
+  title: 7 Deadly Sins of a Microservices Architecture
+  url: http://www.programmableweb.com/news/7-deadly-sins-microservices-architecture/elsewhere-web/2016/04/30
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bdac4229b1694b5106deaaafe323ec4d
+  item_date: "2016-05-02 00:00:00"
+  title: Do You Need a Microservices Architecture?
+  url: https://dzone.com/articles/do-you-need-a-microservices-architecture
+  domain: dzone.com
+  image: ""
+- curated_id: 27eb6f1ca36a0411f6551b89b9bc2ab3
+  item_date: "2016-05-02 00:00:00"
+  title: Monolithic vs Microservice Architecture
+  url: https://dzone.com/articles/monolithic-vs-microservice-architecture
+  domain: dzone.com
+  image: ""
+- curated_id: f78a9bad076a6f46142710f8c3718e28
+  item_date: "2016-05-03 00:00:00"
+  title: 'Article: Locating Common Micro Service Performance Anti-Patterns'
+  url: http://www.infoq.com/articles/Diagnose-Microservice-Performance-Anti-Patterns
+  domain: www.infoq.com
+  image: ""
+- curated_id: ed87761bfa6c3096ee6c5140559c5772
+  item_date: "2016-05-03 00:00:00"
+  title: Enabling Microservice Architecture with Middleware
+  url: http://wso2.com/blogs/thesource/2016/05/enabling-microservice-architecture-with-middleware/
+  domain: wso2.com
+  image: ""
+- curated_id: e1383ad896202f5d6ce377e63a161fe4
+  item_date: "2016-05-03 00:00:00"
+  title: How We Use Neo4j to Manage Microservices at Veneto Banca
+  url: https://dzone.com/articles/how-we-use-neo4j-to-manage-microservices-at-veneto
+  domain: dzone.com
+  image: ""
+- curated_id: 35378d822f4cfac7616dc21887fd7b65
+  item_date: "2016-05-05 00:00:00"
+  title: 'Microservice Architectures: Why Use Microservices?'
+  url: http://www.programmableweb.com/news/what-are-microservices-and-why-should-you-use-them/analysis/2016/05/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 29b6ad399af1fd9040accca8a97cc4a3
+  item_date: "2016-05-05 00:00:00"
+  title: Starting Dropwizard Microservices
+  url: https://dzone.com/articles/starting-dropwizard-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: 2c859531254b6755168db3939754f722
+  item_date: "2016-05-05 00:00:00"
+  title: Understanding The Role of APIs In Microservice Architectures
+  url: http://www.programmableweb.com/news/understanding-role-apis-microservice-architectures/analysis/2016/05/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: bdd1057a8485f3b52c172181f9477dc9
+  item_date: "2016-05-06 00:00:00"
+  title: 'Article: Microservice Threading Models and Their Tradeoffs'
+  url: http://www.infoq.com/articles/engstrand-microservice-threading
+  domain: www.infoq.com
+  image: ""
+- curated_id: d5af2291378e061cfdb6c70f15affc77
+  item_date: "2016-05-07 00:00:00"
+  title: Microservices, Containers, Docker, and a Cloud-Native Architecture in the
+    Middleware World
+  url: https://dzone.com/articles/microservices-containers-docker-and-a-cloud-native
+  domain: dzone.com
+  image: ""
+- curated_id: ed750ce34645745a45cccf54078b4994
+  item_date: "2016-05-09 00:00:00"
+  title: Deploying EJB JARs to a WildFly Swarm Microservice
+  url: https://dzone.com/articles/deploying-ejb-jars-to-a-wildfly-swarm-microservice
+  domain: dzone.com
+  image: ""
+- curated_id: e55d59adc8484ee8f0a68c436ad6fd3c
+  item_date: "2016-05-10 00:00:00"
+  title: Can You Do Serious Microservices Without a PaaS?
+  url: https://dzone.com/articles/can-you-do-serious-microservices-without-a-paas
+  domain: dzone.com
+  image: ""
+- curated_id: 9eca161dd62f9448ea02bce7030bea1c
+  item_date: "2016-05-11 00:00:00"
+  title: Zoomdata Taps into Microservices for Data Visualization
+  url: http://www.itbusinessedge.com/blogs/it-unmasked/zoomdata-taps-into-microservices-for-data-visualization.html
+  domain: www.itbusinessedge.com
+  image: ""
+- curated_id: 83c064348349f19c6caf8e3cca67a063
+  item_date: "2016-05-13 00:00:00"
+  title: Microservices Architecture and Container Technology Explained
+  url: https://dzone.com/articles/microservices-architecture-and-container-technolog
+  domain: dzone.com
+  image: ""
+- curated_id: 9d2abbded4a9cc49fc4e07a1d373b5b3
+  item_date: "2016-05-16 00:00:00"
+  title: 'Cars, Pi Cameras and ASCII Art: Microservices With Liberty and Game On!'
+  url: https://dzone.com/articles/cars-pi-cameras-and-ascii-art-microservices-with-l
+  domain: dzone.com
+  image: ""
+- curated_id: 4224086e4eb94073bfc1714ea99fa3d6
+  item_date: "2016-05-18 00:00:00"
+  title: 'Microservices: From Design to Deployment, a Free Ebook from NGINX'
+  url: https://www.nginx.com/blog/microservices-from-design-to-deployment-ebook-nginx/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 5e3b2a8e12bf632ce8fb9090194ea70a
+  item_date: "2016-05-20 00:00:00"
+  title: 'Monitoring Microservice Applications: Introducing the Dynamic Graph'
+  url: https://dzone.com/articles/monitoring-microservice-applications-introducing-t
+  domain: dzone.com
+  image: ""
+- curated_id: 4731b2c8c97f878dd4684d63f93abd25
+  item_date: "2016-05-23 00:00:00"
+  title: Feature Flagging for Back-End  Microservices
+  url: https://dzone.com/articles/feature-flagging-for-back-end-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: 89df1eee9e21f5e94ee7d233ab04a516
+  item_date: "2016-05-24 00:00:00"
+  title: Network Dynamics and Microservices
+  url: https://dzone.com/articles/network-dynamics-and-micro-services
+  domain: dzone.com
+  image: ""
+- curated_id: 30db89159b52a0527d021435dda9aa25
+  item_date: "2016-05-25 00:00:00"
+  title: Walking the Microservices Path Towards Loose Coupling? Look out for These
+    Pitfalls
+  url: https://dzone.com/articles/walking-the-microservices-path-towards-loose-coupl
+  domain: dzone.com
+  image: ""
+- curated_id: 96aa1cc16e78b200e9e1bf13ae3128cf
+  item_date: "2016-05-26 00:00:00"
+  title: How We Turned Our GitHub README Model Into a Microservice
+  url: http://blog.algorithmia.com/2016/05/how-we-hosted-our-model-as-a-microservice/
+  domain: blog.algorithmia.com
+  image: ""
+- curated_id: 3ea6c49a43eb0dd6e7a5503daa1cc47a
+  item_date: "2016-05-30 00:00:00"
+  title: 'Microservices: The Spring Boot Way'
+  url: https://dzone.com/articles/microservices-spring-boot-way
+  domain: dzone.com
+  image: ""
+- curated_id: caa3502c32b534efce8d3ca6727a3c2d
+  item_date: "2016-06-01 00:00:00"
+  title: Microservices vs. SOA
+  url: https://dzone.com/articles/microservices-vs-soa-2
+  domain: dzone.com
+  image: ""
+- curated_id: 8c1a6f8c425bc361d82476e66c98a9ae
+  item_date: "2016-06-08 00:00:00"
+  title: Microservices and Netflix?Innovation at Scale
+  url: https://dzone.com/articles/microservices-and-netflix-innovation-at-scale
+  domain: dzone.com
+  image: ""
+- curated_id: c144aaab9fd9c4ebb884776966e4e41d
+  item_date: "2016-06-08 00:00:00"
+  title: Scalable Microservices Through Messaging
+  url: https://dzone.com/articles/scalable-microservices-through-messaging
+  domain: dzone.com
+  image: ""
+- curated_id: 9984a8312735b05ca2e0efcb66abb6fa
+  item_date: "2016-06-10 00:00:00"
+  title: Relation of Middleware to Microservices, Docker, and Cloud-Native Architectures
+  url: https://dzone.com/articles/relation-of-middleware-to-docker-and-cloud-native
+  domain: dzone.com
+  image: ""
+- curated_id: a6973b4525c189eac21ca49079e51bf9
+  item_date: "2016-06-13 00:00:00"
+  title: Putting the Micro Into Microservices With Raspberry Pi
+  url: https://dzone.com/articles/putting-the-micro-into-microservices-with-raspberr
+  domain: dzone.com
+  image: ""
+- curated_id: 7ad9fe45460c84b41938c774e117b0d8
+  item_date: "2016-06-15 00:00:00"
+  title: ""
+  url: https://www.nginx.com/blog/microservices-reference-architecture-part-3the-fabricmodel/
+  domain: www.nginx.com
+  image: ""
+- curated_id: f083b40818d66c69f998ad5477232de7
+  item_date: "2016-06-15 00:00:00"
+  title: Writing a Microservice in Ruby
+  url: https://dzone.com/articles/writing-a-microservice-in-ruby
+  domain: dzone.com
+  image: ""
+- curated_id: 65adcfe8a2f9c8e99f91a299f0bfaf6d
+  item_date: "2016-06-17 00:00:00"
+  title: 'Serverless Microservices (and Minimal Ops): Current Limitations of AWS Lambda'
+  url: https://dzone.com/articles/serverless-microservices-and-minimal-ops-current-l
+  domain: dzone.com
+  image: ""
+- curated_id: b2b16274216738100e7dc89a30d1666e
+  item_date: "2016-06-20 00:00:00"
+  title: JSON Web Tokens With Spring Cloud Microservices
+  url: http://www.codeproject.com/Articles/1107850/JSON-Web-Tokens-With-Spring-Cloud-Microservices
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 2e8a92cdcc71fb7990c04dca38837b5e
+  item_date: "2016-06-21 00:00:00"
+  title: ""
+  url: https://dzone.com/articles/microservices-with-spring-boot-axon-cqrses-anddock
+  domain: dzone.com
+  image: ""
+- curated_id: 4beb16d9503b2e01b8de274419f41383
+  item_date: "2016-06-23 00:00:00"
+  title: 'How Belly Scales Using API Proxies with their Microservices Architecture:
+    Interview with Darby Frey'
+  url: https://blog.heroku.com/how-belly-scales-using-api-proxies-with-their-microservices-architecture
+  domain: blog.heroku.com
+  image: ""
+- curated_id: 85cc805a5ebfe401916a8ed82f1a5231
+  item_date: "2016-06-23 00:00:00"
+  title: 'Docker Compose + NATS: Microservices Development Made Easy'
+  url: https://dzone.com/articles/docker-compose-nats-microservices-development-made
+  domain: dzone.com
+  image: ""
+- curated_id: cabf6799863ae85c26a943abfb5d1d4d
+  item_date: "2016-06-23 00:00:00"
+  title: Microservices Best Practices
+  url: https://dzone.com/articles/microservices-best-practices
+  domain: dzone.com
+  image: ""
+- curated_id: 6d1c0c0e662251d07d11f00088d18578
+  item_date: "2016-06-24 00:00:00"
+  title: 'Lessons Learned from the #api360 Microservices Summit 2016'
+  url: https://www.infoq.com/news/2016/06/api360-microservices-summit
+  domain: www.infoq.com
+  image: ""
+- curated_id: 1f75ffa5e14d3f63a14a52dfdd5e6790
+  item_date: "2016-06-27 00:00:00"
+  title: Creating a scalable API with microservices
+  url: https://cloudplatform.googleblog.com/2016/06/creating-a-scalable-API-with-microservices.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 38e729ab89063750a62ac4ceca7a5a1c
+  item_date: "2016-06-28 00:00:00"
+  title: Security Enforcement of Microservices
+  url: https://dzone.com/articles/security-enforcement-of-the-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: ea3049776b58fe9eb00ecc337e715e65
+  item_date: "2016-06-29 00:00:00"
+  title: Beef Up Your Microservices With API Management
+  url: https://www.3scale.net/2016/06/beef-up-your-microservices-with-api-management/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 2a5535929df6377b26166ec72e9bb771
+  item_date: "2016-06-29 00:00:00"
+  title: Microservices with Go Micro and NATS.io
+  url: https://dzone.com/articles/microservices-with-go-micro-and-natsio
+  domain: dzone.com
+  image: ""
+- curated_id: 9568d5ce7c278a5ace3c9475278e083d
+  item_date: "2016-06-29 00:00:00"
+  title: 'OpenShift Ecosystem: Making Sense of Microservices Consumption with 6fusion
+    and Red Hat OpenShift'
+  url: https://blog.openshift.com/openshift-ecosystem-making-sense-microservices-consumption-6fusion-red-hat-openshift/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 42b51ba172b008ea85bae22227d91e5a
+  item_date: "2016-07-01 00:00:00"
+  title: 'Sophisticated and Powerful Microservices: Algorithmia'
+  url: https://dzone.com/articles/sophisticated-and-powerful-microservices-algorithm
+  domain: dzone.com
+  image: ""
+- curated_id: 0c8ff50114efc99e35dc4d777499a366
+  item_date: "2016-07-04 00:00:00"
+  title: The Life of a Serverless Microservice on AWS
+  url: https://dzone.com/articles/the-life-of-a-serverless-microservice-on-aws
+  domain: dzone.com
+  image: ""
+- curated_id: f0d51eb8fce6b1ff254603f0764bba07
+  item_date: "2016-07-06 00:00:00"
+  title: Learn Microservices in Java
+  url: https://dzone.com/refcardz/learn-microservices-in-java
+  domain: dzone.com
+  image: ""
+- curated_id: 3beba26a02a29f20a2324d9a473ad382
+  item_date: "2016-07-08 00:00:00"
+  title: Increase Security by Transitioning From Monolith to Microservices Architecture
+  url: https://dzone.com/articles/increase-security-by-transitioning-from-monolith-t
+  domain: dzone.com
+  image: ""
+- curated_id: 21628aad3863c5facbdbf0f0f351f41f
+  item_date: "2016-07-10 00:00:00"
+  title: Four Tips for Logging Microservices
+  url: https://dzone.com/articles/four-tips-for-logging-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: b340333a317edca570834f0c407a5235
+  item_date: "2016-07-11 00:00:00"
+  title: Warewolf brings the power of its microservices to the Microsoft Azure cloud
+    platform
+  url: https://warewolf.io/ESB-blog/microservices-to-azure-cloud-platform/
+  domain: warewolf.io
+  image: ""
+- curated_id: 9c5e0774583d0d584f218d64591ce6a8
+  item_date: "2016-07-13 00:00:00"
+  title: 16 Open Source Deep Learning Models Running as Microservices
+  url: http://blog.algorithmia.com/2016/07/open-source-deep-learning-algorithm-roundup/
+  domain: blog.algorithmia.com
+  image: ""
+- curated_id: 4abe0394da88713509e23be028cb38ce
+  item_date: "2016-07-13 00:00:00"
+  title: Introducing the Microservices Development Kit and Mission Control
+  url: https://www.datawire.io/introducing-datawire-microservices-development-kit-mission-control/
+  domain: www.datawire.io
+  image: ""
+- curated_id: c21828afd2576732d864a6d6b3be8c5b
+  item_date: "2016-07-13 00:00:00"
+  title: Microservices With AngularJS, Spring Boot, and Kafka
+  url: https://dzone.com/articles/developing-async-microservices-architecture-using
+  domain: dzone.com
+  image: ""
+- curated_id: 320f6468645d92b88c6ed021a8740006
+  item_date: "2016-07-16 00:00:00"
+  title: Transactions in Microservices
+  url: https://dzone.com/articles/transactions-in-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: ea72a9b024824281fadaec6a8b7677e8
+  item_date: "2016-07-18 00:00:00"
+  title: Utilizing Microservices for Performance
+  url: https://dzone.com/articles/micro-services-for-performance
+  domain: dzone.com
+  image: ""
+- curated_id: 1a3314c4e535c216b9798ce39c052aa2
+  item_date: "2016-07-18 00:00:00"
+  title: Microservices Without Containers
+  url: https://dzone.com/articles/microservices-without-containers
+  domain: dzone.com
+  image: ""
+- curated_id: 7817ddc3f9ea1ea9384a2d0ed21ca5c1
+  item_date: "2016-07-21 10:18:13"
+  title: The End of Microservices ? LightStep ? See Production in a New Light
+  url: http://lightstep.com/blog/the-end-of-microservices/
+  domain: lightstep.com
+  image: ""
+- curated_id: b1d9a965f0bf9552b23f1fe7e91576ec
+  item_date: "2016-07-22 00:00:00"
+  title: Building Microservices? Here is what you should know
+  url: https://cloudncode.wordpress.com/2016/07/22/msa-getting-started/
+  domain: cloudncode.wordpress.com
+  image: ""
+- curated_id: 211fc15b75b9659acd0fe32cf6833c35
+  item_date: "2016-07-22 00:00:00"
+  title: 'Kubernetes at Box: Microservices at Maximum Velocity'
+  url: https://www.box.com/blog/kubernetes-box-microservices-maximum-velocity/
+  domain: www.box.com
+  image: ""
+- curated_id: 7adae632768c27486705cb3ca39fd378
+  item_date: "2016-07-30 00:00:00"
+  title: 'How to Monitor Microservices: Openshift and Docker'
+  url: https://blog.openshift.com/how-to-monitor-microservices-openshift-and-docker-openshift-commons-briefing-45/
+  domain: blog.openshift.com
+  image: ""
+- curated_id: 4d31ac1f89fa766eb5b557f99885e811
+  item_date: "2016-07-31 00:00:00"
+  title: Vaughn Vernon on Microservices and Domain-Driven Design
+  url: https://www.infoq.com/news/2016/07/microservices-ddd-vernon
+  domain: www.infoq.com
+  image: ""
+- curated_id: 33dcee9e4e2679648b1e9ede23b95dd4
+  item_date: "2016-08-01 00:00:00"
+  title: AppDynamics Releases Microservices IQ Monitoring Tool
+  url: https://dzone.com/articles/appdynamics-releases-microservices-iq-monitoring-t
+  domain: dzone.com
+  image: ""
+- curated_id: cb8674226aa3945a78e5c6fe13927fb1
+  item_date: "2016-08-02 00:00:00"
+  title: Go Archive Support for Microservices
+  url: https://dzone.com/articles/go-archive-support-for-microservice
+  domain: dzone.com
+  image: ""
+- curated_id: 5fb97bba6a27c730d0f5ea43662bcc7e
+  item_date: "2016-08-04 00:00:00"
+  title: 'Microservices Essentials for Executives: The Key to High Velocity Software
+    Development'
+  url: https://www.datawire.io/microservices-essentials-executives-key-high-velocity-software-development/
+  domain: www.datawire.io
+  image: ""
+- curated_id: 2c43a85a00db6ae83244f171e324505e
+  item_date: "2016-08-06 00:00:00"
+  title: Five Approaches for Automating Microservices Testing
+  url: https://dzone.com/articles/5-approaches-for-automating-microservices-testing
+  domain: dzone.com
+  image: ""
+- curated_id: 79d7d38b61f8e4bae880a52cca533a4a
+  item_date: "2016-08-07 00:00:00"
+  title: Introducing Microservices iQ
+  url: https://dzone.com/articles/introducing-microservices-iq
+  domain: dzone.com
+  image: ""
+- curated_id: 79dae0027ba6dce6e060a15a94984f58
+  item_date: "2016-08-08 00:00:00"
+  title: Distributed Apps, Microservices, and the Shift Away From Root Cause Analysis
+  url: https://dzone.com/articles/distributed-apps-microservices-and-the-shift-away-1
+  domain: dzone.com
+  image: ""
+- curated_id: 41179eb05b411e1dca6982d625c2e699
+  item_date: "2016-08-08 12:17:39"
+  title: Have your own Microservices playground
+  url: http://developers.redhat.com/blog/2016/07/27/have-your-own-microservices-playground/
+  domain: developers.redhat.com
+  image: ""
+- curated_id: 13da2b7008c59bafce73f502a6f9a3ed
+  item_date: "2016-08-09 00:00:00"
+  title: A WebSocket Chat Microservice in Java
+  url: https://dzone.com/articles/a-microservice-websocket-chat
+  domain: dzone.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2016-08-09 00:00:00"
+  title: Netsil launches public beta
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 0be952fd84a4f1e6389d7cd2177d911a
+  item_date: "2016-08-10 00:00:00"
+  title: Scalable Microservices Using the KumuluzEE Framework
+  url: https://dzone.com/users/login.html
+  domain: dzone.com
+  image: ""
+- curated_id: 1948377644aecba65e2cd003b1effc71
+  item_date: "2016-08-11 00:00:00"
+  title: Deploying Kubernetes on CoreOS to AWS
+  url: https://dzone.com/articles/deploying-kubernetes-on-coreos-tonbspaws
+  domain: dzone.com
+  image: ""
+- curated_id: 8f98a2f115deb0548374dcf394564a27
+  item_date: "2016-08-11 13:55:55"
+  title: 'Tweet: The Bakery Model for Building Container Images and Microservices
+    | @thenewstack https://t.co/tmrR5dgnKq @vivekjuneja'
+  url: https://twitter.com/datawireio/statuses/763841396382064641
+  domain: twitter.com
+  image: ""
+- curated_id: d5e9d6a041e1662ed310a0a2da7433b8
+  item_date: "2016-08-16 00:00:00"
+  title: 'Trends in Version Control Land: Microservices'
+  url: https://about.gitlab.com/2016/08/16/trends-in-version-control-land-microservices/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: 07030b7359842e6c587af8abc07dba34
+  item_date: "2016-08-16 00:00:00"
+  title: Application Insights and Semantic Logging for Service Fabric Microservices
+  url: http://www.medic-consulting.com/2016/08/12/Application-Insights-and-Semantic-Logging-for-Service-Fabric-Microservices/
+  domain: www.medic-consulting.com
+  image: ""
+- curated_id: 999b2cbe124ffea4fc4df04902a5ee06
+  item_date: "2016-08-17 00:00:00"
+  title: Taking Microservices Home
+  url: https://www.nginx.com/blog/taking-microservices-home/
+  domain: www.nginx.com
+  image: ""
+- curated_id: 9c04849ccee69584974c044ce7b7888c
+  item_date: "2016-08-19 00:00:00"
+  title: How Ariane Is Moving from Monolith to Microservices with NATS
+  url: http://nats.io/blog/ariane-mapping-microservice-with-nats/
+  domain: nats.io
+  image: ""
+- curated_id: 14e04b066e7267fb3e686c40d0c67bf8
+  item_date: "2016-08-22 13:47:50"
+  title: AWS ALB???The Container and Microservice Load Balancer
+  url: https://convox.com/blog/alb/
+  domain: convox.com
+  image: ""
+- curated_id: 0c99d7512875f118414a13498db14270
+  item_date: "2016-08-24 00:00:00"
+  title: 'The Data Briefing: Microservices and Serverless Apps ? A New Direction for
+    Federal Government Mobile Apps?'
+  url: https://www.digitalgov.gov/2016/08/24/the-data-briefing-microservices-and-serverless-apps-a-new-direction-for-federal-government-mobile-apps/
+  domain: www.digitalgov.gov
+  image: ""
+- curated_id: fa2b8d2988330cb2277110a0d8d36aef
+  item_date: "2016-08-26 00:00:00"
+  title: Building a Microservices Control Plane Using NATS and Docker Engine v1.12
+  url: https://dzone.com/articles/building-a-microservices-control-plane-using-nats
+  domain: dzone.com
+  image: ""
+- curated_id: ce0f7748875cc9c8b81592b9c830e06d
+  item_date: "2016-08-26 00:00:00"
+  title: Netflix Offers Comprehensive Insight into Its Microservices Approach
+  url: http://www.programmableweb.com/news/netflix-offers-comprehensive-insight-its-microservices-approach/elsewhere-web/2016/08/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: cd99b68f65dce387cf4eb583abf76860
+  item_date: "2016-08-26 00:00:00"
+  title: Why Microservices?
+  url: https://dzone.com/articles/microservices-basics
+  domain: dzone.com
+  image: ""
+- curated_id: 17689f8072140602eb7b9270c39ae946
+  item_date: "2016-08-29 00:00:00"
+  title: Serverless Computing and Microservices With Iron.io and Mesosphere
+  url: https://dzone.com/articles/serverless-computing-and-microservices-in-modern-d
+  domain: dzone.com
+  image: ""
+- curated_id: a7e305d270f30703b2a410c8c6df5b1a
+  item_date: "2016-08-31 00:00:00"
+  title: Are ESBs Relevant in the Age of Microservices?
+  url: http://apigee.com/about/blog/digital-business/are-esbs-relevant-age-microservices
+  domain: apigee.com
+  image: ""
+- curated_id: 9586eaf5a9bb518e14398fb95b1d9bf1
+  item_date: "2016-09-01 19:30:07"
+  title: Run Containerized Microservices with Amazon EC2 Container Service and Application
+    Load Balancer
+  url: https://aws.amazon.com/blogs/compute/microservice-delivery-with-amazon-ecs-and-application-load-balancers/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 727f73100bf0070980cf1247805ac129
+  item_date: "2016-09-05 08:14:08"
+  title: Lessons Learned While Building Microservices
+  url: http://blog.runnable.com/post/149676042396/lessons-learned-while-building-microservices
+  domain: blog.runnable.com
+  image: ""
+- curated_id: 63ca04cc110a16c7895a5472b09d9ef3
+  item_date: "2016-09-06 11:17:14"
+  title: 'Tweet: Distributed Transactions: The Icebergs of Microservices https://t.co/gmNBXWdmYA
+    by @evolvable'
+  url: https://twitter.com/datawireio/statuses/773223549465202688
+  domain: twitter.com
+  image: ""
+- curated_id: e8f57332c6a1086c1cad53f242ad2b24
+  item_date: "2016-09-08 00:00:00"
+  title: Micro-Repos/Microservices Exasperates Git?s Submodule Conundrum
+  url: https://www.reddit.com/r/git/comments/51nuqd/microreposmicroservices_exasperates_gits/d7e70dg
+  domain: www.reddit.com
+  image: ""
+- curated_id: bd8568b290b972466373155b5d36dbdb
+  item_date: "2016-09-11 00:00:00"
+  title: 'a16z Podcast: All About Microservices'
+  url: https://www.ottoradio.com/s/4c0f0df/
+  domain: www.ottoradio.com
+  image: ""
+- curated_id: 9212f8e3e15806c8f1e63d8849c86498
+  item_date: "2016-09-11 00:00:00"
+  title: Monoloth Categorisation
+  url: https://www.infoq.com/news/2016/09/monolithtypes
+  domain: www.infoq.com
+  image: ""
+- curated_id: fb29cb38292df75b811d57fee2004279
+  item_date: "2016-09-12 00:00:00"
+  title: Why Microservices Need Feature Flags
+  url: http://blog.launchdarkly.com/why-microservices-need-feature-flags/
+  domain: blog.launchdarkly.com
+  image: ""
+- curated_id: cb152c4a5826d0ce7c12ac8defd8c882
+  item_date: "2016-09-13 00:00:00"
+  title: Connecting Microservices and APIs to Business Value
+  url: http://apigee.com/about/blog/digital-business/connecting-microservices-and-apis-business-value
+  domain: apigee.com
+  image: ""
+- curated_id: b9fc6cefc478fc974753270b94e0ee65
+  item_date: "2016-09-14 00:00:00"
+  title: Monitoring Serverless Architectures, Microservices and Containerized Applications
+  url: https://www.opsclarity.com/monitoring-serverless-architectures-microservices-containerized-applications/
+  domain: www.opsclarity.com
+  image: ""
+- curated_id: e88f83094723927904e0c89f802a68fc
+  item_date: "2016-09-14 00:00:00"
+  title: Microservices ? Please, don?t
+  url: http://basho.com/posts/technical/microservices-please-dont/
+  domain: basho.com
+  image: ""
+- curated_id: 7dc113b0aa3d02ed35569632a084af3e
+  item_date: "2016-09-15 00:00:00"
+  title: Decouple User Identity from API Design to Build Scalable Microservices
+  url: http://nordicapis.com/decouple-user-identity-from-api-design-to-build-scalable-microservices/
+  domain: nordicapis.com
+  image: ""
+- curated_id: ff27da4729de229fe0ec69cf033a24d1
+  item_date: "2016-09-16 00:00:00"
+  title: 'Microservices: What They Are and Why Your Business Should Care'
+  url: http://www.pcmag.com/article/347787/microservices-what-they-are-and-why-your-business-should-ca
+  domain: www.pcmag.com
+  image: ""
+- curated_id: a332cf7e16b075dcce17fa4e53a7f85c
+  item_date: "2016-09-17 00:00:00"
+  title: How Microservices Architecture May Produce Hidden Dividends
+  url: http://www.programmableweb.com/news/how-microservices-architecture-may-produce-hidden-dividends/elsewhere-web/2016/09/17
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6efe109926b01da60beee7f468205a43
+  item_date: "2016-09-20 00:00:00"
+  title: All About Event Emitting Microservices (EEMs)
+  url: https://dzone.com/articles/event-emitting-microservicesnbspeems
+  domain: dzone.com
+  image: ""
+- curated_id: ffe7abcaf43fb234b9ca068a3f0749a8
+  item_date: "2016-09-20 00:00:00"
+  title: Replacing Legacy Java EE App Servers With Microservices and Containers
+  url: https://dzone.com/articles/replacing-legacy-java-ee-application-servers-with
+  domain: dzone.com
+  image: ""
+- curated_id: 43c77393abfc34603be28b996ddf077e
+  item_date: "2016-09-21 00:00:00"
+  title: The Coming Microservices Cataclysm (And How to Avoid It)
+  url: http://www.tibco.com/blog/2016/09/21/the-coming-microservices-cataclysm-and-how-to-avoid-it/
+  domain: www.tibco.com
+  image: ""
+- curated_id: f79af49d1fcef3537b147d06db00b8c1
+  item_date: "2016-09-23 00:00:00"
+  title: How Accusoft Migrated From Monolithic Applications to a Microservice Architecture
+  url: http://www.programmableweb.com/news/how-accusoft-migrated-monolithic-applications-to-microservice-architecture/sponsored-content/2016/09/23
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 02c23ba5dcf926711a715e1faaabacaa
+  item_date: "2016-09-26 00:00:00"
+  title: What#039;s the Difference Between a Monolith and Microservices?
+  url: http://www.programmableweb.com/news/whats-difference-between-monolith-and-microservices/analysis/2016/09/26
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: ac452d5e3e07481f3116552af6f16e6f
+  item_date: "2016-09-29 00:00:00"
+  title: JDA focuses on microservices
+  url: http://www.americanshipper.com/main/news/jda-focuses-on-microservices-65529.aspx
+  domain: www.americanshipper.com
+  image: ""
+- curated_id: 0eaac0b6326fd90d18f005451352f6b5
+  item_date: "2016-09-29 10:39:47"
+  title: Using API Gateways and JWTs for Identity Management in Microservice Based
+    APIs
+  url: https://medium.com/@nicklee1/using-api-gateways-and-jwts-for-identity-management-in-microservice-based-apis-9ba275864cef#.j9x64novb
+  domain: medium.com
+  image: ""
+- curated_id: 2f5e098eace43d90bca0ee7f5ffcc34e
+  item_date: "2016-09-30 00:00:00"
+  title: 'API Best Practices: Microservices'
+  url: http://apigee.com/about/blog/cto-musings/api-best-practices-microservices
+  domain: apigee.com
+  image: ""
+- curated_id: a0939c344faa9b7ed931c466bb624b1a
+  item_date: "2016-10-02 00:00:00"
+  title: 'Breaking the Monolith: The Benefits of a Microservices Approach'
+  url: https://dzone.com/articles/breaking-the-monolith-the-benefits-of-a-microservi
+  domain: dzone.com
+  image: ""
+- curated_id: 21f440bb79d58ea674f89ef8e405754b
+  item_date: "2016-10-06 00:00:00"
+  title: Microservices Platform with ECS
+  url: https://dzone.com/articles/microservices-platform-with-ecs
+  domain: dzone.com
+  image: ""
+- curated_id: 113d02a243c5bef0506072313f73a398
+  item_date: "2016-10-06 05:01:06"
+  title: 'Tweet: Developing Transactional Microservices Using Aggregates, Event Sourcing
+    and CQRS - Part 1 https://t.co/rXCPjElmNA'
+  url: https://twitter.com/datawireio/statuses/784000526061072388
+  domain: twitter.com
+  image: ""
+- curated_id: b75d5d03598f24ca51f8201000fd290e
+  item_date: "2016-10-06 13:50:11"
+  title: 'Tweet: quot;Microservices should not be used if the organization isn#039;t
+    embracing DevOps principlesquot; https://t.co/zzNe1q2rn6 by @danielbryantuk'
+  url: https://twitter.com/datawireio/statuses/784133676795846656
+  domain: twitter.com
+  image: ""
+- curated_id: 364b5b2708f8ce2655622d675e9dd2eb
+  item_date: "2016-10-06 15:01:15"
+  title: 'Tweet: Microservices and Self-contained System to Scale Agile | @ewolff  https://t.co/lpoRehTDz2'
+  url: https://twitter.com/datawireio/statuses/784151559945019392
+  domain: twitter.com
+  image: ""
+- curated_id: 700cb15e28278017f1c8b4f37c6e71a7
+  item_date: "2016-10-07 00:00:00"
+  title: Service-Based Architecture As an Alternative to Microservice Architecture
+  url: https://www.infoq.com/news/2016/10/service-based-architecture
+  domain: www.infoq.com
+  image: ""
+- curated_id: 0d35f09f919d58c4a8ca389c00f66492
+  item_date: "2016-10-08 00:00:00"
+  title: Five Principles of Effective Microservices Monitoring
+  url: http://www.programmableweb.com/news/five-principles-effective-microservices-monitoring/elsewhere-web/2016/10/08
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 79af6bef292a036faa6688ec844eb3f1
+  item_date: "2016-10-10 00:00:00"
+  title: Managing Sensitive Information in an API and Microservices World
+  url: http://apigee.com/about/blog/digital-business/managing-sensitive-information-api-and-microservices-world
+  domain: apigee.com
+  image: ""
+- curated_id: 9b9a6b0a022bd8ade8b506c560742f86
+  item_date: "2016-10-12 00:00:00"
+  title: Distributed Application Development Through Microservices
+  url: https://dzone.com/articles/distributed-application-development
+  domain: dzone.com
+  image: ""
+- curated_id: 5f894bdcbe5b8aa1ad559ef07e8190a2
+  item_date: "2016-10-14 00:00:00"
+  title: How to Approach API Testing for Microservices
+  url: https://dzone.com/articles/how-to-approach-api-testing-for-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: 76399ba263a93eb964d8145778e3f8ca
+  item_date: "2016-10-17 00:00:00"
+  title: 'Bringing Micro-Services to the Client Side: Project Ion and ?Micro-Components?'
+  url: https://blog.evernote.com/tech/2016/10/17/bringing-micro-services-to-the-client-side-project-ion-and-micro-components/
+  domain: blog.evernote.com
+  image: ""
+- curated_id: 434d926b48f3b8d6cfc2213df19162c7
+  item_date: "2016-10-17 00:00:00"
+  title: Getting Started With Microservices
+  url: https://dzone.com/refcardz/getting-started-with-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: 3b11b1671674141849823a8ec4c51bba
+  item_date: "2016-10-18 00:00:00"
+  title: Evolutionary APIs with Microservices
+  url: http://www.apiful.io/intro/2016/10/19/evolutionary-apis-with-microservices.html
+  domain: www.apiful.io
+  image: ""
+- curated_id: 8a01f6b445cc72476444c6dc80804322
+  item_date: "2016-10-18 00:00:00"
+  title: Asynchronous APIs in Choreographed Microservices
+  url: http://nordicapis.com/asynchronous-apis-in-choreographed-microservices/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 8ce93c106be5d33225746b84301f92b7
+  item_date: "2016-10-20 14:18:04"
+  title: An argument against REST in microservices
+  url: http://container-solutions.com/argument-rest-microservices/
+  domain: container-solutions.com
+  image: ""
+- curated_id: 7d240c0004150c0bcc4511e49b8cb1b8
+  item_date: "2016-10-21 00:00:00"
+  title: 'Microservices vs. SOA: Lets Put an End to the Eternal Debate'
+  url: https://dzone.com/articles/microservices-vs-soa-lets-put-an-end-to-the-eterna
+  domain: dzone.com
+  image: ""
+- curated_id: ff74fa58f052e76d430177b5140dee55
+  item_date: "2016-11-01 00:00:00"
+  title: 'Open Blog: Using Microservices to Encode and Publish Videos at The New York
+    Times'
+  url: http://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/
+  domain: open.blogs.nytimes.com
+  image: ""
+- curated_id: 4d123b3124fe1a6c270df2473f24e6f9
+  item_date: "2016-11-01 00:00:00"
+  title: Cataloging Microservices
+  url: https://dzone.com/articles/cataloguing-microservices
+  domain: dzone.com
+  image: ""
+- curated_id: ea205e130b82867eeef79d7b3de7cece
+  item_date: "2016-11-05 00:00:00"
+  title: How to Handle the Continuous Delivery of Microservices
+  url: http://nordicapis.com/how-to-handle-the-continuous-delivery-of-microservices/
+  domain: nordicapis.com
+  image: ""
+- curated_id: 2db0d34f117184a6f292a0f2a2928ed9
+  item_date: "2016-11-07 00:00:00"
+  title: New Relic extends monitoring to containers and micro service environments
+  url: https://techcrunch.com/2016/11/07/new-relic-extends-monitoring-to-containers-and-micro-service-environments/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 15c36e9f82eb0d3204f396190be5210e
+  item_date: "2016-11-09 00:00:00"
+  title: 'Intuit Tech Talk: Monolith to Microservices'
+  url: https://developer.intuit.com/hub/blog/2016/11/09/intuit-tech-talk-monolith-microservices
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 0c90ef9956b9132b1fe7de9e7fd4b7d8
+  item_date: "2016-11-11 00:00:00"
+  title: 'Article: Agile Sailors - A Journey from a Monolithic Approach to Microservices'
+  url: https://www.infoq.com/articles/agile-sailors-microservices
+  domain: www.infoq.com
+  image: ""
 ...
