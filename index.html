@@ -60,9 +60,8 @@ title: API Evangelist - Microservices
 <!-- News -->
 <a name="News"></a>
 {% assign news_content = site.data.news_content.index[0] %}
-{% assign news = site.data.curated.index | sort: 'item_date' | reverse %}
-{% assign news = news | sort: 'item_date' %}
-{% assign news = news | reverse %}
+{% assign news = site.data.curated.index %}
+{% assign news = news | sort: 'item_date' | reverse %}
 <section>
 	<header>
 		<h2>{{ news_content.title }}</h2>
@@ -141,7 +140,7 @@ title: API Evangelist - Microservices
 
 <!-- Tools -->
 <a name="Tools"></a>
-{% assign approved_tags = 'API Specification,Generator,Validator,API Microservices Guide,Data Specification,Microservices Editor,Microservices Notebook,Hypermedia,IDE,Semantics,gRPC' %}
+{% assign approved_tags = 'Mock,Deployment,Discovery,Containers,Monitoring,Microservices,Internet of Things,Serverless' %}
 {% assign tool_content = site.data.tool_content.index[0] %}
 <section>
 	<header>
