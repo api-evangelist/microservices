@@ -2920,12 +2920,6 @@
   url: https://blog.openshift.com/?p=11756
   domain: blog.openshift.com
   image: ""
-- curated_id: 4b5tCw5GvlXtruVS/z16h27znplNFRBntlQNEyTCvpo=_15c5f4f8c79:51d7607:bb404dd5
-  item_date: "2017-05-31 09:00:21"
-  title: 'Microservices Patterns With Envoy Sidecar Proxy, Part I: Circuit Breaking'
-  url: https://developers.redhat.com/blog/?p=435563
-  domain: developers.redhat.com
-  image: ""
 - curated_id: FZ/2GLZp/a8FriFm6BqxYgMelBuYPP5oD17BctyF8kM=_15c6cc9a9b0:408dd7:ca0b49d1
   item_date: "2017-06-02 13:50:41"
   title: Three Principles of API First Design
@@ -3070,6 +3064,12 @@
   title: Introducing the Chunked Upload API
   url: https://medium.com/p/f82c820ccfcb
   domain: medium.com
+  image: ""
+- curated_id: P6ZHWlrPQ5ILOZ54yDX4aZ046+AnYBvjvT3DdNFTXhQ=_15ccf0c27d8:10cbbe9:fe3a8465
+  item_date: "2017-06-22 02:00:37"
+  title: Effective Microservices Architecture with Event
+  url: https://thenewstack.io/?p=2513936
+  domain: thenewstack.io
   image: ""
 - curated_id: OAp7XIqiEE94a6sFZ9n5ucV+pMZoEhhHIWFzskjuZik=_15cd1a0145a:1782587:517b1451
   item_date: "2017-06-22 09:59:18"
