@@ -195,39 +195,6 @@ title: API Evangelist - Design
 		<p>{{ tool_content.footer }}</p>
 </section>
 
-<!-- Building Blocks -->
-<a name="BuildingBlocks"></a>
-{% assign building_block_content = site.data.building_block_content.index[0] %}
-{% assign building_blocks = site.data.building_blocks.index %}
-<section id="banner">
-	<div class="content">
-		<header>
-			<h2>{{ building_block_content.title }}</h2>
-			<p>{{ building_block_content.header }}</p>
-		</header>
-		<ul style="padding: 0px 25px 0px 25px;">
-			{% for category in building_blocks %}
-				<li>
-					<span style="font-size: 18px; font-weight: bold;">{{ category.category_name }}</span>
-					<ul style="margin-top: 10px;">
-						{% for block in category.building_blocks %}
-							{% if block.category == category.category_name %}
-							<li><strong>{{ block.name }}</strong> - {{ block.about }}</li>
-							{% endif %}
-						{% endfor %}
-					</ul>
-				</li>
-			{% endfor %}
-		</ul>
-		<p>{{ building_block_content.footer }}</p>
-		<center>
-			<ul class="actions" style="text-align: center;">
-				<li><a href="/building-blocks/" class="button big">See The Building Blocks</a></li>
-			</ul>
-		</center>
-	</div>
-</section>
-
 <!-- About This Research -->
 {% assign about_content = site.data.home_content.index[1] %}
 <a name="About"></a>
