@@ -1,165 +1,3099 @@
-- building_block_id: web-concepts
-  type: Definitions
-  category: Formats
-  name: Web Concepts
-  descripion: >-
-    APIs are built on the web, and there are numerous web concepts in play that
-    should be considered as part of the API design process.
-  logo: ''
-  tags: Definitions
-- building_block_id: specification
-  type: Definitions
-  category: Formats
-  name: Specification
-  descripion: >-
-    The root specification for the API definition format, providing a base set
-    of rules for all services and tools that employ the spec.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
-  tags: Definitions
-- building_block_id: schema
-  type: Definitions
-  category: Formats
-  name: Schema
-  descripion: >-
-    A representation of data model, used as part of an API request, or response,
-    usually in JSON, but increasingly YAML, and Markdown are also used.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
-  tags: Definitions
-- building_block_id: generator
-  type: Definitions
-  category: Tooling
-  name: Generator
-  descripion: >-
-    Generating an API definition format from an existing system or platform,
-    outputting the portable machine readable format.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-generate.png
-  tags: Definitions
-- building_block_id: parser
-  type: Definitions
-  category: Tooling
-  name: Parser
-  descripion: >-
-    Parses a machine readable API definition and makes ready for use in specific
-    language, structure, or platform.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-parse.png
-  tags: Definitions
-- building_block_id: validator
-  type: Definitions
-  category: Tooling
-  name: Validator
-  descripion: >-
-    Validates an API definition against its formal specification and schema,
-    producing a valid or invalid response, with as much detail as possible.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-valid.png
-  tags: Definitions
-- building_block_id: converter
-  type: Definitions
-  category: Tooling
-  name: Converter
-  descripion: >-
-    The conversion of an API definition from one format into another, allowing
-    designers to share API definitions in any format.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-conversion.png
-  tags: Definitions
-- building_block_id: commandline
-  type: Definitions
-  category: Tooling
-  name: Command-Line
-  descripion: The usage of machine readable API definitions at the command line.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
-  tags: Definitions
-- building_block_id: powershell
-  type: Definitions
-  category: Tooling
-  name: Powershell
-  descripion: The usage of machine readable API definitions via the powershell interface.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
-  tags: Definitions
-- building_block_id: aggregator
-  type: Definitions
-  category: Tooling
-  name: Aggregator
-  descripion: Aggregation of APIs using a machine readable API definition format.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-arrow-aggregate.png
-  tags: Definitions
-- building_block_id: translator
-  type: Definitions
-  category: Tooling
-  name: Translator
-  descripion: >-
-    Being able to translate an API definition format from one format to another,
-    either manually or automatically.
-  logo: ''
-  tags: Definitions
-- building_block_id: merging
-  type: Definitions
-  category: Tooling
-  name: Merging
-  descripion: >-
-    Tooling or other APIs that provide for the merging of common API definition
-    formats, allowing the granularity of what elements get merged, or do not get
-    merged. Ideally, this is an API, as well as simple web-based or desktop
-    tooling for API providers and consumers.
-  logo: ''
-  tags: Definitions
-- building_block_id: diff
-  type: Definitions
-  category: Tooling
-  name: Diff
-  descripion: >-
-    Providing side by side comparison of two API definitions, programmatically
-    and visually helping identify between two API definitions. This allows for
-    API architects, designers, and consumers to understand the completeness of
-    two definitions, in relation to each other.
-  logo: ''
-  tags: Definitions
-- building_block_id: editors
-  type: Definitions
-  category: Environment
-  name: Editors
-  descripion: >-
-    API definition editor, allowing for the creation, import, and export of API
-    definition formats, providing a simple, IDE like API editing experience.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
-  tags: Definitions
-- building_block_id: ide-plugin
-  type: Definitions
-  category: Environment
-  name: IDE Plugin
-  descripion: >-
-    Providing integration with existing integrated development environments
-    (IDE), giving developers API discovery, documentation, and integration
-    tooling within the IDE.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
-  tags: Definitions
-- building_block_id: forms
-  type: Definitions
-  category: Environment
-  name: Forms
-  descripion: >-
-    Dynamically generating an HTML form from an API definition, allow for the
-    structure, and handling to be driven by an API definition.
-  logo: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-forms.png
-  tags: Definitions
-- building_block_id: github
-  type: Definitions
-  category: Environment
-  name: GIthub
-  descripion: >-
-    Allowing for the import, publishing, and syncing of API definitions and
-    schemas to Github for forking, and management using the social coding
-    platform.
-  logo: ''
-  tags: Definitions
+- category_name: Best Practices
+  building_blocks:
+  - building_block_id: "1385"
+    building_block_category_id: "188"
+    name: Use the Internet
+    about: The web brings a lot of tools to the table, make sure and learn about existing
+      web technologies, and put them to use across the API design process.
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1386"
+    building_block_category_id: "188"
+    name: Simplicity
+    about: Consider simplicity at ever turn when designing APIs, providing the small
+      possible unit of value you possibly can--simplicity goes a long way.
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1387"
+    building_block_category_id: "188"
+    name: Consistency
+    about: Employ consistent approaches to all aspects of API design, providing a
+      familiar approach across all APIs published.
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1388"
+    building_block_category_id: "188"
+    name: Easy to Read
+    about: While APIs are for computers, they should be easy to read by humans, making
+      documentation more accessible.
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1389"
+    building_block_category_id: "188"
+    name: Easy to Learn
+    about: Keeping APIs simple, and consistent, will contribute to them being easy
+      to learn about for any potential API consumer.
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1390"
+    building_block_category_id: "188"
+    name: Hard to Misuse
+    about: When APIs do one thing, and does it well, you reduce the opportunity for
+      misuse, and people putting them to work in unintended ways.
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1391"
+    building_block_category_id: "188"
+    name: Audience Focused
+    about: APIs should be designed with a specific audience in mind, providing a solution
+      to a problem they are having.
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1392"
+    building_block_category_id: "188"
+    name: Experience Over Resource
+    about: Make APIs reflect how they will be used, and experienced, over where the
+      API came from and the resource it was derived from.
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2210"
+    building_block_category_id: "188"
+    name: Naming
+    about: How to name things
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "9"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2142"
+    building_block_category_id: "188"
+    name: Case
+    about: Which case (lowercase, camelCase, ...) to use and when
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "10"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2154"
+    building_block_category_id: "188"
+    name: Global design
+    about: General considerations on API design
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "11"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1393"
+    building_block_category_id: "188"
+    name: Use Your Own APIs
+    about: Always use your own APIs, allowing you to understand the challenges with
+      integrating, as well as the pain of operations and outages.
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2081"
+    building_block_category_id: "188"
+    name: Notifying API consumers
+    about: How to send events or notifications to API consumers
+    category_id: "188"
+    category: Best Practices
+    category_about: What are the best practices for API design. Do not confuse this
+      with behavior when consuming an API. This is about best practices specifically
+      in the world of API design. This should be about having an overarching philosophy,
+      and ethos when it comes to API design, that reflects the technical, and business
+      goals of a company.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "13"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Requests
+  building_blocks:
+  - building_block_id: "2215"
+    building_block_category_id: "189"
+    name: HTTP Headers
+    about: The usage of standard or custom HTTP headers
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1133"
+    building_block_category_id: "189"
+    name: SSL
+    about: Transport Layer Security (TLS) and its predecessor, Secure Sockets Layer
+      (SSL), both of which are frequently referred to as SSL, are cryptographic protocols
+      designed to provide communications security over a computer network. Always
+      support TLS / SSL by default when it comes to API operations, if at all possible.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links:
+    - name: What Is SSL (Secure Sockets Layer)
+      url: https://www.digicert.com/ssl.htm
+      text: An secure sockets layer (SSL) definition from Digicert.
+    - name: Transport Level Security
+      url: https://en.wikipedia.org/wiki/Transport_Layer_Security
+      text: A transport level security (TLS) definition from Wikipedia.
+    tools: []
+  - building_block_id: "1134"
+    building_block_category_id: "189"
+    name: Host
+    about: Put sufficient thought into what the baseURL will be for making API calls.
+      Increasingly this element can also be dynamic, like other aspects of API design.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1135"
+    building_block_category_id: "189"
+    name: Resource
+    about: Consider how you craft your resources across all API operations. I do not
+      subscribe to specific philosophies around this, just trying to provide a framework
+      to think about this in.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1136"
+    building_block_category_id: "189"
+    name: Action
+    about: Allow for standard actions to be taken across resource, but also reflect
+      how APIs will be experienced, providing meaningful action to be taken around
+      any API.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1137"
+    building_block_category_id: "189"
+    name: Verbs
+    about: 'Learn about, and put all HTTP verbs to use when designing APIs.There is
+      more than just GET, and even more than just POST, PUT, and DELETE. '
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1138"
+    building_block_category_id: "189"
+    name: Parameters
+    about: Standardize how parameters are crafted as part of API operations, using
+      intuitive and consistent approaches.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "6"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1139"
+    building_block_category_id: "189"
+    name: Headers
+    about: Learn about, and use common headers for API requests. Study how the APIs
+      you consumer put headers to work.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1140"
+    building_block_category_id: "189"
+    name: Body
+    about: Use the body of each request in a consistent way across API operations.
+      The body provides much more room for more structured data and content.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1141"
+    building_block_category_id: "189"
+    name: Versioning
+    about: Establish, and stick to a common versioning strategy, and use throughout
+      API evolutions. Consider putting all versioning information within headers.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "9"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1142"
+    building_block_category_id: "189"
+    name: Pagination
+    about: Learn about common ways to paginate, and establish a single way to handle
+      across API operations.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "10"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1143"
+    building_block_category_id: "189"
+    name: Filtering
+    about: Consider how filtering will happen across all APIs, and establish a single
+      way to filter API resources.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "11"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1144"
+    building_block_category_id: "189"
+    name: Time Selection
+    about: Consider how time selection and series will be handled, and establish a
+      single way for working with time in API operations.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1145"
+    building_block_category_id: "189"
+    name: Sorting
+    about: Establish a single approach to how API responses can be sorted, and use
+      across all API resources.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "13"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1146"
+    building_block_category_id: "189"
+    name: Field Selection
+    about: Consider providing a way that API consumers can select which fields are
+      included in API responses.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "14"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1147"
+    building_block_category_id: "189"
+    name: Granularity
+    about: Always be aware of the granularity of your API endpoints, and each resource
+      being exposed, keeping everything as small as possible.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "15"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1148"
+    building_block_category_id: "189"
+    name: Relationship
+    about: Consider how relationships between resources will be handled, and establish
+      a single approach for doing across API operations.
+    category_id: "189"
+    category: Requests
+    category_about: These are the core considerations when you are designing an API.
+      They are extracted from publicly available, and some private API design guides
+      of leading API platforms. They are not meant to be hard fast rules, but the
+      core design elements to consider for organizations to consider along their own
+      API journey.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "16"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: HTTP Methods
+  building_blocks:
+  - building_block_id: "2182"
+    building_block_category_id: "398"
+    name: GET
+    about: The GET method requests a representation of the specified resource. Requests
+      using GET should only retrieve data and should have no other effect.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2191"
+    building_block_category_id: "398"
+    name: POST
+    about: The POST method requests that the server accept the entity enclosed in
+      the request as a new subordinate of the web resource identified by the URI.
+      The data POSTed might be, for example, an annotation for existing resources;
+      a message for a bulletin board, newsgroup, mailing list, or comment thread;
+      a block of data that is the result of submitting a web form to a data-handling
+      process; or an item to add to a database.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2183"
+    building_block_category_id: "398"
+    name: PUT
+    about: The PUT method requests that the enclosed entity be stored under the supplied
+      URI. If the URI refers to an already existing resource, it is modified; if the
+      URI does not point to an existing resource, then the server can create the resource
+      with that URI.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2060"
+    building_block_category_id: "398"
+    name: PATCH
+    about: The PATCH method applies partial modifications to a resource.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2203"
+    building_block_category_id: "398"
+    name: DELETE
+    about: The DELETE method deletes the specified resource.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2155"
+    building_block_category_id: "398"
+    name: OPTIONS
+    about: "The OPTIONS method returns the HTTP methods that the server supports for
+      the specified URL. This can be used to check the functionality of a web server
+      by requesting \u2018*\u2019 instead of a specific resource."
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "6"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2168"
+    building_block_category_id: "398"
+    name: HEAD
+    about: The HEAD method asks for a response identical to that of a GET request,
+      but without the response body. This is useful for retrieving meta-information
+      written in response headers, without having to transport the entire content.
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2202"
+    building_block_category_id: "398"
+    name: Forbidden methods alternatives
+    about: What to do when only possible HTTP methods are POST and GET
+    category_id: "398"
+    category: HTTP Methods
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Response
+  building_blocks:
+  - building_block_id: "2174"
+    building_block_category_id: "190"
+    name: HTTP Headers
+    about: The usage of standard or custom HTTP headers
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1150"
+    building_block_category_id: "190"
+    name: Status Codes
+    about: Learn about, and use HTTP status codes in a consistent way across all API
+      operations.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links:
+    - name: 'HTTP/1.1: Status Code Definitions'
+      url: http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
+      text: A list of  Status-Code including a description of which method(s) it can
+        follow and any meta information required in the response.
+    - name: Wikipedia List of Status Codes
+      url: https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+      text: A list of list of Hypertext Transfer Protocol (HTTP) response status codes
+        from Wikipedia.
+    tools: []
+  - building_block_id: "1151"
+    building_block_category_id: "190"
+    name: Error Handling
+    about: Establish a single error handling strategy, and apply consistently across
+      all API operations.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1152"
+    building_block_category_id: "190"
+    name: Rate Limits
+    about: Establish a single approach to rate limiting of API resources, and apply
+      consistently across all API operations.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1153"
+    building_block_category_id: "190"
+    name: Caching
+    about: Learn about common approaches to caching, and make sure it is applied through
+      API operations.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1154"
+    building_block_category_id: "190"
+    name: eTags
+    about: Learn about etags are used as part of caching and operations, and employ
+      them as part of your caching strategy, and usage of HTTP elements.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links:
+    - name: Wikipedia Reference
+      url: https://en.wikipedia.org/wiki/HTTP_ETag
+      text: The Wikipedia reference for eTag.
+    tools: []
+  - building_block_id: "1155"
+    building_block_category_id: "190"
+    name: Request-Ids
+    about: Employ Request-Ids if possible providing added details for logging, auditing,
+      and reporting on API usage.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "6"
+    organizations: []
+    apis: []
+    links:
+    - name: Reference
+      url: https://devcenter.heroku.com/articles/http-request-id
+      text: Heroku uses HTTP request IDs to let you correlate router logs for a given
+        web request against the web dyno logs for that same request.
+    tools: []
+  - building_block_id: "1156"
+    building_block_category_id: "190"
+    name: UTF-8
+    about: UTF-8 is a character encoding capable of encoding all possible characters,
+      or code points, in Unicode. The encoding is variable-length and uses 8-bit code
+      units. Make sure you use UTF-8 encoding for your API responses, supporting proper
+      encoding.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links:
+    - name: UTF-8 Definition
+      url: https://en.wikipedia.org/wiki/UTF-8
+      text: A definition of UTF_8 from Wikipedia.
+    tools: []
+  - building_block_id: "1157"
+    building_block_category_id: "190"
+    name: CORS
+    about: Enable CORS for your API endpoints, providing the most flexibility possible
+      in making API calls.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links:
+    - name: Reference
+      url: https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+      text: The Wikipedia reference for CORS.
+    tools: []
+  - building_block_id: "1158"
+    building_block_category_id: "190"
+    name: JSONP
+    about: Provide JSONP if you are unable to enable CORS, allowing for easier integrations.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "9"
+    organizations: []
+    apis: []
+    links:
+    - name: Reference
+      url: https://en.wikipedia.org/wiki/JSONP
+      text: The Wikipedia reference for JSONP.
+    tools: []
+  - building_block_id: "1898"
+    building_block_category_id: "190"
+    name: Schema
+    about: The JSON Schema, MSON, or other machine readable approach to defining the
+      underlying data model of the API response.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "10"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1899"
+    building_block_category_id: "190"
+    name: Compression
+    about: Gzip or other compression format for API responses.
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "11"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2167"
+    building_block_category_id: "190"
+    name: Collection
+    about: What is a collection (set) of resources
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2171"
+    building_block_category_id: "190"
+    name: Sorting a collection
+    about: How to sort a collection of resources
+    category_id: "190"
+    category: Response
+    category_about: What design considerations go into the response an API returns.
+      It can be easy to focus on the request surface are for an API, but a response
+      has a number of things to consider as ewll.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "13"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: HTTP Status User Error
+  building_blocks:
+  - building_block_id: "2161"
+    building_block_category_id: "397"
+    name: 400 Bad Request
+    about: The server cannot or will not process the request due to an apparent client
+      error (e.g., malformed request syntax, too large size, invalid request message
+      framing, or deceptive request routing).
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2214"
+    building_block_category_id: "397"
+    name: 401 Unauthorized
+    about: Similar to 403 Forbidden, but specifically for use when authentication
+      is required and has failed or has not yet been provided. The response must include
+      a WWW-Authenticate header field containing a challenge applicable to the requested
+      resource.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2172"
+    building_block_category_id: "397"
+    name: 403 Forbidden
+    about: The request was a valid request, but the server is refusing to respond
+      to it. The user might be logged in but does not have the necessary permissions
+      for the resource.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2150"
+    building_block_category_id: "397"
+    name: 404 Not Found
+    about: The requested resource could not be found but may be available in the future.
+      Subsequent requests by the client are permissible.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2179"
+    building_block_category_id: "397"
+    name: 405 Method Not Allowed
+    about: A request method is not supported for the requested resource; for example,
+      a GET request on a form which requires data to be presented via POST, or a PUT
+      request on a read-only resource.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2139"
+    building_block_category_id: "397"
+    name: 406 Not Acceptable
+    about: The requested resource is capable of generating only content not acceptable
+      according to the Accept headers sent in the request.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "6"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2138"
+    building_block_category_id: "397"
+    name: 408 Request Timeout
+    about: 'The server timed out waiting for the request. According to HTTP specifications:
+      The client did not produce a request within the time that the server was prepared
+      to wait. The client MAY repeat the request without modifications at any later
+      time.'
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2153"
+    building_block_category_id: "397"
+    name: 409 Conflict
+    about: Indicates that the request could not be processed because of conflict in
+      the request, such as an edit conflict between multiple simultaneous updates.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2180"
+    building_block_category_id: "397"
+    name: 410 Gone
+    about: Indicates that the resource requested is no longer available and will not
+      be available again. This should be used when a resource has been intentionally
+      removed and the resource should be purged. Upon receiving a 410 status code,
+      the client should not request the resource in the future. Clients such as search
+      engines should remove the resource from their indices. Most use cases do not
+      require clients and search engines to purge the resource, and a 404 Not Found
+      may be used instead.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "9"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2137"
+    building_block_category_id: "397"
+    name: 411 Length Required
+    about: The request did not specify the length of its content, which is required
+      by the requested resource.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "11"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2194"
+    building_block_category_id: "397"
+    name: 412 Precondition Failed
+    about: The server does not meet one of the preconditions that the requester put
+      on the request.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2159"
+    building_block_category_id: "397"
+    name: 415 Unsupported Media Type
+    about: The request entity has a media type which the server or resource does not
+      support. For example, the client uploads an image as image/svg+xml, but the
+      server requires that images use a different format.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "15"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2163"
+    building_block_category_id: "397"
+    name: 422 Unprocessable Entity
+    about: The request was well-formed but was unable to be followed due to semantic
+      errors.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "22"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2178"
+    building_block_category_id: "397"
+    name: 423 Locked
+    about: The resource that is being accessed is locked.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "23"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2189"
+    building_block_category_id: "397"
+    name: 428 Precondition Required
+    about: The user has sent too many requests in a given amount of time. Intended
+      for use with rate-limiting schemes.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "28"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2059"
+    building_block_category_id: "397"
+    name: 429 Too Many Requests
+    about: The user has sent too many requests in a given amount of time. Intended
+      for use with rate-limiting schemes.
+    category_id: "397"
+    category: HTTP Status User Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "29"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: HTTP Status Redirection
+  building_blocks:
+  - building_block_id: "2206"
+    building_block_category_id: "400"
+    name: 301 Moved Permanently
+    about: This and all future requests should be directed to the given URI.
+    category_id: "400"
+    category: HTTP Status Redirection
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2140"
+    building_block_category_id: "400"
+    name: 302 Found
+    about: Common way of performing URL redirection. An HTTP response with this status
+      code will additionally provide a URL in the location header field. The user
+      agent (e.g. a web browser) is invited by a response with this code to make a
+      second, otherwise identical, request to the new URL specified in the location
+      field.
+    category_id: "400"
+    category: HTTP Status Redirection
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2062"
+    building_block_category_id: "400"
+    name: 303 See Other
+    about: The response to the request can be found under another URI using a GET
+      method. When received in response to a POST (or PUT/DELETE), the client should
+      presume that the server has received the data and should issue a redirect with
+      a separate GET message.
+    category_id: "400"
+    category: HTTP Status Redirection
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2162"
+    building_block_category_id: "400"
+    name: 304 Not Modified
+    about: Indicates that the resource has not been modified since the version specified
+      by the request headers If-Modified-Since or If-None-Match. In such case, there
+      is no need to retransmit the resource since the client still has a previously-downloaded
+      copy.
+    category_id: "400"
+    category: HTTP Status Redirection
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: HTTP Status Server Error
+  building_blocks:
+  - building_block_id: "2143"
+    building_block_category_id: "401"
+    name: 500 Internal Server Error
+    about: A generic error message, given when an unexpected condition was encountered
+      and no more specific message is suitable.
+    category_id: "401"
+    category: HTTP Status Server Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2063"
+    building_block_category_id: "401"
+    name: 501 Not Implemented
+    about: The server either does not recognize the request method, or it lacks the
+      ability to fulfill the request. Usually this implies future availability (e.g.,
+      a new feature of a web-service API).
+    category_id: "401"
+    category: HTTP Status Server Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2204"
+    building_block_category_id: "401"
+    name: 503 Service Unavailable
+    about: The server is currently unavailable (because it is overloaded or down for
+      maintenance). Generally, this is a temporary state.
+    category_id: "401"
+    category: HTTP Status Server Error
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: HTTP Status Success
+  building_blocks:
+  - building_block_id: "2166"
+    building_block_category_id: "410"
+    name: 200 OK
+    about: Standard response for successful HTTP requests. The actual response will
+      depend on the request method used. In a GET request, the response will contain
+      an entity corresponding to the requested resource. In a POST request, the response
+      will contain an entity describing or containing the result of the action.
+    category_id: "410"
+    category: HTTP Status Success
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2175"
+    building_block_category_id: "410"
+    name: 201 Created
+    about: The request has been fulfilled, resulting in the creation of a new resource.
+    category_id: "410"
+    category: HTTP Status Success
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2090"
+    building_block_category_id: "410"
+    name: 202 Accepted
+    about: The request has been accepted for processing, but the processing has not
+      been completed. The request might or might not be eventually acted upon, and
+      may be disallowed when processing occurs.
+    category_id: "410"
+    category: HTTP Status Success
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2169"
+    building_block_category_id: "410"
+    name: 204 No Content
+    about: The server successfully processed the request and is not returning any
+      content.
+    category_id: "410"
+    category: HTTP Status Success
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2170"
+    building_block_category_id: "410"
+    name: 206 Partial Content
+    about: The server is delivering only part of the resource (byte serving) due to
+      a range header sent by the client. The range header is used by HTTP clients
+      to enable resuming of interrupted downloads, or split a download into multiple
+      simultaneous streams.
+    category_id: "410"
+    category: HTTP Status Success
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Error handling
+  building_blocks:
+  - building_block_id: "2112"
+    building_block_category_id: "412"
+    name: Error format
+    about: How to provide information about errors
+    category_id: "412"
+    category: Error handling
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "22"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2199"
+    building_block_category_id: "412"
+    name: Errors
+    about: How to handle errors
+    category_id: "412"
+    category: Error handling
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "22"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Media Types
+  building_blocks:
+  - building_block_id: "2176"
+    building_block_category_id: "191"
+    name: Content negociation and media types
+    about: How to describe your API data format and/or propose different formats (like
+      json, yaml, xml atom, ...)
+    category_id: "191"
+    category: Media Types
+    category_about: A media type (also known as MIME type and content type) is a two-part
+      identifier for file formats and format contents transmitted on the Internet,
+      assigned by he Internet Assigned Numbers Authority (IANA). There are a handful
+      of default media types that every API should consider as part of the API design
+      process.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1159"
+    building_block_category_id: "191"
+    name: application/json
+    about: Provide JSON media types for API responses.
+    category_id: "191"
+    category: Media Types
+    category_about: A media type (also known as MIME type and content type) is a two-part
+      identifier for file formats and format contents transmitted on the Internet,
+      assigned by he Internet Assigned Numbers Authority (IANA). There are a handful
+      of default media types that every API should consider as part of the API design
+      process.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links:
+    - name: IETF RC
+      url: https://tools.ietf.org/html/rfc4627
+      text: ' The application/json Media Type for JavaScript Object Notation (JSON)'
+    tools: []
+  - building_block_id: "1160"
+    building_block_category_id: "191"
+    name: application/xml
+    about: Provide XML media types for API responses.
+    category_id: "191"
+    category: Media Types
+    category_about: A media type (also known as MIME type and content type) is a two-part
+      identifier for file formats and format contents transmitted on the Internet,
+      assigned by he Internet Assigned Numbers Authority (IANA). There are a handful
+      of default media types that every API should consider as part of the API design
+      process.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1161"
+    building_block_category_id: "191"
+    name: application/csv
+    about: Provide CSV media types for API responses.
+    category_id: "191"
+    category: Media Types
+    category_about: A media type (also known as MIME type and content type) is a two-part
+      identifier for file formats and format contents transmitted on the Internet,
+      assigned by he Internet Assigned Numbers Authority (IANA). There are a handful
+      of default media types that every API should consider as part of the API design
+      process.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1162"
+    building_block_category_id: "191"
+    name: text/html
+    about: Provide HTML media types for API responses.
+    category_id: "191"
+    category: Media Types
+    category_about: A media type (also known as MIME type and content type) is a two-part
+      identifier for file formats and format contents transmitted on the Internet,
+      assigned by he Internet Assigned Numbers Authority (IANA). There are a handful
+      of default media types that every API should consider as part of the API design
+      process.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1163"
+    building_block_category_id: "191"
+    name: application/atom+xml
+    about: Provide ATOM media types for API responses.
+    category_id: "191"
+    category: Media Types
+    category_about: A media type (also known as MIME type and content type) is a two-part
+      identifier for file formats and format contents transmitted on the Internet,
+      assigned by he Internet Assigned Numbers Authority (IANA). There are a handful
+      of default media types that every API should consider as part of the API design
+      process.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Hypermedia
+  building_blocks:
+  - building_block_id: "2225"
+    building_block_category_id: "404"
+    name: Collection+JSON
+    about: Collection+JSON is a JSON-based read/write hypermedia-type designed to
+      support management and querying of simple collections.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2226"
+    building_block_category_id: "404"
+    name: Extensible Markup Language (XML)
+    about: Extensible Markup Language (XML) is a simple, very flexible text format
+      derived from SGML (ISO 8879)
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2227"
+    building_block_category_id: "404"
+    name: Home Documents
+    about: A home document format for non-browser HTTP  clients.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2228"
+    building_block_category_id: "404"
+    name: Hydra
+    about: 'Hydra is an effort to simplify the development of interoperable, hypermedia-driven
+      Web APIs. '
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2229"
+    building_block_category_id: "404"
+    name: Hypertext Application Language (HAL)
+    about: HAL is a simple format that gives a consistent and easy way to hyperlink
+      between resources in your API.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2230"
+    building_block_category_id: "404"
+    name: JSON API
+    about: A specification for building APIs in JSON, and consistently formatting
+      their responses.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2231"
+    building_block_category_id: "404"
+    name: Mason
+    about: 'Mason is a JSON format for introducing hypermedia elements to classic
+      JSON data representations. '
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2232"
+    building_block_category_id: "404"
+    name: Noun As Resource With HyperLinks (NARWHL)
+    about: A framework intended to provide a roadmap for those needing to implement
+      an API using current best practices, but is flexible enough to grow into the
+      future.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2233"
+    building_block_category_id: "404"
+    name: Siren
+    about: A hypermedia specification for representing entities in APIs.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2234"
+    building_block_category_id: "404"
+    name: Uniform Basis for Exchanging Representations (UBER)
+    about: 'The UBER message format is a minimal read/write hypermedia type designed
+      to support simple state transfers and ad-hoc hypermedia-based transitions. '
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2235"
+    building_block_category_id: "404"
+    name: XForms
+    about: XForms is an XML format used for collecting inputs from web forms, and
+      can be used to describe a user interface and a set of common data manipulation
+      tasks.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2236"
+    building_block_category_id: "404"
+    name: XML Inclusions (XInclude)
+    about: 'Inclusion is a format to merge a number of XML information sets into a
+      single composite infoset. '
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2237"
+    building_block_category_id: "404"
+    name: XML Linking Language (XLink)
+    about: Allows elements to be inserted into XML documents in order to create and
+      describe links between resources.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2238"
+    building_block_category_id: "404"
+    name: xml:id
+    about: An ID attribute in XML documents and defines processing of this attribute
+      to identify IDs in the absence of validation, without fetching external resources,
+      and without relying on an internal subset.
+    category_id: "404"
+    category: Hypermedia
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "0"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Schema
+  building_blocks:
+  - building_block_id: "1164"
+    building_block_category_id: "413"
+    name: JSON Schema
+    about: JSON Schema, describes your JSON data format. JSON Hyper-Schema, turns
+      your JSON data into hyper-text. Use JSON schema when possible to standardize
+      and validate your JSON structure.
+    category_id: "413"
+    category: Schema
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links:
+    - name: JSON Schema Website
+      url: http://json-schema.org/
+      text: The home page for the JSON Schema project.
+    tools: []
+  - building_block_id: "1175"
+    building_block_category_id: "413"
+    name: Schema.org
+    about: Consider using Schema.org representations for common data elements.
+    category_id: "413"
+    category: Schema
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1900"
+    building_block_category_id: "413"
+    name: Markdown Syntax for Object Notation (MSON)
+    about: |
+      A Markdown syntax compatible with describing JSON and JSON Schema.
+    category_id: "413"
+    category: Schema
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "13"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Open Standards
+  building_blocks:
+  - building_block_id: "1165"
+    building_block_category_id: "192"
+    name: iCalendar
+    about: Use iCalendar when representing date / time formats in your API responses.
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links:
+    - name: Wikipedia Entry for ICalendar
+      url: https://en.wikipedia.org/wiki/ICalendar
+      text: The Wikipedia entry for iCalendar.
+    - name: IETF RFC
+      url: https://www.ietf.org/rfc/rfc2445.txt
+      text: The link to the IETF RFC for iCalendar.
+    tools: []
+  - building_block_id: "1166"
+    building_block_category_id: "192"
+    name: vCard
+    about: vCard is a file format standard for electronic business cards. vCards are
+      often attached to e-mail messages, but can be exchanged in other ways, such
+      as on the World Wide Web or instant messaging. They can contain name and address
+      information, telephone numbers, e-mail addresses, URLs, logos, photographs,
+      and audio clips. Use vCard when representing contact data in your API responses.
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links:
+    - name: Wikipedia Entry
+      url: https://en.wikipedia.org/wiki/VCard
+      text: The Wikipedia entry for vCard.
+    - name: RFC Entry
+      url: https://www.ietf.org/rfc/rfc2426.txt
+      text: The IETF RFC for vCard.
+    tools: []
+  - building_block_id: "1167"
+    building_block_category_id: "192"
+    name: KML
+    about: When working with mapping data, represent it using KML when possible.
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1168"
+    building_block_category_id: "192"
+    name: geoRSS
+    about: Also consider geoRSS when representing you geographic data.
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1169"
+    building_block_category_id: "192"
+    name: m3u
+    about: When providing formatted data for media formats, consider using m3u.
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "6"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1170"
+    building_block_category_id: "192"
+    name: UUID
+    about: 'Use a universally unique identifier (UUID) when possible. '
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1171"
+    building_block_category_id: "192"
+    name: ISO 8601 (Date / Time)
+    about: "ISO 8601 Data elements and interchange formats \u2013 Information interchange
+      \u2013 Representation of dates and times is an international standard covering
+      the exchange of date and time-related data. The purpose of this standard is
+      to provide an unambiguous and well-defined method of representing dates and
+      times, so as to avoid misinterpretation of numeric representations of dates
+      and times, particularly when data are transferred between countries with different
+      conventions for writing numeric dates and times."
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links:
+    - name: Wikipedia Entry
+      url: https://en.wikipedia.org/wiki/ISO_8601
+      text: The Wikipedia entry for ISO 8601.
+    - name: XKCD
+      url: https://xkcd.com/1179/
+      text: The XKCD reference for ISO 8601.
+    - name: RFC Entry
+      url: https://www.ietf.org/rfc/rfc3339.txt
+      text: The IETF RFC entry for ISO 8601.
+    tools: []
+  - building_block_id: "1172"
+    building_block_category_id: "192"
+    name: ISO 4217 (Currency)
+    about: 'Use ISO 427 data elements and interchange formats for the representation
+      currency codes. ISO 4217 is a standard published by International Organization
+      for Standardization, which delineates currency designators, country codes (alpha
+      and numeric), and references to minor units in three tables: current currency
+      & funds code list, current funds codes, list of codes for historic denominations
+      of currencies & funds.'
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "9"
+    organizations: []
+    apis: []
+    links:
+    - name: Wikipedia Entry
+      url: https://en.wikipedia.org/wiki/ISO_4217
+      text: The Wikipedia reference for ISO 4217.
+    - name: ISO Reference
+      url: http://www.iso.org/iso/home/standards/currency_codes.htm
+      text: The International Standards Organization (ISO) reference for ISO 4217.
+    tools: []
+  - building_block_id: "1173"
+    building_block_category_id: "192"
+    name: ISO 3166 (Country)
+    about: Use ISO 3166 data elements and interchange formats for the representation
+      country codes. The purpose of ISO 3166 is to define internationally recognized
+      codes of letters and/or numbers that we can use when we refer to countries and
+      subdivisions. However, it does not define the names of countries .
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "10"
+    organizations: []
+    apis: []
+    links:
+    - name: ISO Reference
+      url: http://www.iso.org/iso/country_codes
+      text: The International Standards Organization (ISO) reference for ISO 3166.
+    - name: Wikipedia Entry
+      url: https://en.wikipedia.org/wiki/ISO_3166
+      text: The Wikipedia reference for ISO 3166.
+    tools: []
+  - building_block_id: "1174"
+    building_block_category_id: "192"
+    name: RDFa
+    about: Consider using RDFa for adding rich meta data to HTML representations.
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "11"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1946"
+    building_block_category_id: "192"
+    name: RFC 7807
+    about: This document defines a problem detail as a way to carry machine-readable
+      details of errors in a HTTP response to avoid the need to define new error response
+      formats for HTTP APIs.
+    category_id: "192"
+    category: Open Standards
+    category_about: There are a number of existing open standards that should be considered
+      as part of the API design process. Designers and architects should resist reinventing
+      the wheel when it comes to many of the aspects of API design, as things have
+      already been done. These are just a handful of the open standards that are used
+      by other companies in their API design.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "14"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Resources
+  building_blocks:
+  - building_block_id: "2144"
+    building_block_category_id: "402"
+    name: Update resource
+    about: How to update a resource
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2146"
+    building_block_category_id: "402"
+    name: Track change
+    about: How to track change on resources
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2147"
+    building_block_category_id: "402"
+    name: Batch Bulk
+    about: How to handle batch/bulk processing/creation/update/... (e.g. handle multiple
+      resources at conce)
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2148"
+    building_block_category_id: "402"
+    name: Update resource partially
+    about: How to udate partially a resource
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2149"
+    building_block_category_id: "402"
+    name: Delete resource
+    about: How to delete resources
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2201"
+    building_block_category_id: "402"
+    name: Retrieve resource
+    about: How to retrieve a resource
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "6"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2205"
+    building_block_category_id: "402"
+    name: ID with semantic
+    about: Using meaningful ids (like `me`)
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2207"
+    building_block_category_id: "402"
+    name: Replace resource
+    about: How to replace (or update fully) a resource
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2209"
+    building_block_category_id: "402"
+    name: Resource
+    about: General informations about resources
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "9"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2211"
+    building_block_category_id: "402"
+    name: URL format
+    about: How to design URLs
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "10"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2212"
+    building_block_category_id: "402"
+    name: Create resource
+    about: How to create resources
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "11"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2198"
+    building_block_category_id: "402"
+    name: Resource's state
+    about: How to change a resources state/status (like processed/sent/paid/...)
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "12"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2188"
+    building_block_category_id: "402"
+    name: Resource ID
+    about: What is a resource ID and/or how its built
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "13"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2177"
+    building_block_category_id: "402"
+    name: Action resource
+    about: How to use action resource (e.g. resources like /cancel or /approve)
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "14"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2165"
+    building_block_category_id: "402"
+    name: Create resource with a specific ID
+    about: How to create resource with a provided id
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "15"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2160"
+    building_block_category_id: "402"
+    name: Relationships
+    about: How to define and use relations between resources
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "16"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2152"
+    building_block_category_id: "402"
+    name: Retrieve resource partially
+    about: How to retrieve partially a resource
+    category_id: "402"
+    category: Resources
+    category_about: ~
+    category_image: ~
+    category_hex: ~
+    image: ""
+    image_width: "100"
+    sort_order: "17"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Design Process
+  building_blocks:
+  - building_block_id: "1176"
+    building_block_category_id: "193"
+    name: Definitions
+    about: Usage of common API definition formats like Swagger, API Blueprint, RAML,
+      and others for describing and defining APIs.
+    category_id: "193"
+    category: Design Process
+    category_about: Beyond request and response design concepts that go directly into
+      the overall design of the API, there are many other elements that go into the
+      overall design process to consider.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1177"
+    building_block_category_id: "193"
+    name: Editor
+    about: An IDE for editing API definitions, as well as possible GUI interface for
+      editing all of API details through desktop or web tooling.
+    category_id: "193"
+    category: Design Process
+    category_about: Beyond request and response design concepts that go directly into
+      the overall design of the API, there are many other elements that go into the
+      overall design process to consider.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1178"
+    building_block_category_id: "193"
+    name: Forkable
+    about: Allow an API definition to be forked, and built upon using a common API
+      definition format.
+    category_id: "193"
+    category: Design Process
+    category_about: Beyond request and response design concepts that go directly into
+      the overall design of the API, there are many other elements that go into the
+      overall design process to consider.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1179"
+    building_block_category_id: "193"
+    name: Sharing
+    about: Allow for API definitions to be shared amongst team members through links,
+      chat, email, and other channels.
+    category_id: "193"
+    category: Design Process
+    category_about: Beyond request and response design concepts that go directly into
+      the overall design of the API, there are many other elements that go into the
+      overall design process to consider.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1180"
+    building_block_category_id: "193"
+    name: Collaboration
+    about: Enable the collaboration between users, both technical, as well as business
+      stakeholders.
+    category_id: "193"
+    category: Design Process
+    category_about: Beyond request and response design concepts that go directly into
+      the overall design of the API, there are many other elements that go into the
+      overall design process to consider.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1181"
+    building_block_category_id: "193"
+    name: Annotation
+    about: Provide tooling for annotating API definitions that the design it represents,
+      leaving notes and comments at all layers.
+    category_id: "193"
+    category: Design Process
+    category_about: Beyond request and response design concepts that go directly into
+      the overall design of the API, there are many other elements that go into the
+      overall design process to consider.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "6"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1182"
+    building_block_category_id: "193"
+    name: Translation
+    about: Allowing for the translation of API designs between common API definition
+      formats, allowing users to speak in any format.
+    category_id: "193"
+    category: Design Process
+    category_about: Beyond request and response design concepts that go directly into
+      the overall design of the API, there are many other elements that go into the
+      overall design process to consider.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "7"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1183"
+    building_block_category_id: "193"
+    name: Highlighting
+    about: Enable highlighting of specific aspects of an API design to differentiate
+      it from other areas, and establishing common patterns.
+    category_id: "193"
+    category: Design Process
+    category_about: Beyond request and response design concepts that go directly into
+      the overall design of the API, there are many other elements that go into the
+      overall design process to consider.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Organization
+  building_blocks:
+  - building_block_id: "1185"
+    building_block_category_id: "194"
+    name: Guide
+    about: Pull together a common API design guide for use across an organization
+      and sharing with the public to demonstrate a standard approach is being used.
+    category_id: "194"
+    category: Organization
+    category_about: How is the API design process organized, centralized, or collaborated
+      around? What services, tools, processes, and concepts are in play when it comes
+      to the long term, as well as short term organization of the API design line
+      along the life cycle.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links:
+    - name: Heroku - API Design Guide
+      url: https://github.com/interagent/http-api-design
+      text: Heroku has provide their own set of what they call HTTP+JSON API design
+        practices, which I think describes what we do much better than just web API.
+        The guide is designed for internal and external usage, and looking to provide
+        some consistency in API design, that anyone can follow.
+    - name: Paypal API Design Standards
+      url: https://github.com/paypal/api-standards/blob/master/api-style-guide.md
+      text: Paypal has developed their own API design standards, providing a common
+        blueprint for their teams to follow, while also transparently sharing with
+        their API community, and the wider API industry to follow.
+    - name: White House Web API Standards
+      url: https://github.com/WhiteHouse/api-standards
+      text: This document provides guidelines and examples for White House Web APIs,
+        encouraging consistency, maintainability, and best practices across applications.
+        White House APIs aim to balance a truly RESTful API interface with a positive
+        developer experience (DX)
+    tools: []
+  - building_block_id: "1186"
+    building_block_category_id: "194"
+    name: Notebook
+    about: A notebook for storing of API definitions into a single, potentially shareable
+      location that can be used by an individual or group throughout the API lifecycle.
+    category_id: "194"
+    category: Organization
+    category_about: How is the API design process organized, centralized, or collaborated
+      around? What services, tools, processes, and concepts are in play when it comes
+      to the long term, as well as short term organization of the API design line
+      along the life cycle.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1187"
+    building_block_category_id: "194"
+    name: Collections
+    about: A folder or collection of API definitions mean to represent a single or
+      multiple API descriptions and definitions, for use throughout API lifecycle.
+    category_id: "194"
+    category: Organization
+    category_about: How is the API design process organized, centralized, or collaborated
+      around? What services, tools, processes, and concepts are in play when it comes
+      to the long term, as well as short term organization of the API design line
+      along the life cycle.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "3"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1188"
+    building_block_category_id: "194"
+    name: Dictionary
+    about: A common set of API values to help provide consistent naming and patterns
+      to be used at different layers of the API design process.
+    category_id: "194"
+    category: Organization
+    category_about: How is the API design process organized, centralized, or collaborated
+      around? What services, tools, processes, and concepts are in play when it comes
+      to the long term, as well as short term organization of the API design line
+      along the life cycle.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "4"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1189"
+    building_block_category_id: "194"
+    name: Contact
+    about: A common approach to defining and providing relevant contact information
+      for each API resource crafted.
+    category_id: "194"
+    category: Organization
+    category_about: How is the API design process organized, centralized, or collaborated
+      around? What services, tools, processes, and concepts are in play when it comes
+      to the long term, as well as short term organization of the API design line
+      along the life cycle.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "5"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Internationalization
+  building_blocks:
+  - building_block_id: "2073"
+    building_block_category_id: "238"
+    name: Language
+    about: Which language(s) use when designing an API
+    category_id: "238"
+    category: Internationalization
+    category_about: What international considers come into play as part of the API
+      design process? This will not impact all companies and organizations, but remember
+      you are operating your APIs on the World Wide Web, and you may not be considering
+      all of the potential consumers who are using your APIs, or would be, if you
+      took some more steps to internationalize.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "1"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "1460"
+    building_block_category_id: "238"
+    name: Accept-Language
+    about: "Set the language the API should be speaking using\_Accept-Language."
+    category_id: "238"
+    category: Internationalization
+    category_about: What international considers come into play as part of the API
+      design process? This will not impact all companies and organizations, but remember
+      you are operating your APIs on the World Wide Web, and you may not be considering
+      all of the potential consumers who are using your APIs, or would be, if you
+      took some more steps to internationalize.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "2"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+- category_name: Miscellaneous
+  building_blocks: []
+- category_name: Other
+  building_blocks:
+  - building_block_id: "2077"
+    building_block_category_id: "74"
+    name: Governance
+    about: How to ensure API governance (advertise, consistency, ...)
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "8"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2195"
+    building_block_category_id: "74"
+    name: Retrieve a collection
+    about: How to get a collection or resources
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "9"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2208"
+    building_block_category_id: "74"
+    name: Asynchronicity
+    about: How to handle long operations
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "10"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2064"
+    building_block_category_id: "74"
+    name: Dereference Relationships
+    about: How to load a resource and its linked resources in one call
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "11"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "580"
+    building_block_category_id: "74"
+    name: Translator
+    about: ' Tools for translating between various API definitions, allowing the transformation
+      from RAML to Swagger, and between each API definition format.'
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-translation.png
+    image_width: "0"
+    sort_order: "20"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "578"
+    building_block_category_id: "74"
+    name: Command Line
+    about: Command line tooling for use as part of the API design process, allowing
+      developers to use single commands at the prompt.
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+    image_width: "0"
+    sort_order: "21"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "577"
+    building_block_category_id: "74"
+    name: Github Sync
+    about: The ability to store and sync API definitions with Github, providing a
+      central public or private repository for the definition of an API resource.
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-github.jpg
+    image_width: "0"
+    sort_order: "22"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "574"
+    building_block_category_id: "74"
+    name: Validator
+    about: Tools for validating API calls, enabling developers to determine which
+      types of calls will be valid, using central API definition and schema.
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-validation.png
+    image_width: "0"
+    sort_order: "23"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "2065"
+    building_block_category_id: "74"
+    name: API counts
+    about: How many endpoints/resources in an API?
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: ""
+    image_width: "100"
+    sort_order: "24"
+    organizations: []
+    apis: []
+    links: []
+    tools: []
+  - building_block_id: "562"
+    building_block_category_id: "74"
+    name: Parser
+    about: An API definition parser, available in multiple languages and open up the
+      programmatic generation of API definitions as localized object.
+    category_id: "74"
+    category: Other
+    category_about: What are some of the other nickel and dime items, as part of design
+      process that should be considered? This is my general catch-all bucket for the
+      API design line, where I put links to other lines, stops, and just loose items
+      that will affect API design, and should be thought about.
+    category_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-design.png
+    category_hex: '#0039A6'
+    image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-gears.png
+    image_width: "0"
+    sort_order: "25"
+    organizations: []
+    apis: []
+    links: []
+    tools: []

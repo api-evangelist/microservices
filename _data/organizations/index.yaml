@@ -1,226 +1,390 @@
-- slug: apache-avro
-  name: Apache Avro
-  description: >-
-    Apache Avro is a data serialization system. Avro relies on schemas. When
-    Avro data is read, the schema used when writing it is always present. This
-    permits each datum to be written with no per-value overheads, making
-    serialization both fast and small. This also facilitates use with dynamic,
-    scripting languages, since data, together with its schema, is fully
-    self-describing.
-  url: 'https://avro.apache.org/docs/current/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-avro.png
-  tags: Definitions
-- slug: api-blueprint
-  name: API Blueprint
-  description: >-
-    API Blueprint is a documentation-oriented API description language. A couple
-    of semantic assumptions over the plain Markdown. API Blueprint is perfect
-    for designing your Web API and its comprehensive documentation but also for
-    quick prototyping and collaboration. It is easy to learn and even easier to
-    read &ndash; after all it is just a form of plain text.
-  url: 'https://apiblueprint.org/'
-  short_url: ''
-  twitter: 'https://twitter.com/apiblueprint'
-  blog: ''
-  blog_rss: ''
-  github: 'https://github.com/apiaryio/api-blueprint'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiblueprint-logo-2.png
-  tags: Definitions
-- slug: api-transformer
-  name: API Transformer
-  description: >-
-    Transform API Descriptions from/to various formats e.g., Swagger, API
-    Blueprint, RAML, WADL, Google Discovery, I/O Docs. Please contact us for
-    production and high volume usage.
-  url: 'https://apitransformer.com/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-transformer-screenshot.png
-  tags: 'Definitions,Conversion,My API Stack'
-- slug: elastic-path
-  name: Elastic Path
-  description: >-
-    Elastic Path builds commerce software that powers the next generation of
-    digital experiences, helping businesses generate more revenue from their
-    goods, services, and content. Our products, including Commerce Engine,
-    Cortex, and Subscriptions, enable companies to unite discovery, buying, and
-    consumption into outstanding customer experiences that drive more engagement
-    and conversion.
-  url: 'http://www.elasticpath.com'
-  short_url: ''
-  twitter: 'https://twitter.com/elasticpath'
-  blog: ''
-  blog_rss: ''
-  github: 'https://github.com/elasticpath'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/elastic-path.jpeg
-  tags: 'Enterprise,Retail,Commerce,Hypermedia,API LIfeycle,Definitions'
-- slug: frictionless-data
-  name: Frictionless Data
-  description: >-
-    Data Packages are a lightweight containerization format for data. They
-    provide the foundation for frictionless data transport.&nbsp;Tools and
-    integrations to make it easy to integrate Data Packages into your data
-    processing and publishing workflows.&nbsp;Learn how to get started using and
-    developing with Data Packages through our guides, tutorials and
-    documentation.
-  url: 'http://specs.frictionlessdata.io/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: 'https://github.com/frictionlessdata'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frictionlessdata-logo.png
-  tags: 'Data,Schema,Definitions'
-- slug: postman
-  name: Postman
-  description: >-
-    Postman on Chrome is the most efficient way to test, develop and document
-    APIs. Create complex requests, go back in time and view results in a
-    beautiful way. Postman has more than 80 features to help you at every
-    step.&nbsp;Our user base is growing rapidly and with more tools in the
-    pipeline, Postman aims to provide the most comprehensive API development and
-    testing solution to developers.
-  url: 'http://www.getpostman.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/postmanclient'
-  blog: 'http://blog.getpostman.com/'
-  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
-  github: 'https://github.com/postmanlabs'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
-  tags: 'Clients, Testing, Definitions'
-- slug: google-api-discovery-service
-  name: Google API Discovery Service
-  description: >-
-    You can use the Google API Discovery Service to build client libraries, IDE
-    plugins, and other tools that interact with Google APIs. It provides a
-    lightweight, JSON-based API that exposes machine-readable metadata about
-    Google APIs.
-  url: 'https://developers.google.com/discovery/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-03-16 at 9.06.47 PM.png
-  tags: 'Discovery,Google APIs,Definitions'
-- slug: odata.org
-  name: OData
-  description: >-
-    OData (Open Data Protocol) is an OASIS standard that defines the best
-    practice for building and consuming RESTful APIs. OData helps you focus on
-    your business logic while building RESTful APIs without having to worry
-    about the approaches to define request and response headers, status codes,
-    HTTP methods, URL conventions, media types, payload formats and query
-    options etc.
-  url: 'http://www.odata.org/'
-  short_url: 'http://apis.how/byirz5zgt7'
-  twitter: 'https://twitter.com/odataorg'
-  blog: 'http://www.odata.org/blog/'
-  blog_rss: ''
-  github: 'https://github.com/odata'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/odata-logo.png
-  tags: Definitions
-- slug: openapi-spec
-  name: OpenAPIs
-  description: >-
-    The Open API Initiative (OAI) was created by a consortium of forward-looking
-    industry experts who recognize the immense value of standardizing on how
-    REST APIs are described. As an open governance structure under the Linux
-    Foundation, the OAI is focused on creating, evolving and promoting a vendor
-    neutral description format. SmartBear Software is donating the Swagger
-    Specification directly to the OAI as the basis of this Open Specification.
-    &nbsp;
-  url: 'https://openapis.org/'
-  short_url: ''
-  twitter: 'https://twitter.com/openapispec'
-  blog: 'https://openapis.org/news-faq/blog'
-  blog_rss: 'https://www.openapis.org/feed'
-  github: 'https://github.com/OAI'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oai-logo.png
-  tags: Definitions
-- slug: raml
-  name: RAML
-  description: >-
-    RESTful API Modeling Language (RAML) is a simple and succinct way of
-    describing practically-RESTful APIs. It encourages reuse, enables discovery
-    and pattern-sharing, and aims for merit-based emergence of best practices.
-    The goal is to help our current API ecosystem by solving immediate problems
-    and then encourage ever-better API patterns. RAML is built on broadly-used
-    standards such as YAML and JSON and is a non-proprietary, vendor-neutral
-    open spec.
-  url: 'http://raml.org/'
-  short_url: ''
-  twitter: ''
-  blog: 'http://open-raml.blogspot.com/'
-  blog_rss: 'http://open-raml.blogspot.com/feeds/posts/default?alt=rss'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/raml-logo.jpg
-  tags: Definitions
-- slug: ''
-  name: RESTdesc
-  description: >-
-    Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture
-    the functionality of hypermedia APIs, so automated agents can use them.
-    Despite their powerful capabilities, RESTdesc descriptions are easy to
-    master. Description is not a goal in itself: you want your API to be used.
-    See how RESTdesc opens up your API for discovery, based on its functional
-    characteristics.
-  url: 'http://restdesc.org/'
-  short_url: 'http://apis.how/vymksgxgfl'
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restdesc-logo.png
-  tags: Definitions
-- slug: schema.org
-  name: Schema.org
-  description: >-
-    Schema.org is a collaborative, community activity with a mission to create,
-    maintain, and promote schemas for structured data on the Internet, on web
-    pages, in email messages, and beyond. Schema.org vocabulary can be used with
-    many different encodings, including RDFa, Microdata and JSON-LD.&nbsp;
-  url: 'http://schema.org'
-  short_url: ''
-  twitter: ''
-  blog: 'http://blog.schema.org/'
-  blog_rss: 'http://blog.schema.org/feeds/posts/default?alt=rss'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/schema-org-logo.jpeg
-  tags: 'Definitions, Schema'
-- slug: u.s.-data-federation
-  name: U.S. Data Federation
-  description: >-
-    The U.S. Data Federation supports data interoperability and harmonization
-    across Federal, state, and local government agencies by highlighting common
-    data formats, API specifications, and metadata vocabularies.
-  url: 'http://federation.data.gov/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usdf-logo.png
-  tags: 'Federal Government,Definitions'
+- id: "22949"
+  name: API Stylebook
+  summary: A Github hosted, aggregate set of API design topics. The API Stylebook
+    has brought together the API design style guides of leading API providers and
+    merged them into a single source of API design principles. It is hosted on Github,
+    with the data behind available as YAML, making it easily forkable, and replicable
+    for any API provider looking to establish their own API design guide.
+  details: A Github hosted, aggregate set of API design topics. The API Stylebook
+    has brought together the API design style guides of leading API providers and
+    merged them into a single source of API design principles. It is hosted on Github,
+    with the data behind available as YAML, making it easily forkable, and replicable
+    for any API provider looking to establish their own API design guide.
+  website: http://apistylebook.com/
+  twitter: https://twitter.com/apistylebook
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22949-api-stylebook.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22949-api-stylebook.jpg
+  tags: API Tool,Design,Guides,Profiles,Stack Network
+  apis: []
+- id: "19"
+  name: Apiary
+  summary: Apiary jump-started the modern API design movement, by making API definitions
+    more than just about API documentation, allowing API designers to define APIs
+    in the machine readable API definition format API blueprint, then mock, share,
+    and publish documentation via a cloud platform.
+  details: Apiary jump-started the modern API design movement, by making API definitions
+    more than just about API documentation, allowing API designers to define APIs
+    in the machine readable API definition format API blueprint, then mock, share,
+    and publish documentation via a cloud platform.
+  website: https://apiary.io
+  twitter: https://twitter.com/apiaryio
+  github: https://github.com/apiaryio
+  blog: http://blog.apiary.io/
+  blogrss: http://blog.apiary.io/feed.xml
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19-apiary.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/19-apiary.jpg
+  tags: API LIfeyclessss,API Service Provider,Design,Documentation,Enterprise,internet,Profiles,SaaS,Stack
+    Network,Studio,Technology,Virtualizations,Virtualizations
+  apis: []
+- id: "18757"
+  name: Apigee API Studio
+  summary: Apigee launched their API Studio out of their earlier Apigee-127 product,
+    their work on the Swagger platform and editor, and their BaaS offering, opening
+    up the ability for developers to design, mock, test and share via the online platform.
+    While Apigee Studio is part of the larger Apigee line of products, it is a separate
+    standalone, open source based studio.
+  details: Apigee launched their API Studio out of their earlier Apigee-127 product,
+    their work on the Swagger platform and editor, and their BaaS offering, opening
+    up the ability for developers to design, mock, test and share via the online platform.
+    While Apigee Studio is part of the larger Apigee line of products, it is a separate
+    standalone, open source based studio.
+  website: http://apistudio.io/
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
+  logo_width: "225"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
+  tags: API Service Provider,Clients,Design,Profiles,Stack Network,Studio,Testing,Virtualizations
+  apis: []
+- id: "2939"
+  name: APIMATIC
+  summary: When you use APIMATIC to manage SDKs, they provide you with an editor for
+    adding, editing, and deleting the details of each API. When you bundles this with
+    their multi-format API definition format import and export, the platform quickly
+    becomes an API design tool as well as a platform for generating your SDKs.
+  details: When you use APIMATIC to manage SDKs, they provide you with an editor for
+    adding, editing, and deleting the details of each API. When you bundles this with
+    their multi-format API definition format import and export, the platform quickly
+    becomes an API design tool as well as a platform for generating your SDKs.
+  website: https://www.apimatic.io/
+  twitter: https://twitter.com/apimatic
+  github: https://github.com/apimatic
+  blog: https://apimatic.io/blog
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2939-apimatic.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2939-apimatic.jpg
+  tags: API Service Provider,Design,interesting,My API Stack,Profiles,SaaS,SDK,Service
+    API,Stack Network,Technology
+  apis: []
+- id: "22953"
+  name: Apimint
+  summary: APIMINT is an API lifecycle management tool. With our design first approach,
+    all stake holders get a platform to collaborate and give feedback on API design
+    and structure. We make sure your all your teams can easily agree and understand
+    your APIs.
+  details: APIMINT is an API lifecycle management tool. With our design first approach,
+    all stake holders get a platform to collaborate and give feedback on API design
+    and structure. We make sure your all your teams can easily agree and understand
+    your APIs.
+  website: https://www.apimint.com
+  twitter: https://twitter.com/apimint_app
+  github: ""
+  blog: http://blog.mint.com/
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Apimint_-_Rapidly_Prototype_APIs.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Apimint_-_Rapidly_Prototype_APIs.png
+  tags: API Service Provider,Cloud,Deployments,Design,Profiles,Stack Network,Studio,Virtualizations
+  apis: []
+- id: "3765"
+  name: Bright Bright Great
+  summary: Web Design, Development, Brand Strategy
+  details: Web Design, Development, Brand Strategy
+  website: http://brightbrightgreat.com/
+  twitter: https://twitter.com/bbg
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3765-bright-bright-great.jpg
+  logo_width: "0"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/3765-bright-bright-great.jpg
+  tags: Agencies,Chicago,Design,Profiles,Technology
+  apis: []
+- id: "29356"
+  name: Code and Theory
+  summary: Code and Theory is a creative digital agency that designs products, content
+    and campaigns across platforms.
+  details: Code and Theory is a creative digital agency that designs products, content
+    and campaigns across platforms.
+  website: http://codeandtheory.com
+  twitter: https://twitter.com/codeandtheory
+  github: ~
+  blog: ~
+  blogrss: ~
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/29356-codeandtheory-com.jpg
+  logo_width: ~
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/29356-codeandtheory-com.jpg
+  tags: Design,New
+  apis: []
+- id: "29405"
+  name: Gamil Design
+  summary: Gamil Means Beautiful or Handsome. Our Design Mission.
+  details: Gamil Means Beautiful or Handsome. Our Design Mission.
+  website: http://gamil.com
+  twitter: ~
+  github: ~
+  blog: ~
+  blogrss: ~
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/29405-gamil-com.jpg
+  logo_width: ~
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/29405-gamil-com.jpg
+  tags: Design,E-commerce,New
+  apis: []
+- id: "18858"
+  name: Gelato.io
+  summary: Gelato.io is a tool focused on creating API Documentation and Developer
+    Portals. You can describe your API, import and sync with Swagger or API Blueprint,
+    have your developers register and get updates when things change, get an automatic
+    API Explorer.
+  details: Gelato.io is a tool focused on creating API Documentation and Developer
+    Portals. You can describe your API, import and sync with Swagger or API Blueprint,
+    have your developers register and get updates when things change, get an automatic
+    API Explorer.
+  website: https://gelato.io/
+  twitter: https://twitter.com/gelatodocs
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18858-gelato-io.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18858-gelato-io.jpg
+  tags: API Service Provider,Design,Documentation,interesting,Management,Portals,Profiles,SaaS,Stack
+    Network,Technology
+  apis: []
+- id: "23327"
+  name: gRPC
+  summary: gRPC is a modern open source high performance RPC framework that can run
+    in any environment. It can efficiently connect services in and across data centers
+    with pluggable support for load balancing, tracing, health checking and authentication.
+    It is also applicable in last mile of distributed computing to connect devices,
+    mobile applications and browsers to backend services.
+  details: gRPC is a modern open source high performance RPC framework that can run
+    in any environment. It can efficiently connect services in and across data centers
+    with pluggable support for load balancing, tracing, health checking and authentication.
+    It is also applicable in last mile of distributed computing to connect devices,
+    mobile applications and browsers to backend services.
+  website: http://www.grpc.io/
+  twitter: https://twitter.com/grpcio
+  github: https://github.com/grpc
+  blog: http://www.grpc.io/blog/
+  blogrss: http://www.grpc.io/feed.xml
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/grpc.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/grpc.png
+  tags: Design
+  apis: []
+- id: "9"
+  name: Kong
+  summary: Mashape provides an API editor, as part of their API management and discovery
+    platform, allowing API providers to add, edit, and manage the details of an API
+    design, while also managing the rest of API operations--from design to discovery
+    and integration. Mashape editor is just a piece of the overall Mashape suite of
+    API lifecycle management tooling.
+  details: Mashape provides an API editor, as part of their API management and discovery
+    platform, allowing API providers to add, edit, and manage the details of an API
+    design, while also managing the rest of API operations--from design to discovery
+    and integration. Mashape editor is just a piece of the overall Mashape suite of
+    API lifecycle management tooling.
+  website: http://mashape.com
+  twitter: https://twitter.com/mashape
+  github: https://github.com/Mashape
+  blog: http://blog.mashape.com/
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9-mashape.jpg
+  logo_width: "175"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/9-mashape.jpg
+  tags: API LIfeyclessss,API Management Other,Design,Discovery,Discovery,Enterprise,Management,SaaS,Stack
+    Network,Studio,Technology
+  apis: []
+- id: "22948"
+  name: Materia
+  summary: A modern development environment to build advanced mobile and web applications
+  details: A modern development environment to build advanced mobile and web applications
+  website: https://getmateria.com/
+  twitter: https://twitter.com/MateriaHQ
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22948-materia.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/22948-materia.jpg
+  tags: API Service Provider,Design,Desktop,Mobile,Profiles,SaaS,Stack Network,Technology
+  apis: []
+- id: "2245"
+  name: MuleSoft
+  summary: Mulesoft provides a cloud, and open source version of their API design
+    editor, enabling API designers to craft APIs using the RAML API definition format,
+    then publish to notebook, as well as manage through other aspects of the API lifecycle
+    with other Mulesoft systems.
+  details: Mulesoft provides a cloud, and open source version of their API design
+    editor, enabling API designers to craft APIs using the RAML API definition format,
+    then publish to notebook, as well as manage through other aspects of the API lifecycle
+    with other Mulesoft systems.
+  website: http://www.mulesoft.com/
+  twitter: https://twitter.com/MuleSoft
+  github: https://github.com/mulesoft
+  blog: http://blogs.mulesoft.org/
+  blogrss: http://feeds.feedburner.com/muleblog
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2245-mulesoft.jpg
+  logo_width: "225"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2245-mulesoft.jpg
+  tags: API Service Provider,Design,Design Editor,Enterprise,Management,Profiles,SaaS,Stack
+    Network,Studio,Technology
+  apis: []
+- id: "18942"
+  name: RepreZen API Studio
+  summary: 'RepreZens solution focuses specifically on the API design process in large
+    organizations and complex ecosystems. API management platforms address various
+    aspects of the downstream lifecycle: packaging, provisioning, metering, proxy,
+    and client portal. API Studio easily ties into API management platforms using
+    generated API description formats including WADL, Swagger, RAML and others.'
+  details: 'RepreZens solution focuses specifically on the API design process in large
+    organizations and complex ecosystems. API management platforms address various
+    aspects of the downstream lifecycle: packaging, provisioning, metering, proxy,
+    and client portal. API Studio easily ties into API management platforms using
+    generated API description formats including WADL, Swagger, RAML and others.'
+  website: http://www.reprezen.com/
+  twitter: https://twitter.com/reprezen_API
+  github: https://github.com/reprezen
+  blog: http://www.reprezen.com/blog
+  blogrss: http://www.reprezen.com/blog/rss.xml
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18942-reprezen-api-studio.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18942-reprezen-api-studio.jpg
+  tags: Clients,Design,SaaS,Stack Network,Studio,Technology
+  apis: []
+- id: "90"
+  name: Restlet
+  summary: 'The Restlet API Platform enables developers and non-developers to design,
+    create, run and manage the APIs that provide access to any data or application.
+    Restlet Framework is the most widely used open source solution for Java developers
+    who want to create and use APIs. The first Platform-as-a-Service dedicated to
+    web APIs, APISpark enables any organization to become an API provider in minutes
+    via '
+  details: The Restlet API Platform enables developers and non-developers to design,
+    create, run and manage the APIs that provide access to any data or application.
+    Restlet Framework is the most widely used open source solution for Java developers
+    who want to create and use APIs. The first Platform-as-a-Service dedicated to
+    web APIs, APISpark enables any organization to become an API provider in minutes
+    via an intuitive browser interface.
+  website: https://restlet.com/
+  twitter: https://twitter.com/restlet
+  github: https://github.com/restlet
+  blog: http://restlet.com/blog
+  blogrss: http://restlet.com/blog/feed/
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/90-restlet.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/90-restlet.jpg
+  tags: Cloud,Deployments,Design,Enterprise,Management,SaaS,Spreadsheets,Stack Network,Studio,Technology
+  apis: []
+- id: "27928"
+  name: Speca.io
+  summary: Speca - simple and powerful web API design and documentation platform.
+    Create, edit, test and share rich and beautiful API documentation.
+  details: Speca - simple and powerful web API design and documentation platform.
+    Create, edit, test and share rich and beautiful API documentation.
+  website: https://speca.io
+  twitter: https://twitter.com/specaio
+  github: ~
+  blog: ~
+  blogrss: ~
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27928-speca-io.jpg
+  logo_width: ~
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/27928-speca-io.jpg
+  tags: Design,Enterprise,SaaS,Technology
+  apis: []
+- id: "28820"
+  name: Speccy
+  summary: A handy toolkit for OpenAPI, with a linter to enforce quality rules, documentation
+    rendering, and resolution.
+  details: A handy toolkit for OpenAPI, with a linter to enforce quality rules, documentation
+    rendering, and resolution.
+  website: http://speccy.io
+  twitter: ~
+  github: ~
+  blog: ~
+  blogrss: ~
+  logo: ~
+  logo_width: ~
+  screenshot: ~
+  tags: Design,Validations
+  apis: []
+- id: "2951"
+  name: StopLight
+  summary: 'StopLight, providing engineering teams with the best way to document,
+    test, and build web APIs.  '
+  details: 'StopLight, providing engineering teams with the best way to document,
+    test, and build web APIs.  '
+  website: http://stoplight.io/
+  twitter: https://twitter.com/stoplightio
+  github: https://github.com/stoplightio
+  blog: http://blog.stoplight.io/
+  blogrss: http://blog.stoplight.io/rss/
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2951-stoplight.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2951-stoplight.jpg
+  tags: API LIfeyclessss,Clients,Design,Proxy,SaaS,SDIO Partner,Studio,Technology,Testing
+  apis: []
+- id: "23317"
+  name: Web Concepts
+  summary: The Webs Uniform Interface is based on a large and growing set of specifications.
+    These specifications establish the shared concepts that providers and consumers
+    of Web services can rely on. Web Concepts is providing an overview of these concepts
+    and of the specifications defining them. One example for how this works is the
+    Hypertext Markup Language (HTML), which defines the media type text/html a
+  details: The Webs Uniform Interface is based on a large and growing set of specifications.
+    These specifications establish the shared concepts that providers and consumers
+    of Web services can rely on. Web Concepts is providing an overview of these concepts
+    and of the specifications defining them. One example for how this works is the
+    Hypertext Markup Language (HTML), which defines the media type text/html and a
+    set of link relation types such as alternate and section. Web Concepts provides
+    a structured, quick, and interlinked overview of these and many more concepts
+    that together establish the Web surface.
+  website: http://webconcepts.info/
+  twitter: ""
+  github: ""
+  blog: ""
+  blogrss: ""
+  logo: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/web-concepts-logo.png
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/web-concepts-logo.png
+  tags: Design,Guides
+  apis: []
+- id: "794"
+  name: Zurb
+  summary: ZURB, creating unique customer and user experiences. We are brand engineers
+    that provide companies with strategic marketing, design and branding solutions.
+    Work includes identity, branding, information design, web design, illustration,
+    software design,...
+  details: ZURB, creating unique customer and user experiences. We are brand engineers
+    that provide companies with strategic marketing, design and branding solutions.
+    Work includes identity, branding, information design, web design, illustration,
+    software design,...
+  website: http://zurb.com/
+  twitter: https://twitter.com/ZURB
+  github: ""
+  blog: http://zurb.com/blog/
+  blogrss: http://zurb.com/blog/rss
+  logo: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/794-zurb.jpg
+  logo_width: "150"
+  screenshot: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/794-zurb.jpg
+  tags: Coding,Design,Graphic Design,Programming,Social,Webdesign
+  apis: []

@@ -10,29 +10,27 @@ title: API Evangelist - Design
 		<header>
 			<h2>{{ home_content.title }}</h2>
 		</header>
-		<img src="{{ home_content.image }}" alt="" width="45%" align="right" />
+		<img src="{{ home_content.image }}" alt="API Evangelist" align="right" width="250" style="padding: 15px;" />
 		{{ home_content.content }}
 	</div>
 </section>
 
 <!-- Partners -->
-<a name="Partners"></a>
 <section>
 	<div class="features">
-		{% assign partners = site.data.partners.index | sort: 'view_sort' %}
-    {% for partner in partners %}
-      {% if partner.type == 'Sponsor' %}
-			<article>
-				<p><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="75%" style="padding: 15px;" align="center" /></a></p>
-				<div class="content">
-					<h3><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></h3>
-					<p>{{ partner.description }}</p>
-				</div>
-			</article>
-      {% endif %}
-    {% endfor %}
+	  {% assign partners = site.data.partners.index | sort: 'view_sort' %}
+	  {% for partner in partners %}
+	    {% if partner.type == 'Sponsor' %}
+	    <article>
+	      <div class="content">
+	        <p align="center"><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="75%" style="padding: 15px; border: 1px solid #000;" /></a></p>
+	      </div>
+	    </article>
+	    {% endif %}
+	  {% endfor %}
 	</div>
 </section>
+
 <!-- Blog Feature -->
 <a name="BlogFeature"></a>
 {% for post in site.posts limit:1 %}
@@ -102,12 +100,12 @@ title: API Evangelist - Design
 		{% assign organizations = site.data.organizations.index %}
     {% for organization in organizations %}
 			<article>
-				<p><a href="{{ organization.url }}" target="_blank"><img style="padding: 15px; vertical-align: top;" src="{{ organization.image }}" width="175" align="center" /></a></p>
+				<p><a href="{{ organization.website }}" target="_blank"><img style="padding: 15px; vertical-align: top;" src="{{ organization.logo }}" width="175" align="center" /></a></p>
 				<div class="content">
-					<h3><a href="{{ organization.url }}" target="_blank">{{ organization.name }}</a></h3>
-					<p>{{ organization.description }}</p>
+					<h3><a href="{{ organization.website }}" target="_blank">{{ organization.name }}</a></h3>
+					<p>{{ organization.summary }}</p>
 					<ul class="icons">
-						<li><a href="{{ organization.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
+						<li><a href="{{ organization.website }}" class="icon fa-home"><span class="label">Home</span></a></li>
 						{% if organization.twitter != '' %}
 						<li><a href="{{ organization.twitter}}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 						{% endif %}
@@ -135,7 +133,7 @@ title: API Evangelist - Design
 
 <!-- Tools -->
 <a name="Tools"></a>
-{% assign approved_tags = 'Microservices' %}
+{% assign approved_tags = 'API Specification,Generator,Validator,API Design Guide,Data Specification,Design Editor,Design Notebook,Hypermedia,IDE,Semantics,gRPC' %}
 {% assign tool_content = site.data.tool_content.index[0] %}
 <section>
 	<header>
@@ -144,20 +142,14 @@ title: API Evangelist - Design
 	</header>
 		{% assign tools = site.data.tools.index %}
 		{% assign tagslist = '' %}
-
 		{% for tool in tools %}
-			{% assign tags = tool.tags %}
-			{% assign tagArray = tags | split: "," %}
-			{% for tag in tagArray %}
-				{% assign tag = tag | strip %}
-				{% if approved_tags contains tag %}
-					{% if tagslist contains tag %}
-					{% else %}
-						{% if tagslist != '' %}
-							{% assign tagslist = tagslist | append:',' %}
-						{% endif %}
-						{% assign tagslist = tagslist | append: tag %}
+			{% for tag in tool.tags %}
+				{% if tagslist contains tag %}
+				{% else %}
+					{% if tagslist != '' %}
+						{% assign tagslist = tagslist | append:',' %}
 					{% endif %}
+					{% assign tagslist = tagslist | append: tag %}
 				{% endif %}
 			{% endfor %}
 		{% endfor %}
@@ -166,15 +158,16 @@ title: API Evangelist - Design
 		{% assign tagArray = tagArray | sort: %}
 
 		{% for tag in tagArray %}
+			{% assign tag = tag | replace: '"','' | replace: '[','' | replace: ']','' %}
 			<h3>{{ tag }}</h3>
 			<div class="features">
 				{% for tool in tools %}
 					{% if tool.tags contains tag %}
 		        <article>
-		          <p><a href="{{ tool.url }}" target="_blank"><img src="{{ tool.image }}" width="150" style="padding: 15px;" align="center" valign="top" /></a></p>
+		          <p><a href="{{ tool.url }}" target="_blank"><img src="{{ tool.logo }}" width="150" style="padding: 15px;" align="center" valign="top" /></a></p>
 		          <div class="content">
 		            <h3><a href="{{ tool.url }}" target="_blank">{{ tool.name }}</a></h3>
-		            <p>{{ tool.description }}</p>
+		            <p>{{ tool.details }}</p>
 								<ul class="icons">
 									<li><a href="{{ tool.url}}" class="icon fa-home"><span class="label">Home</span></a></li>
 									{% if tool.twitter != '' %}
@@ -202,6 +195,39 @@ title: API Evangelist - Design
 		<p>{{ tool_content.footer }}</p>
 </section>
 
+<!-- Building Blocks -->
+<a name="BuildingBlocks"></a>
+{% assign building_block_content = site.data.building_block_content.index[0] %}
+{% assign building_blocks = site.data.building_blocks.index %}
+<section id="banner">
+	<div class="content">
+		<header>
+			<h2>{{ building_block_content.title }}</h2>
+			<p>{{ building_block_content.header }}</p>
+		</header>
+		<ul style="padding: 0px 25px 0px 25px;">
+			{% for category in building_blocks %}
+				<li>
+					<span style="font-size: 18px; font-weight: bold;">{{ category.category_name }}</span>
+					<ul style="margin-top: 10px;">
+						{% for block in category.building_blocks %}
+							{% if block.category == category.category_name %}
+							<li><strong>{{ block.name }}</strong> - {{ block.about }}</li>
+							{% endif %}
+						{% endfor %}
+					</ul>
+				</li>
+			{% endfor %}
+		</ul>
+		<p>{{ building_block_content.footer }}</p>
+		<center>
+			<ul class="actions" style="text-align: center;">
+				<li><a href="/building-blocks/" class="button big">See The Building Blocks</a></li>
+			</ul>
+		</center>
+	</div>
+</section>
+
 <!-- About This Research -->
 {% assign about_content = site.data.home_content.index[1] %}
 <a name="About"></a>
@@ -213,6 +239,22 @@ title: API Evangelist - Design
 		{{ about_content.content }}
 	</div>
 	<span class="image object">
-		<img src="{{ about_content.image }}" alt="" width="25%" />
+		<img src="{{ about_content.image }}" alt="" width="5%" style="padding: 15px;" />
 	</span>
+</section>
+
+<!-- Partners -->
+<section>
+	<div class="features">
+	  {% assign partners = site.data.partners.index | sort: 'view_sort' %}
+	  {% for partner in partners %}
+	    {% if partner.type == 'Sponsor' %}
+	    <article>
+	      <div class="content">
+	        <p align="center"><a href="{{ partner.url }}" target="_blank"><img src="{{ partner.image }}" width="75%" style="padding: 15px; border: 1px solid #000;" /></a></p>
+	      </div>
+	    </article>
+	    {% endif %}
+	  {% endfor %}
+	</div>
 </section>

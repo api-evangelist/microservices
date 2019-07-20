@@ -1,8 +1,8 @@
-- title: API Definitions News
+- title: Microservices News
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png'
   header: >-
     These are the news items I've curated in my monitoring of the API space that
-    have some relevance to the API definition conversation and I wanted to
+    have some relevance to the microservices conversation and I wanted to
     include in my research. I'm using all of these links to better understand
     how the space is defining not just their APIs, but their schema, and other
     moving parts of their API operations.

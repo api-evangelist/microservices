@@ -1,9 +1,9 @@
-- title: API Definitions Blog
+- title: Microservices
   image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png'
   header: >-
     These are the blog posts I've writen on API Evangelist that I've tagged as
-    "definitions". Usually because they have some elements that speaks to why or
-    how we should be defining our API operations.
+    "microservices". Usually because they have some elements that speaks to why or
+    how we should be considering different patterns when it comes to designing our APIs
   footer: >-
     If you have a story you think I should telling about I recommend you write
     up the thought on your own blog and share a link with me, or feel free to
