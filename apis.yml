@@ -7,11 +7,11 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Microservices
   - Distributed Systems
   - Event-Driven
-  - Service Discovery
+  - Microservices
   - Resilience
+  - Service Discovery
 url: >-
   https://raw.githubusercontent.com/api-evangelist/microservices/refs/heads/main/apis.yml
 created: '2026-03-26'
