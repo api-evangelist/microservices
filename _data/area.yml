@@ -1,0 +1,255 @@
+meta:
+  name: Microservices
+  description: An index of microservices architecture frameworks, service discovery,
+    resilience, messaging, workflow orchestration, and distributed systems tooling
+    repositories.
+  tags:
+  - Distributed Systems
+  - Event-Driven
+  - Microservices
+  - Resilience
+  - Service Discovery
+  portal: null
+  github: null
+  repo: microservices
+services_tools:
+- name: Akka
+  repo: https://github.com/api-evangelist/akka
+  apisio: https://providers.apis.io/providers/akka/
+- name: Alibaba Sentinel
+  repo: https://github.com/api-evangelist/alibaba-sentinel
+  apisio: https://providers.apis.io/providers/alibaba-sentinel/
+- name: Amazon SNS
+  repo: https://github.com/api-evangelist/amazon-sns
+  apisio: https://providers.apis.io/providers/amazon-sns/
+- name: Amazon SQS
+  repo: https://github.com/api-evangelist/amazon-sqs
+  apisio: https://providers.apis.io/providers/amazon-sqs/
+- name: Apache Avro
+  repo: https://github.com/api-evangelist/avro
+  apisio: https://providers.apis.io/providers/avro/
+- name: Apache EventMesh
+  repo: https://github.com/api-evangelist/apache-event-mesh
+  apisio: https://providers.apis.io/providers/apache-event-mesh/
+- name: Apache Kafka
+  repo: https://github.com/api-evangelist/apache-kafka
+  apisio: https://providers.apis.io/providers/apache-kafka/
+- name: Apache Pulsar
+  repo: https://github.com/api-evangelist/apache-pulsar
+  apisio: https://providers.apis.io/providers/apache-pulsar/
+- name: Apache Thrift
+  repo: https://github.com/api-evangelist/apache-thrift
+  apisio: https://providers.apis.io/providers/apache-thrift/
+- name: Apache ZooKeeper
+  repo: https://github.com/api-evangelist/apache-zookeeper
+  apisio: https://providers.apis.io/providers/apache-zookeeper/
+- name: Apollo Config
+  repo: https://github.com/api-evangelist/apollo-config
+  apisio: https://providers.apis.io/providers/apollo-config/
+- name: Apollo Federation
+  repo: https://github.com/api-evangelist/apollo-federation
+  apisio: https://providers.apis.io/providers/apollo-federation/
+- name: AWS App Runner
+  repo: https://github.com/api-evangelist/aws-app-runner
+  apisio: https://providers.apis.io/providers/aws-app-runner/
+- name: AWS X-Ray
+  repo: https://github.com/api-evangelist/aws-x-ray
+  apisio: https://providers.apis.io/providers/aws-x-ray/
+- name: Axon Framework
+  repo: https://github.com/api-evangelist/axon-framework
+  apisio: https://providers.apis.io/providers/axon-framework/
+- name: Azure Container Apps
+  repo: https://github.com/api-evangelist/azure-container-apps
+  apisio: https://providers.apis.io/providers/azure-container-apps/
+- name: Azure Service Bus
+  repo: https://github.com/api-evangelist/azure-service-bus
+  apisio: https://providers.apis.io/providers/azure-service-bus/
+- name: Ballerina
+  repo: https://github.com/api-evangelist/ballerina
+  apisio: https://providers.apis.io/providers/ballerina/
+- name: Cadence
+  repo: https://github.com/api-evangelist/cadence
+  apisio: https://providers.apis.io/providers/cadence/
+- name: Camunda
+  repo: https://github.com/api-evangelist/camunda
+  apisio: https://providers.apis.io/providers/camunda/
+- name: CloudEvents
+  repo: https://github.com/api-evangelist/cloudevents
+  apisio: https://providers.apis.io/providers/cloudevents/
+- name: Conductor
+  repo: https://github.com/api-evangelist/conductor
+  apisio: https://providers.apis.io/providers/conductor/
+- name: Confluent Schema Registry
+  repo: https://github.com/api-evangelist/confluent-schema-registry
+  apisio: https://providers.apis.io/providers/confluent-schema-registry/
+- name: Consul
+  repo: https://github.com/api-evangelist/consul
+  apisio: https://providers.apis.io/providers/consul/
+- name: Dapr
+  repo: https://github.com/api-evangelist/dapr
+  apisio: https://providers.apis.io/providers/dapr/
+- name: Datadog APM
+  repo: https://github.com/api-evangelist/datadog-apm
+  apisio: https://providers.apis.io/providers/datadog-apm/
+- name: Debezium
+  repo: https://github.com/api-evangelist/debezium
+  apisio: https://providers.apis.io/providers/debezium/
+- name: Dropwizard
+  repo: https://github.com/api-evangelist/dropwizard
+  apisio: https://providers.apis.io/providers/dropwizard/
+- name: Encore
+  repo: https://github.com/api-evangelist/encore
+  apisio: https://providers.apis.io/providers/encore/
+- name: etcd
+  repo: https://github.com/api-evangelist/etcd
+  apisio: https://providers.apis.io/providers/etcd/
+- name: Eventuate
+  repo: https://github.com/api-evangelist/eventuate
+  apisio: https://providers.apis.io/providers/eventuate/
+- name: FastAPI
+  repo: https://github.com/api-evangelist/fastapi
+  apisio: https://providers.apis.io/providers/fastapi/
+- name: Fastify
+  repo: https://github.com/api-evangelist/fastify
+  apisio: https://providers.apis.io/providers/fastify/
+- name: Fiber
+  repo: https://github.com/api-evangelist/fiber
+  apisio: https://providers.apis.io/providers/fiber/
+- name: Flask
+  repo: https://github.com/api-evangelist/flask
+  apisio: https://providers.apis.io/providers/flask/
+- name: Go Kit
+  repo: https://github.com/api-evangelist/go-kit
+  apisio: https://providers.apis.io/providers/go-kit/
+- name: Gin
+  repo: https://github.com/api-evangelist/gin
+  apisio: https://providers.apis.io/providers/gin/
+- name: Go Micro
+  repo: https://github.com/api-evangelist/go-micro
+  apisio: https://providers.apis.io/providers/go-micro/
+- name: Google Pub/Sub
+  repo: https://github.com/api-evangelist/google-pub-sub
+  apisio: https://providers.apis.io/providers/google-pub-sub/
+- name: Grafana Tempo
+  repo: https://github.com/api-evangelist/grafana-tempo
+  apisio: https://providers.apis.io/providers/grafana-tempo/
+- name: GraphQL Mesh
+  repo: https://github.com/api-evangelist/graphql-mesh
+  apisio: https://providers.apis.io/providers/graphql-mesh/
+- name: gRPC
+  repo: https://github.com/api-evangelist/grpc
+  apisio: https://providers.apis.io/providers/grpc/
+- name: hapi
+  repo: https://github.com/api-evangelist/hapi
+  apisio: https://providers.apis.io/providers/hapi/
+- name: HashiCorp Vault
+  repo: https://github.com/api-evangelist/hashicorp-vault
+  apisio: https://providers.apis.io/providers/hashicorp-vault/
+- name: Helidon
+  repo: https://github.com/api-evangelist/helidon
+  apisio: https://providers.apis.io/providers/helidon/
+- name: Heroku
+  repo: https://github.com/api-evangelist/heroku
+  apisio: https://providers.apis.io/providers/heroku/
+- name: Jaeger
+  repo: https://github.com/api-evangelist/jaeger
+  apisio: https://providers.apis.io/providers/jaeger/
+- name: Kitex
+  repo: https://github.com/api-evangelist/kitex
+  apisio: https://providers.apis.io/providers/kitex/
+- name: Kratos
+  repo: https://github.com/api-evangelist/kratos
+  apisio: https://providers.apis.io/providers/kratos/
+- name: Lagom
+  repo: https://github.com/api-evangelist/lagom
+  apisio: https://providers.apis.io/providers/lagom/
+- name: LittleHorse
+  repo: https://github.com/api-evangelist/littlehorse
+  apisio: https://providers.apis.io/providers/littlehorse/
+- name: MassTransit
+  repo: https://github.com/api-evangelist/masstransit
+  apisio: https://providers.apis.io/providers/masstransit/
+- name: Micronaut
+  repo: https://github.com/api-evangelist/micronaut
+  apisio: https://providers.apis.io/providers/micronaut/
+- name: Moleculer
+  repo: https://github.com/api-evangelist/moleculer
+  apisio: https://providers.apis.io/providers/moleculer/
+- name: Nacos
+  repo: https://github.com/api-evangelist/nacos
+  apisio: https://providers.apis.io/providers/nacos/
+- name: Nameko
+  repo: https://github.com/api-evangelist/nameko
+  apisio: https://providers.apis.io/providers/nameko/
+- name: NATS
+  repo: https://github.com/api-evangelist/nats
+  apisio: https://providers.apis.io/providers/nats/
+- name: NestJS
+  repo: https://github.com/api-evangelist/nestjs
+  apisio: https://providers.apis.io/providers/nestjs/
+- name: Netflix Conductor
+  repo: https://github.com/api-evangelist/netflix-conductor
+  apisio: https://providers.apis.io/providers/netflix-conductor/
+- name: Netflix Eureka
+  repo: https://github.com/api-evangelist/netflix-eureka
+  apisio: https://providers.apis.io/providers/netflix-eureka/
+- name: Netflix Hystrix
+  repo: https://github.com/api-evangelist/netflix-hystrix
+  apisio: https://providers.apis.io/providers/netflix-hystrix/
+- name: OpenTelemetry
+  repo: https://github.com/api-evangelist/opentelemetry
+  apisio: https://providers.apis.io/providers/opentelemetry/
+- name: Orkes
+  repo: https://github.com/api-evangelist/orkes
+  apisio: https://providers.apis.io/providers/orkes/
+- name: Polly
+  repo: https://github.com/api-evangelist/polly
+  apisio: https://providers.apis.io/providers/polly/
+- name: Protocol Buffers
+  repo: https://github.com/api-evangelist/protocol-buffers
+  apisio: https://providers.apis.io/providers/protocol-buffers/
+- name: Quarkus
+  repo: https://github.com/api-evangelist/quarkus
+  apisio: https://providers.apis.io/providers/quarkus/
+- name: RabbitMQ
+  repo: https://github.com/api-evangelist/rabbitmq
+  apisio: https://providers.apis.io/providers/rabbitmq/
+- name: Redis Streams
+  repo: https://github.com/api-evangelist/redis-streams
+  apisio: https://providers.apis.io/providers/redis-streams/
+- name: Resilience4j
+  repo: https://github.com/api-evangelist/resilience4j
+  apisio: https://providers.apis.io/providers/resilience4j/
+- name: Restate
+  repo: https://github.com/api-evangelist/restate
+  apisio: https://providers.apis.io/providers/restate/
+- name: Seneca
+  repo: https://github.com/api-evangelist/seneca
+  apisio: https://providers.apis.io/providers/seneca/
+- name: Spring Boot
+  repo: https://github.com/api-evangelist/spring-boot
+  apisio: https://providers.apis.io/providers/spring-boot/
+- name: Spring Cloud
+  repo: https://github.com/api-evangelist/spring-cloud
+  apisio: https://providers.apis.io/providers/spring-cloud/
+- name: Spin
+  repo: https://github.com/api-evangelist/spin
+  apisio: https://providers.apis.io/providers/spin/
+- name: Spring Cloud Config
+  repo: https://github.com/api-evangelist/spring-cloud-config
+  apisio: https://providers.apis.io/providers/spring-cloud-config/
+- name: Temporal
+  repo: https://github.com/api-evangelist/temporal
+  apisio: https://providers.apis.io/providers/temporal/
+- name: Vert.x
+  repo: https://github.com/api-evangelist/vert-x
+  apisio: https://providers.apis.io/providers/vert-x/
+- name: Zeebe
+  repo: https://github.com/api-evangelist/zeebe
+  apisio: https://providers.apis.io/providers/zeebe/
+- name: Zipkin
+  repo: https://github.com/api-evangelist/zipkin
+  apisio: https://providers.apis.io/providers/zipkin/
+features: []
+use_cases: []
+integrations: []

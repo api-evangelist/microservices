@@ -1,0 +1,17 @@
+title: Microservices
+description: An index of microservices architecture frameworks, service discovery,
+  resilience, messaging, workflow orchestration, and distributed systems tooling repositories.
+url: https://microservices.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
