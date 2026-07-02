@@ -1,0 +1,30 @@
+related:
+- name: Service Mesh
+  url: https://service-mesh.apievangelist.com
+  icon: https://service-mesh.apievangelist.com/icon.png
+  description: Service mesh is a dedicated infrastructure layer for handling service-to-service communication
+    in microservices architectures. It provides traffic management, mutual TLS security,…
+- name: API Evangelist Discovery
+  url: https://discovery.apievangelist.com
+  icon: https://discovery.apievangelist.com/icon.png
+  description: Mapping the technical details of API operations to the human standard.
+- name: Virtualization
+  url: https://virtualization.apievangelist.com
+  icon: https://virtualization.apievangelist.com/icon.png
+  description: 'An index and topic collection covering virtualization across two intertwined domains:
+    machine virtualization (hypervisors, virtual machines, VDI, and cloud VM platforms) and…'
+- name: Webhooks
+  url: https://webhooks.apievangelist.com
+  icon: https://webhooks.apievangelist.com/icon.png
+  description: An index and topic collection covering webhook delivery, ingestion, transformation, retry,
+    and inspection APIs. Webhooks are the dominant HTTP pattern for asynchronous,…
+- name: SaaS Management
+  url: https://saas-management.apievangelist.com
+  icon: https://saas-management.apievangelist.com/icon.png
+  description: SaaS Management covers the tools, platforms, and practices used by organizations to discover,
+    manage, optimize, and secure their portfolio of SaaS applications. The global SaaS…
+- name: Browsers
+  url: https://browsers.apievangelist.com
+  icon: https://browsers.apievangelist.com/icon.png
+  description: An index and topic collection covering programmable browsers, headless browser engines,
+    and browser-automation APIs. The Browsers topic focuses on the browser execution surface —…
