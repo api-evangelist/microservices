@@ -3,7 +3,7 @@ title: 'SmartBear MCP for Zephyr: Connect your testing system of record to your 
   tools'
 link: https://smartbear.com/blog/smartbear-mcp-server-zephyr/
 published: '2026-08-17'
-provider: smartbear
-repo: https://github.com/api-evangelist/smartbear
+provider: reflect
+repo: https://github.com/api-evangelist/reflect
 domain: smartbear.com
 ---
