@@ -1,5 +1,6 @@
 aid: microservices
 name: Microservices
+kind: topic
 description: >-
   An index of microservices architecture frameworks, service discovery,
   resilience, messaging, workflow orchestration, and distributed systems
